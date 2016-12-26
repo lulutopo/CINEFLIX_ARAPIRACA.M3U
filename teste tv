@@ -1,0 +1,1477 @@
+#EXTM3U 
+
+#EXTINF:1 tvg-id=".Lei" tvg-logo="http://pastebin.com/cache/img/20/1/9/2364839.jpg" tvg-logo="http://goo.gl/3KjDmD" group-title="CRAZYS GAMES LISTA ",Lei
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+#EXTINF:1 tvg-id=".LEI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/2000px-F_icon.svg.png" group-title="CANAIS OFF AVISE AGORA", facebook.com/crazysgames
+http://198.16.68.162/frjho6i4leqwws4phw2tqpg67v4fvqjqpbe5ovcxslja4erfuhaco5k7waja/video.mp4?start=0
+#EXTINF:1 tvg-id=".LEI" tvg-logo="https://image.freepik.com/icones-gratis/relogio-de-24-horas_318-32741.png" group-title="CANAIS OFF AVISE AGORA", ATUALIZADO 26/12/2016 03:00h
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+#EXTINF:1 tvg-id=".LEI" tvg-logo="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" group-title="CURTA#COMPARTILHE#LIKE*LIKE",CURTA#COMPARTILHE#LIKE*LIKE
+http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
+
+***************************INFANTIL ********************************************
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/chaves.png" group-title="INFANTIL",CHAVES
+http://45.43.208.98:1935/deivison7510/deivison7510/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://portaldodog.com.br/cachorros/wp-content/uploads/2012/07/tv-para-caes-dog-tv.jpg" group-title="INFANTIL",DOG TV
+http://gochannelstv.dyndns.tv:80/p122dogtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnlatam/site/static/img/modulos/cnLogo/cnlogo_big.png?version=3.1.67.1" group-title="INFANTIL",Cartoon Network
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Panda_Biggs_logo.png/200px-Panda_Biggs_logo.png" group-title="INFANTIL", Biggs
+http://gochannelstv.dyndns.tv:80/p14biggs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/5c477541283873.Y3JvcCwzNTYwLDI3ODYsNjI0LDA.png" group-title="INFANTIL",TATETI
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_628_av-b.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKLHG2FNJ5bCWFDAXUAkzXtPy1vdKxMbkqS3lF2DC5p9EAtoB6" group-title="INFANTIL",JimJam
+http://gochannelstv.dyndns.tv:80/p49jimjam/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/DLfsv3SgYFX-9euIPaf_2cmRIsI=/300x300/top/smart/hagah/3/30/disney-junior-30e9880c.jpg" group-title="INFANTIL",Disney Junior
+http://gochannelstv.dyndns.tv:80/p29disneyjunior/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.lum.dolimg.com/v1/images/games_app_disney_channel_nonretina_55889b69.png?region=0%2C0%2C225%2C225" group-title="INFANTIL",Disney Channel
+http://gochannelstv.dyndns.tv:80/p28disneychannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ubWyeh3t5E0/AAAAAAAAAAI/AAAAAAAAAAA/gQO3Nla8KiM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INFANTIL",Canal Panda
+http://gochannelstv.dyndns.tv:80/p20canalpanda/index.m3u8
+#EXTINF:-1 tvg-logo="http://files.nicklodeonmagia.webnode.pt/200000284-b1d37b2cd5/Nickelodeon_Splat_Logo.gif" group-title="INFANTIL",Nickelodeon
+http://gochannelstv.dyndns.tv:80/p60nickelodeon/index.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/urLcPA14lU/cfkfKqyGf9mWTYlK.png" group-title="INFANTIL",CARTOON NETWORK
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-kQ6_1fDM3NM/TkngA22Q9NI/AAAAAAAADwM/bwvgX8fJoL4/s1600/12b.jpg" group-title="INFANTIL",DESENHOS BIBLICOS GENESIS O INICIO DA CRIAÇÃO
+http://ia601503.us.archive.org/16/items/DESENHOSBIBLICOSGENESISOINICIODACRIACAO/DESENHOS%20BIBLICOS%20-%20GENESIS%20O%20INICIO%20DA%20CRIAC%C3%83O.mp4?AndreOid
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_ecZQeLVp5c0/TC_TUNt5GgI/AAAAAAAAByU/_ixJdTzMTEE/s1600/c13.png" group-title="INFANTIL",COLETANEA DESENHOS biblicos
+http://ia601500.us.archive.org/6/items/COLETANEADESENHOSDABIBLIA/COLETANEA%20DESENHOS%20DA%20BIBLIA.mp4?AndreOid
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-7DBD-R7VVDs/T_THshMJG-I/AAAAAAAAGaQ/HY63oveg-bg/s1600/1.jpg" group-title="INFANTIL",fabulas da disney volume 1
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20%E2%80%93%20Volume%201%20-%20Dublado.mp4?AndreOid
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-dsxFnWwXbLk/T_TSJbJyz2I/AAAAAAAAGbU/XWaWAWWlT4Q/s400/1327207046_18.jpg" group-title="INFANTIL",fabulas da disney volume 2
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20Volume%202%20em%20portugu%C3%AAs.mp4?AndreOid
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/S_13338-MLM2933567111_072012-O.jpg" group-title="INFANTIL",fabulas da disney volume 4
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20Disney%20Volume%204%20completo%20dublado%20em%20portugu%C3%AAs%28br%29.mp4?AndreOid
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1BbRcSUifeM/UADQCxVgpfI/AAAAAAAAGrw/X5z7QcrOD2I/s1600/0b3b20cf_md.jpg" group-title="INFANTIL",fabulas da disney volume 5
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/Fabulas%20infantis%20Volume%205%20completo%20dublado%20em%20portugu%C3%AAs.mp4?AndreOid
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zN8CafE.jpg" group-title="INFANTIL",fabulas da disney volume 6
+http://ia601501.us.archive.org/29/items/FabulasDisney-Volume1Dublado/F%C3%A1bulas%20da%20Disney%20%E2%80%93%20Vol%20%206-%20desenhos%20animados%20em%20portugues%20completos.mp4?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tudodesenhos.com/uploads/tags/649/thumb_caillou.png" group-title="INFANTIL",CALILLOU
+http://archive.org/download/videoplayback_20161120_1932/videoplayback.mp4
+-----------------------------------------------CANAIS SMART TV-----------------------------------------
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="CANAIS SMART TV",ESGOTO Premium
+http://137.74.93.219:8000/live/ch@Oui!_!72/ch@Oui!_!72/3167.ts
+
+#EXTINF:-1 tvg-logo=http://2.bp.blogspot.com/-p-WtmdnR-Q8/VO6KdhEVmDI/AAAAAAAAAlA/1eXuL1tEXhk/s1600/m1.png" group-title="CANAIS SMART TV",REDE ESGOTO SP
+http://31.204.128.117:8081/live/sptv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-p-WtmdnR-Q8/VO6KdhEVmDI/AAAAAAAAAlA/1eXuL1tEXhk/s1600/m1.png" group-title="CANAIS SMART TV",REDE ESGOTO(A GLOBO MENTE) 
+http://31.204.128.117:8081/live/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-njwQf1sIXcY/Ts_s6JrSOJI/AAAAAAAAKco/AoPOI4MYkRg/s1600/Logo+Band.png" group-title="CANAL ABERTO", BAND SP
+http://31.204.128.117:8081/live/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvrba.com.br/images/log-rbatv.jpg" group-title="CANAL ABERTO",BAND RBA - PARÁ 
+http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/1uNFUhTl76/d9V03nvlaC2TxBQC.png" group-title="CANAL ABERTO",SBT RECIFE
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbt.png" group-title="CANAIS SMART TV",SBT HD
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbt.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbt.png" group-title="CANAIS SMART TV",SBT SP INTERIOR
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvcidade.png" group-title="CANAIS SMART TV",SBT PI (OCASIONAL)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjornal.png" group-title="CANAIS SMART TV", SBT RECIFE
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjornal.png" group-title="CANAIS SMART TV", SBT CARUARU
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvaratu.png" group-title="CANAIS SMART TV", SBT BA - TV ARATU
+http://stream.tvpapodetudo.com.br:1935/aratuduZgOqNa/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/N4VbO0fMBn/wRM9rqTHUhP2OdFN.png" group-title="CANAIS SMART TV",RECORD PR HD
+http://caikron.com.br:1935/ricpr/curitiba.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1094092344/logo_TV_Vitoria_copy.jpg" group-title="CANAIS SMART TV", TV Vitoria RECORD ES HD
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-vOgpdiPkfuo/VQT8TSWylbI/AAAAAAAAAJc/1GrMwcqBspY/s80/record.png" group-title="CANAIS SMART TV",RECORD TV CORREIO PB
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://a4.mzstatic.com/us/r30/Purple49/v4/8b/e1/bc/8be1bc5e-0d3c-3c1b-4543-ddb1afcee46d/icon175x175.jpeg" group-title="CANAIS SMART TV",BYU TV
+http://byuhd2-lh.akamaihd.net/i/byutvintporthd2_live@103132/index_2540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cultura_logo_2010.svg/2000px-Cultura_logo_2010.svg.png" group-title="CANAIS SMART TV",TV CULTURA HD - ITARARÃ PB
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cultura_logo_2010.svg/2000px-Cultura_logo_2010.svg.png" group-title="CANAIS SMART TV",TV Cultura
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvbaiana.png" group-title="CANAIS SMART TV",TV CULTURA - BAHIA
+http://cdn-br-002938543.comets.com.br/tvbaiana/aovivo/chunklist_w1472016693.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvitarare.png" group-title="CANAIS SMART TV", TV CULTURA HD - ITARARÉ PB
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="CANAIS SMART TV",REDETV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redetvrn.png" group-title="CANAIS SMART TV",REDETV RN
+http://tv.taaqui.org:1935/redetvrn/redetvrn/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redetvrn.png" group-title="CANAIS SMART TV", REDETV SUDOESTE
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvarapuan.png" group-title="CANAIS SMART TV",REDETV ARAPUAN -  PB
+http://mediacp.ciclanohost.com.br:1935/8064/8064/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565204197675507712/LX2kxB8D.jpeg" group-title="CANAIS SMART TV", REDE FAMILIA
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="CANAIS SMART TV", TVE RS
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://goo.gl/0zbE78" group-title="CANAIS SMART TV", TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://snews.tv/2015/wp-content/uploads/2015/08/logo_tv_novo.png" group-title="CANAIS SMART TV", FUTURA TV UNIVATES
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.camaraconchas.sp.gov.br/Figuras/TV_Assembleia_SP_61_2__2015.jpg" group-title="CANAIS SMART TV", TV ASSEMBLEIA SP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/479278823519703040/CfRkvHio_400x400.jpeg" group-title="CANAIS SMART TV", TV CAMARA
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" group-title="CANAIS SMART TV", TV Cidade Verde
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/150/redebrasil.png" group-title="CANAIS SMART TV",Tv Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?AndreOid
+
+------------------VARIEDADES---------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-qb29X_nrwak/AAAAAAAAAAI/AAAAAAAAAAA/pMEwZlOuTQY/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="Canais de Variedades",CANAL SAUDE
+http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/AIywZYNCnM/JNmQMcJ3hr5OQlg5.png" group-title="Canais de Variedades", NGT RJ HD
+http://iphone-streaming.ustream.tv:80/uhls/14419615/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://gvnews.tv.br/wp-content/uploads/2015/03/logo.png" group-title="Canais de Variedades", GVNEWS - VITÓRIA ES
+http://172.93.110.130:1935/gvnews/gvnews/live.m3u8?AndreOid
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8S0EitRHpQdk-AtfAzv0YAU1IepYAMZ4p81a2_MCFd98l-v8h" group-title="Canais de Variedades", FISH TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8?AndreOid
+#EXTINF:1 tvg-logo="http://gvnews.com.br/wp-content/uploads/2016/03/gvnews-doisanos.jpg" group-title="Canais de Variedades",GV NEWS
+http://172.93.110.130:1935/gvnews/gvnews/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/DZ1aul" group-title="Canais de Variedades",TV PONTA NEGRA NEWS
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/5QsFh6" group-title="Canais de Variedades",TV PANTANAL
+http://78.46.36.212:1935/tvpantanalms//tvpantanalms/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/Ww8ID5" group-title="Canais de Variedades",mkk
+http://wsemedia.com:1935/marcoaurelio84/marcoaurelio84/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://tvwebcidade.net/wp-content/uploads/2015/01/logo1.png" group-title="Canais de Variedades",TV WEB Cidade
+http://stmv1.srvstm.com/tvwebcidade/tvwebcidade/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/Jdcnin" group-title="Canais de Variedades" ,CONEXÃO BR
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dfc2cda465307e3040ffe29d4849e87.jpg" group-title="Canais de Variedades",CWB TV
+http://38.96.175.108:1935/cwbtv/cwbtv/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.infointerativa.com/wp-content/uploads/logo/shoptime.png" group-title="Canais de Variedades",SHOPTIME
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_lld8saie_all.smil/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/u4HtY5" group-title="Canais de Variedades",REDE CORREIO TV
+http://flash1.crossdigital.com.br:1935/491/491/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvmorena.png" group-title="Canais de Variedades",Via Morena
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-DJhqzu20_HY/UMLch5JjeQI/AAAAAAAAA1s/pagXgPRZK0E/s1600/Tv-Online-Logo.png" group-title="Canais de Variedades" , TV ONLINE
+http://painelvj.com.br:1935/tvonline/tvonline.sdp/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-PtYhqa3DUK8/AAAAAAAAAAI/AAAAAAAAAAA/zFbiRv4QCY8/s900-c-k-no/photo.jpg" group-title="Canais de Variedades" ,TV GOIAS
+http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.gruporbs.com.br/noticias/wp-content/uploads/sites/3/2014/06/Logo_TVCOM1.png" group-title="Canais de Variedades" ,TVCADM
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao.jpg" group-title="Canais de Variedades" ,AGRO CANAL MS
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ijp6o0q.png" group-title="Canais de Variedades", Multi TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YOfUvNM.jpg" group-title="Canais de Variedades", RCTV
+http://flash1.crossdigital.com.br/491/491/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="Canais de Variedades", TV Jornal Caruaru
+http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_TV_Di%C3%A1rio.png" group-title="Canais de Variedades", TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/585768001376509952/sde82n8L.png" group-title="Canais de Variedades", MULTI TV CIDADES
+rtmp://a3.fabricahost.com.br:1935/multitv/stream?AndreOid
+#EXTINF:-1 tvg-logo="http://www.tvpantanalms.com.br/images/logo_menor.png" group-title="Canais de Variedades", TV PANTANAL MS
+http://78.46.36.212:1935/tvpantanalms//tvpantanalms/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://pontanegranews.com.br/pics/pontanegranews.png" group-title="Canais de Variedades", TV PONTA NEGRA NEWS
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/300px-TVUConcepcionLogo.png" group-title="Canais de Variedades", TV URBANA
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://mkttv.net/wp-content/uploads/2009/12/amazonsat.png" group-title="Canais de Variedades", Amazon Sat
+http://gbbrlive2.sambatech.com.br:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8?AndreOid
+
+-----------------------------------RELIGIOSO----------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvaparecida.png" group-title="RELIGIOSO",Tv Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.aroodawakening.tv/wp-content/uploads/Gospel-TV-logo-best.jpeg" group-title="RELIGIOSO",Portal Gospel TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Redevida-logo.png" group-title="RELIGIOSO",Rede Vida
+http://rtmp.ingest.upx.net.br:1935/74cc/myStream.sdp/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/150/rit.png" group-title="RELIGIOSO",RIT Tv
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-vEPogtAiOzM/V8eNxbdBHaI/AAAAAAAAAZQ/R6NjFDwy7Eclwrfl9ger-gObjw890q71gCLcB/s400/Rede_Mundial.png" group-title="RELIGIOSO",Tv Mundial
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rXPArkuTJ0w/V3XBFxCzSYI/AAAAAAAACRc/L1wZkfLIEuw-qmZoRQotkVn2OCuzthAOQCCo/s256/Rede%2BGospel.png" group-title="RELIGIOSO",Rede Gospel  
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?AndreOid
+
+----------------------------------ESPORTES------------------------------------------------------
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="Esportes" ,Combate
+http://31.204.128.117:8081/live/combate/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="Esportes" ,UFC NETWORK
+http://190.57.234.164/V3/6/1.m3u8?
+
+#EXTINF:-1 tvg="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/band-sports.png" group-title="Esportes", BandSports
+http://ev.mm.uol.com.br:1935/geobband/operadoras/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/premiere.png" group-title="ESPORTES", PREMIERE
+http://31.204.128.117:8081/live/pfc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2016/09/Logo_fox_sports.png" group-title="ESPORTES",FOX ESPORTES
+http://31.204.128.117:8081/live/foxsport/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://heberger-image.fr/data/vignettes/90911_smarttv.png" group-title="ESPORTES",ESPORTE INTERATIVO
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sxu4K8t.png" group-title="ESPORTES",EI MAX 1
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sxu4K8t.png" group-title="ESPORTES",EI MAX 2
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sportv.png" group-title="ESPORTES", SPORTV
+http://31.204.128.117:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL
+http://31.204.128.117:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.cardplayer.com/assets/twitch_channels/000/000/001/pokercentral-profile_image-576154661611b620-300x300.png" group-title="ESPORTES", Poker Central (USA)
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.vizandchips.com/WorldDataCup/ENG/img/versus.png" group-title="ESPORTES", VERSUS HD EUA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2016/03/all-sports.jpg" group-title="ESPORTES", ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yMTxoex.jpg" group-title="ESPORTES", NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kmRRX.png" group-title="ESPORTES", DeporTV HD
+http://edge02.dcarsat.com.ar/DXTV/DXTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/2n856xv.jpg" group-title="ESPORTES", DUBAI RACING
+http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-qb29X_nrwak/AAAAAAAAAAI/AAAAAAAAAAA/pMEwZlOuTQY/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="ESPORTES",MEMORIES OF THE 2016 OLYMPIC GAMES
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_5_2264000.m3u8
+
+----------------------FILMES--------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnEbEF9I7pc_l979fX6fJAz5emnmu1jXMeGvY2KKR_iiYxyIcCbw" group-title="The Walking Dead 7 Temporada",7x01 Chegarão o Dia em Que Você Não Estara
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/TWDT07EP01.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnEbEF9I7pc_l979fX6fJAz5emnmu1jXMeGvY2KKR_iiYxyIcCbw" group-title="The Walking Dead 7 Temporada",7x02 O Poço
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/TWDT07EP02.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnEbEF9I7pc_l979fX6fJAz5emnmu1jXMeGvY2KKR_iiYxyIcCbw" group-title="The Walking Dead 7 Temporada",7x03 A Cela
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/TWDT07EP03.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnEbEF9I7pc_l979fX6fJAz5emnmu1jXMeGvY2KKR_iiYxyIcCbw" group-title="The Walking Dead 7 Temporada",7x04 Serviço
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/TWDT07EP04-up.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnEbEF9I7pc_l979fX6fJAz5emnmu1jXMeGvY2KKR_iiYxyIcCbw" group-title="The Walking Dead 7 Temporada",7x05 Madrasta (legendado)
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/TWDT07EP05.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnEbEF9I7pc_l979fX6fJAz5emnmu1jXMeGvY2KKR_iiYxyIcCbw" group-title="The Walking Dead 7 Temporada",7x06 - Tudo Morre
+http://cdn.ec.cx/vd/dd/RC/RCServer11/ondemand/TWDT07EP06.mp4
+
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/megapix.png" group-title="FILMES", MEGAPIX
+http://31.204.128.117:8081/live/megapix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tcpipoca.png" group-title="FILMES", TELECINE PIPOCA
+http://31.204.128.117:8081/live/fox/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://diamundialpoesia.files.wordpress.com/2011/03/el33_logo2001.png" group-title="Filmes e Séries", A3 LATINO
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Paramount_logo_1914.jpg/200px-Paramount_logo_1914.jpg" group-title="Filmes e Séries", Paramount
+http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-b.m3u8?AndreOid
+ 
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries", FILMES E SERIES DUB
+http://flash1.crossdigital.com.br/ponto10/latina/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://goo.gl/0ST7fS" group-title="Filmes e Séries",JORNADA NAS ESTRELAS
+http://wse5.player.tv.br:1935/tvjornadanasestrelas/tvjornadanasestrelas/live.m3u8?AndreOid
+
+-------------------------------noticias---------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://lut.im/uNFWvhHyje/2Kxpd8PjNuX7rOIf.png" group-title="JORNALISMO", GLOBO NEWS (OCASIONAL)
+http://v.pool.us.wse-1.srvstream.com:1935/oncafebrasil2015/oncafebrasil2015_720p/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="NOTICIAS",RECORD NEWS HD
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="NOTICIAS",RECORD NEWS TO
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",GV News
+http://172.93.110.130:1935/gvnews/gvnews/playlist.m3u?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.bhnews.tv.br/uploads/gi9vo1.jpg" group-title="NOTICIAS", BH NEWS
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-VXqw9CHsvJs/UYZmt4qH5uI/AAAAAAAAAwQ/ozlD59WqMFY/s400/cnn-logo-globe.png" group-title="NOTICIAS", CNN SD
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.papiermache.co.uk/images/media/clickonline_world_i.gif" group-title="NOTICIAS", BBC WORLD NEWS
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS", DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZz3bFi82FJ6qVrk1KExfQdkJSvi6x4uIWT6vU-06UFfYTlpFi" group-title="NOTICIAS", Euronews PT
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDOx94GZ-tMmsu_LWKRsxUGB2adyxkilaqe_5lXjArv4m8ICxI" group-title="NOTICIAS", NHK WORLD
+http://nhkwglobal-i.akamaihd.net:80/hls/live/222714/nhkwglobal/index_1180.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="NOTICIAS", RT DOCUMENTARY CHANNEL RU
+http://rtcdn.api.visionip.tv/live/ASHTTP/rtcdn-rtcdn-doc-hsslive-25f-16x9-MB/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="NOTICIAS", ALJAZEERA DOC ARA
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://television-envivo.net/wp-content/uploads/proyecto-40-en-vivo2.png" group-title="NOTICIAS", PROYECTO 40 HD
+http://urtmpkal-f.akamaihd.net:80/i/05i15qzql_1@149710/index_3_av-p.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://192.169.197.208/~wwwmprot/wp-content/uploads/deutsche-welle.jpg" group-title="ESTRANGEIRO",DW  Latino America
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+--------------------------------MUSICAS-----------------------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://s17.postimg.org/gpjjca3pb/LOGO_TOP_TV_HD.png" group-title="MUSICAS", TOP TV
+http://flashbr.crossdigital.com.br:1935/toptv/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/8GWlkoeV6n/8Z03YH2qrOdt78d4.png" group-title="MUSICAS", TV CLIPES GOSPEL
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://liveradio.de/station-images/19381929-f16d-4a1e-98a0-ecbf765425a3/fit-200x200.jpg" group-title="MUSICAS", Electrosound
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://lodadj.com/Images/my%20dj%20logo.jpg" group-title="MUSICAS", DJ HITS
+http://www.djing.com/tv/04.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://rodrigoarraya.files.wordpress.com/2013/05/milk04.jpg" group-title="MUSICAS", MILK TV
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://afro-music.sapo.ao/templates/afro-music2011/images/menu/logotipo.png" group-title="MUSICAS", AFRO MUSIC
+http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Virgin.svg/150px-Virgin.svg.png" group-title="MUSICAS", VIRGIN TV
+http://wow01.105.net/live/virgin1/chunklist_w1531272998.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/vh1-classic.png" group-title="MUSICAS", VH1 CLASSIC
+http://93.87.85.70/PLTV/88888888/224/3221226771/04.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="MUSICAS", TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://lut.im/8GWlkoeV6n/8Z03YH2qrOdt78d4.png" group-title="MUSICAS", TV CLIPES
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8?AndreOid
+
+-------------------------------------------- DOCUMENTÁRIOS -------------------------------------------------
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kudhaFepl6DWJIxLlhTrRHy21UOtsHPaTkonmRXymqHIJoxvCT6v03UCTGQE5_emvOE=w300" group-title="DOCUMENTARIOS",History
+http://31.204.128.117:8081/live/espnbr/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://cdn-img.easyicon.net/png/5560/556007.gif" group-title="DOCUMENTARIOS",Nat Geo Wild
+http://0E9B00ECD326CCAC:@t.kraslan.ru/wild
+
+#EXTINF:-1 tvg-logo="http://123tvonline.com/live/nasa-tv-live.gif" group-title="DOCUMENTARIOS", NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://123tvonline.com/live/nasa-tv-live.gif" group-title="DOCUMENTARIOS", NASA ISS
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe_400x400.png" group-title="DOCUMENTARIOS", CANAL 2 HD
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2lu874w.jpg" group-title="DOCUMENTARIOS", TRU TV
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://lh3.googleusercontent.com/-s0zAHEi1uf8/Vc1qHJd4p8I/AAAAAAAAGlI/xMeSObvH4lA/w1200-h630-p-nu/IMG_20150813_085701.jpg" group-title="DOCUMENTARIOS", Safari TV
+http://live.wmncdn.net/safari/72781e965e0681e980034a778ee7067b.sdp/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",SAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%201%20-%20Sal%20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",OURO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%202%20-%20Ouro.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",CAVALO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%203%20-%20Cavalo%20.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",ABAIXO DE ZERO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%204%20-%20Abaixo%20De%20Zero.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",MEGAESTRUTURAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%205%20-%20Megaestruturas.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",O MUNDO DAS ARMAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%206%20-%20O%20Mundo%20Das%20Armas.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",A ASCENSÃO DOS CARNIVOROS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%207%20-%20A%20Ascens%c3%a3o%20dos%20Carn%c3%advoros.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",MONTANHAS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%208%20-%20Montanhas.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",ESTIMULO CEREBRAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%209%20-%20Est%c3%admulo%20Cerebral.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",DESAFIANDO A GRAVIDADE
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2010%20-%20Desafiando%20A%20Gravidade.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",MAQUINA DO TEMPO PORTATIL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2011%20-%20M%c3%a1quina%20do%20Tempo%20Port%c3%a1til.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",METEOROS MORTAIS
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2012%20-%20Meteoros%20Mortais.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",DECODIFICANDO
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2013%20-%20Decodificado.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",SUPERNOVA DE PRATA
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2014%20-%20Supernova%20de%20Prata.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",O SOL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2015%20-%20O%20Sol.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",H2O
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2016%20-%20H2O.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hJbnLx2.jpg" group-title="A GRANDE HISTORIA",FINAL
+http://archive.org/download/A.Grande.Historia-Serie.completa/A%20Grande%20Hist%c3%b3ria%20-%2017%20-%20Final.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SqlYKOH4Esg/hqdefault.jpg" group-title="DOCUMENTARIOS",HUBBLE A ULTIMA MISSAO
+http://archive.org/download/TELESCOPIOHUBBLEAULTIMAMISSAODUBLAGEMELEGENDAPTBR/TelescpioHubble-AltimaMissodublagemELegendaPt-br.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEAfk_s9kEhPT35fFZ_9Ph3u6hhsgS6jOYHmmHqsV1JZdzD3xy" group-title="DOCUMENTARIOS",Inventos.Telefones.Celulares
+http://ia601700.us.archive.org/27/items/Inventos.Telefones.Celulares/discovery.channel-como.inventamos.o.mundo-ep01-celular.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/AlszA7q.jpg" group-title="DOCUMENTARIOS",A Guerra do Vietnã- Parte 1
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/A%20Guerra%20do%20Vietn%C3%A3-%20Parte%201.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Wc5yYCw.jpg" group-title="DOCUMENTARIOS",A Guerra do Vietnã- Parte 2
+http://ia601509.us.archive.org/15/items/AGuerraDoVietnaParte1/Vietn%C3%A3%20Os%20Arquivos%20Perdidos%20Ep.2.mp4
+#EXTINF:-1 tvg-logo="http://www.estudopratico.com.br/wp-content/uploads/2016/07/o-que-existe-dentro-do-sol.jpg" group-title="DOCUMENTARIOS",Dentro Do Sol
+http://ia601500.us.archive.org/28/items/DentroDoSolDocumentrioDublado/Dentro%20do%20Sol%20Document%C3%A1rio%20Dublado%21.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4d072F0f_bE/hqdefault.jpg" group-title="DOCUMENTARIOS",Guerra Do Paraguai A Nossa Grande Guerra
+http://ia801506.us.archive.org/2/items/GuerraDoParaguaiANossaGrandeGuerra/Guerra%20do%20Paraguai%20-%20A%20nossa%20Grande%20Guerra.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-4gUzgmAuPM/maxresdefault.jpg" group-title="DOCUMENTARIOS",Conheça O Estado Islamico
+http://ia601501.us.archive.org/27/items/ConhecaOEstadoIslamicoGloboNews/Conhe%C3%A7a%20o%20Estado%20Isl%C3%A2mico%20-%20Globo%20News.mp4
+
+#EXTINF:-1 tvg-logo="http://megafilmesonline.net/wp-content/uploads/2016/09/Extremis.jpg  " group-title="DOCUMENTARIOS",Extremis
+http://ia601503.us.archive.org/12/items/AssistirExtremisDubladoOnlineVerFilmeOnline/Assistir%20-%20Extremis%20Dublado%20Online%20-%20Ver%20Filme%20Online.mp4
+
+#EXTINF:-1 tvg-logo="http://mlb-d1-p.mlstatic.com/dvd-a-magia-do-churrasco-marcos-bassi-292911-MLB20654399284_042016-O.jpg?square=false" group-title="DOCUMENTARIOS",Magia Do Churrasco
+http://ia601504.us.archive.org/30/items/AssistirMagiaDoChurrascoNacionalOnlineVerFilmeOnline/Assistir%20-%20Magia%20do%20Churrasco%20Nacional%20Online%20-%20Ver%20Filme%20Online.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/12/2c/18/122c18ca36405a8d2b659548aae40d97.jpg" group-title="DOCUMENTARIOS",Prisioneiros Do Holocausto 2011
+http://ia601506.us.archive.org/8/items/NationalGeographicPrisioneirosDoHolocausto2011DubladoHolocausto/National%20Geographic%20Prisioneiros%20do%20Holocausto%202011%20Dublado%20holocausto.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/j0Eb3moOcjw/hqdefault.jpg" group-title="DOCUMENTARIOS",Pesos Pesados Os Reis Do Ringue
+http://ia601506.us.archive.org/15/items/PesosPesadosOsReisDoRingue/Pesos%20Pesados%20-%20Os%20Reis%20do%20Ringue.mp4
+
+----------------------------------------------estrangeiro----------------------------------------------------------------
+#EXTINF:-1 tvg-logo="http://www.breakingnewstime.com/wp-content/uploads/2016/03/1255741_1280x720.jpg" group-title="ESTRANGEIRO",Discovery
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.breakingnewstime.com/wp-content/uploads/2016/03/1255741_1280x720.jpg" group-title="ESTRANGEIRO", Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.breakingnewstime.com/wp-content/uploads/2016/03/1255741_1280x720.jpg" group-title="ESTRANGEIRO", Win Sports
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.breakingnewstime.com/wp-content/uploads/2016/03/1255741_1280x720.jpg" group-title="ESTRANGEIRO",PinguinoTV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.breakingnewstime.com/wp-content/uploads/2016/03/1255741_1280x720.jpg" group-title="ESTRANGEIRO",Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.breakingnewstime.com/wp-content/uploads/2016/03/1255741_1280x720.jpg" group-title="ESTRANGEIRO",Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.breakingnewstime.com/wp-content/uploads/2016/03/1255741_1280x720.jpg" group-title="ESTRANGEIRO",Mega 12
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+-------------------Filmes e SERIES-----------------------------------------------------
+
+#EXTINF:-1 tvg-logo="https://goo.gl/QZtl4K" group-title="ONFilmes",Nem Que a Vaca Tussa
+https://lh3.googleusercontent.com/xlD0QfWdyXDVdICdjhiTcjL_c0766l6f_ex5pK0W80acAtyxVamvJHIjR07BjqRdjGKX2skT0Q=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/P6rfYO" group-title="ONFilmes",Shaun O carneiro
+https://lh3.googleusercontent.com/p7qZHeaEg8aANWyoxzXf4WLNl-07NUcIRFY9G0EzwDc-xu7Vki4q1zP5VbgkHvtkmQOx7j9BGg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/4QY4k5" group-title="ONFilmes",Shrek Para Sempre
+https://lh3.googleusercontent.com/yH1e39BS5L7gYvgVBSXR1jPcdDgvcmPRChvdWSdIasJvwaxdYreMtmLTKdeontJnhkL3=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/hcrJiZ" group-title="ONFilmes",Shrek 3
+https://lh3.googleusercontent.com/6afwlCa63LihFI3ONj0eN06LUVIf5Xc461dTYY0C4h_8NjxNmEWn0SJxLVndU-Sri9dG=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/nH47bf" group-title="ONFilmes",Shrek 2
+https://lh3.googleusercontent.com/Z2C8j2zg3dR2JKLqaDj6n-N1sG1QW6aXrS_jajhDijWRzTKxRepIvn3EFrUus9eIZj8P=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/N6zH40" group-title="ONFilmes",Batman - Ano Um
+https://lh3.googleusercontent.com/6xVzf-nsceljj_2MBhAmjwfBBJ1nvOh4aIu5IzbYCiM0OjuF5Z_pJrdtP9LTZhxoE5HOpA=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/hp4BTk" group-title="ONFilmes",Looney Tunes: Fuga dos Coelhos
+https://lh3.googleusercontent.com/lwoxeJNVeSMj9E-0-QRchQ7N49wqfOdkL-T24GXYcR5d39Tgan-EDmSAoZ-R8ZcymmDxJPY7aA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/O6MzTF" group-title="ONFilmes",A Era Do Gelo - A Grande Caçada aos Ovos
+https://lh3.googleusercontent.com/KpQq1wta4FAEAbMzc_Iq_vMdLDRcCgHnhx_uh7sa0YHxw3rKPW2OoVZJJP8ISVC_-4iW=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/3ypWfA" group-title="ONFilmes",Toy Story 3
+https://lh3.googleusercontent.com/KqbWBAgI4BFGXAgklxwWSAESBO9ZnINpQtQRIP6cSMp2WaESYE2Qjvr0eTvZfYNuOA-nWQ=m18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png" group-title="INFANTIL",Baby First
+http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1708.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/ZQLDqO" group-title="ONFilmes",Looking: O Filme
+https://lh3.googleusercontent.com/uj_wt0wfsDfX0q16eoP8D67x3-iY30XhXCdZqVMmVzXo7oxE590s65mJ8sfCVXqRIQ9YSU4MrAQ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/6CLQ76" group-title="ONFilmes",O Curioso Caso De Benjamin Button
+https://lh3.googleusercontent.com/I1v4j_iY_zJBlD6RNtojwM_AVclDsZXTLAcqW2IR_gdi_pSywyrqh35xVOaAnYRbLG2d1Y2_C00=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/A9p9UR" group-title="ONFilmes",O Chamado 2
+https://lh3.googleusercontent.com/PIXl1DPZcLHgvUuJZSaM1FH6usFojR0inm3JCXHi-Z5SQKjCnEuZZKqfjmm6WU7ZApaNgBBJQEU=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/VFRALy" group-title="ONFilmes",A Bússola de Ouro
+https://lh3.googleusercontent.com/z_sDX00G8z6WpSuvrpdccDiwWI0eSqyPwJ6PXi1rI_4=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/Y0G4BW" group-title="ONFilmes",Piratas do Caribe - Navegando em Águas Misteriosas
+https://lh3.googleusercontent.com/189QumAFSLdUBv_yAzhDOTI1K9RzbfL7BSot2itc35s8sTIzc_J0xzQCsvOiUW8hlPSAFnkCtdVy-TH7zo73bcrO96BSm_pQxvN1qUk-Nt4ncZJ5UkhzYmgkpYKOCRnupgTOoeUKrsVXA2LYSR0pAKJAhnkWQXZsfQlErIg6B2b4EIvcCjNaDoQ-3AH-Mo40XdhtbBB_bjiGrzWCc-zVQF-K1UmmvNhzsQzi4xYN8Pwx_wBhhz20G2qjm5BURMtifdB4DxRCyWivCNKNHk8B4HcIfZdM_QvVtxv53-azO8kS-3quBrJRunljuTCxA9nKli_Jt5XePcwBJWN-JLwhGTdjQJhfh4WcLPfNq0uQPwbRjU5nwwa4n2Y1-OiW1BzXf2MY0QtgsZpjOapLfNGKK6duPxI2-rst2BbyWwhD5NO8rXkaA_BMeyLHdw3_tDQWcE7kbzGK4cOVFo_n2Smtqc8TWe6MjldvwmrbTkYVF4w7kZ_5rhcFFwShofwKpCQpOfH4rx_inXYHdhPiH-Aild73HYaARyj2xMxws1kTEVhr72ce6Fei02ESpO4vsmL8sOr9=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/xFNBgM" group-title="ONFilmes",O Bicho vai Pegar
+https://lh3.googleusercontent.com/A5-POsimXwgmXHbyBLHKbgVYDZZy8-3mlJbmPDmz97gJHtIFQGk9kIN9VI3lgfy0Sk6ib_c5nqw28hR1Ud0OKwjx8eyDSPIaTOxh8Jqi_9fncKadFWGfrmHXyxFKGvpECpYKib9VX7Ug6LrtnjHJ7M8W8bqMnMQ0VZz6Kr34wurxsK8iC3WC0Pklq9ZmUbd3UPe00k4E4wXjc22yRnsDi9ph3XpYv-ORzgbeUAZFi35fBG5CUPQ2FU5QNoRdxmXsgm0aYvYLSKApYZTPpV4T0DSaFtfxgGPH_rDy2xIvYXk-JN2rfvbbwqrh-Q4-t5-1Hze7ou8GKhvUF83Pw8XTMZCT7Ngk2TupG0Qs_WAOoMYf__DL_9fUZ5pqc7c9gU_I1q9Y58oCj-1S6wv4XN9D1MxQWsovn2ZS0K_J-YjSYBsslmKLDcboFUHNZG55xgesPsjAJzYc3rs0tWmvJzuKhVDPfyJdulqyZVErMaB_pQdNQSE1qTS26pXgXohc7AGW-2k1Ec3xjZPFRJBb0ugiVV_b1pENudw_E0himCcxEMq0gfSSE5XtXtMCY2nIa-SUZ2MH=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/UIv3WG" group-title="ONFilmes",12 Rounds 2
+https://lh3.googleusercontent.com/-NDHzZYW9byeFd7HHNnOaR0UgxNHhbs7B2b-Rg0i2IBXUOtNICBs2YQorqnrDzNweFHL=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/ZuoHRk" group-title="ONFilmes",Diablo
+https://lh3.googleusercontent.com/hfoSig4vU2CRgWrSF10NLXRvpqF0czH_4BWR6UOvtZqsbH77nePcs4fIRdNhUvdtgyhZ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/Danhq3" group-title="ONFilmes",Uma Noite no Museu 3
+https://lh3.googleusercontent.com/8U8YtK9gxHZ5YFbgtsWjgIWqT9rJFQZWyr-jLDp_yWu9P9yiM-CoerGxENSSnraO5VDjfObN6vW7sBnR7ih4_16aP__6QAGNvhl4TOMuxbjXAST0VNng8TX6L71HD5D7LV8y_hT2JaVq8AXEbeVJLupG2bMeKIPQRqBovYDJBjbqW95KiqVXvD3CzNRrItSIxC0uBWc243WskMy_xqm-BHMPIXrG0Sz4C1Pu4BTkepRTO8K75ObYnB-jSzoWaKWdkTtNM8gJOMUqwOJK3cQVAmL5xJYW6PmQh6n4NqfHKevPCKqH0cKhhTYV3sHrtnyepvgQG2EtTuslYZGmP27azgya0f3Vf4vpErQqcz46nqC5eNL5muZYrlCv8W6ECO74tdR_QT4gYkwMPwI_bykyx8ceqZe5w2qeIeUx9McKdGYW4rrw9FnbVWybTcugYQtgzEVU1fhs4H7DHzMN5N7y2USUDW0pNP1PEv9-Gs7mYJJWzV8wED1Fbn341-oZe9IILEZfCXq_3pmNgpBR6AZR7BOSdsgbMUD6f8Z0z20yH7ERvbQK_fCcniGqDSoZ4zrtWzc7=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/bDAiYU" group-title="ONFilmes",Uma Noite no Museu 2
+https://lh3.googleusercontent.com/LDDDZPZH3fte2wHg_ZvtAd2n1z8Wj7XEEkwPuPlXbI_0uprjZlx7jCUXVTa52cTrXYpUyqU4fxhBN--8JcMvAgr94dPnSjQxIC_AuMNcGZWgTLLMvtlYqdHrzGsl4_PrsF7Fm3N_pC3tWwIIoo3UQbKGHyERLwxosxqu07raHTTTIcZkatLHIbg31w8ZY8TvJ2JUTHHE-cWUlkV9tckp-Ibddekk6SvGTHhGMbtEmjrvyYIWEoQGaYwm-copPW4oJuFFpZDfcYwNBU4bbqaqPMN8-GHojiTfJ66zM5GPmBz-H-6Gv8BM4LHJxxpCfYENbihPF8KmvUH86wXxHK8yPoPjJnKmja-tIQUKaA2V53lsezPTznkFQCyCqLaxpUWZDtbIISwRG2WlaDTUMcPCRPksCATx8VGTS6VVOZZo9kIUVTN4bhe3sTJ8BoH-1Z-FxlS38jX6qFdJpHYE1Ky00yMAi7BjtQSFa6vyyOTcduJghk5Lto82WffUZpCjUARW1fU8mYSwM6Qntgqs45M0OhiJ-YdKNP3_zMlExZQRMYQ8ZSQYQXK84S9z2_WaLg5-OQpq=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/cPKXgW" group-title="ONFilmes",Uma Noite no Museu
+https://lh3.googleusercontent.com/tar4u71allB2bis8fqUpG5QjFeliOQcZyYWHxiy9N5aXUVK3MpGpe74NXPiwkWj1_uAYftSry6xm59yM0ggVmcNL_fvVkcMkzImqASq_Jm2flv-YzlIk2FFvtWb7Xnt-48RPETVmdd40F4hfzSIQ3gGvcz76huz_1NAUZELP92pV3ECUhEVfm0kKn6CtbYufclGKYn-IEy8w_huWqRhhQqwVIm1V_rFu_GLNsF5sj6otUNA1f0hu1Goz_4-HDuWJJG8BiJDWb6wANBZf6Z2AcmlzBCwzIKwCxduiA-ZCbjFFn6zi4_Xq4edT_S88oYoG4aU_-E_VQckxy-RUIJwXn5L67nMJRfPPpm4X46zKbf1fRgjNP3VePi9W7tpP17Z8oAVj57hE4EzHEwhhVFQ4VYnR8zp6aCa_ROGSCQvsI9bI1LZ7XpA91iVxLh21wE_P59BgWE0S5AVpZ3lssYnbiMS3pG-MLKdQ3giSH4ViECj6JsssFruYX-BJwWoukNl9ghJBveQWnTIsMmUTXshK_VV9jIC-Dy9o02C-5sXYbdEct89bd2hyBE60XOFz12IrJON1=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/wr6xuO" group-title="ONFilmes",Rebelião
+https://lh3.googleusercontent.com/X34Txas1CDVtwo5fClqN-EMyA2-Ljji6t2Up7JNHAh09l9N2GxkC6iuo0N7_kheF8n2vUEdMzbY=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/Aa0lvq" group-title="ONFilmes",O Vencedor
+https://lh3.googleusercontent.com/Bh-LnKc8Bw8V3z0a1m7v55yGUBO8tTH1CMFm_gidwDdez6gy3161ihCI-jJGQM2VWXSt=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/49f11T" group-title="ONFilmes",Sexo Drogas e Jingle Bells
+https://lh3.googleusercontent.com/Aat8_2-TLProDrGfRRnsY70Nu-3JEnUL3YTej3MF3qkd0UTDjPpbp6iAty8fX9KM5Aqa=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/eS6Vzb" group-title="ONFilmes",Ouija - A Ressurreição
+https://lh3.googleusercontent.com/jp_ZI7J0LWNT9HK35_X8HsmRQ1DbIGCGOSG3b2hgbxHka8hb4xbi9mdZz72bgAZEfWf-1aUEew=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/8enV43" group-title="ONFilmes",O Chamado
+https://lh3.googleusercontent.com/hfAi1wikUENvw-TBZF44wIwMcKn08BSyJmCokt4Y1OU_-klAU1Ecudqj-sPRvZkUi0CFuhbUjQ=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/PA4aJf" group-title="ONFilmes",Crimson Peak: A Colina Vermelha
+https://lh3.googleusercontent.com/XQaD5izzU-7DmuxzrBV64sC5TdByWnoBmCf3D8kxAZrSEbBff-YxbG998oAaaPmYpY5Cw8jxVg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/bQJuZv" group-title="ONFilmes",Remanescentes - Esquecidos Por Deus
+https://lh3.googleusercontent.com/Sj-CuKKKdZXKQ-3Dgldl53m7JmXTYtJf9Qg-PxZ3W3bIeorYqn4EuiJW-Yl4uq90DrA=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/ofMptW" group-title="ONFilmes",Drácula: A História Nunca Contada
+https://lh3.googleusercontent.com/94NPclUDQdLLaGAmIMSJvzOeCh4oi3bLDHVjJ23GM6D9qhFoOTRGUsPzhxdd3E2_c9Y=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/nAALYa" group-title="ONFilmes",Sharknado
+https://lh3.googleusercontent.com/N575iTvRnlgH1Cz-bkmMotlBJcCdzPu1vBdHhb_4DXQJ24yKsBle6y_6HyoDRD6TOeOQLw=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/QSolYm" group-title="ONFilmes",Meu Namorado é um Zumbi
+https://lh3.googleusercontent.com/lV81UmqEZXegsZByFVtCQkjDgAqQW2LuMG83rq0d_4cS0kgsaVCZJ6QK9m-CDzrxPGsP=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/86PzLv" group-title="ONFilmes",Sem Ar
+https://lh3.googleusercontent.com/wq92OdrsFEV1S6gnP1ZkmMH_Jg8cVWrr0v3Aq3o9o73MZqbVxM2mAy_Wl1WiC0ZFPUcs=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/0zkWhZ" group-title="ONFilmes",Efeito Dominó
+https://lh3.googleusercontent.com/31x_aVN8tVL6df98rhVzQb_pfMfejKLgnvfhttZDew2uJyR5BmYKjSbAi6EPzTm9Tx-tKXrNyA=m37
+#EXTINF:-1 tvg-logo="https://goo.gl/9dBCas" group-title="ONFilmes",Survivor
+https://lh3.googleusercontent.com/Tu80jQeSvFnOJyFGiUSHOYSjXrVzA4E9dYbpXfrbRYonJ4i7melSIORZL5g6g_3xcPQve0FAD5s=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/wTV55y" group-title="ONFilmes",O Sequestro do Ônibus 657
+https://lh3.googleusercontent.com/BULq6mGhViIWJ0EcY-D8w2mL45K2rGjkNghECGo5ohIKrektVBjDfYVvR6G_Ug8Sy9A=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/DGZ9d6" group-title="ONFilmes",Condado Macabro
+https://lh3.googleusercontent.com/TPS6WlMYAUdeSbWsOloXq4X8eVVcPraBfsF0goq1oYyqY3snXG_pzVZttUJjP7hP8ce4=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/YiFuBm" group-title="ONFilmes",À Prova de Fogo
+https://lh3.googleusercontent.com/p2zy_EYTBVy8pTSVJ4j0K2KWu9Oa8X3LhmQ2pSUQ4ewQQ0OFlSme_FwjGI6zWvPmE_0oqquiAQ=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/OTfGM6" group-title="ONFilmes",A Acompanhante
+https://lh3.googleusercontent.com/9mbMik30KgnZ33dF8AXmCYbYFVt9bpDdsWvHmoLvkYIH71TvI52YnUSHFAI1s7ZvjjsBH-Nw_w=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/QsLuAs" group-title="ONFilmes",Amor ao Primeiro Filho
+https://lh3.googleusercontent.com/MrsHoTWyf9i_aK6-2dpcAUP89sC0EBzBdi7X-XTvPPp7yH4Gt5YdOusw84WDe5btr0keAdJu9g=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/1cUkoE" group-title="ONFilmes",Sob o Mesmo Céu
+https://lh3.googleusercontent.com/ngAaeu3u10OXXRnNAXnYygKqGf6Rpq3fivFPR7fzOFpW7lNQDJToGl2eM9jt6p8jZfPx=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/SZJwqz" group-title="ONFilmes",Meu Passado Me Condena 2
+https://lh3.googleusercontent.com/GKf4HUJJOyqodanQAT-75TADts4gAqo1_iiQ5k342XEjrhj-x79UKsCzwfOhLmh0Wds=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/FwGKaf" group-title="ONFilmes",Ela
+https://lh3.googleusercontent.com/_VqrGNvRH3BuuNZciK2L4_EIa_Px-VBqlXc32vlVtABctGX5a45sdttdBvo62PhnTxgL6Q=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/pYf0u5" group-title="ONFilmes",Um Amor De Novela
+https://lh3.googleusercontent.com/ZeKUvtpJPeTAnFtlVHyaoqLBrRfl0Rq_SvDQFo161Oe-81TdQJKkZ43Tca0hOVmv8vCl=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/zmBfzh" group-title="ONFilmes",O que as Mulheres Querem
+https://lh3.googleusercontent.com/WaxQhGm4zxqgOx3pmtHPtJCmXtMdp_CpfGdnXAwfu4Gqxd3A36mvt8LOX4zOtzYL-hCgLw=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/hrdsFk" group-title="ONFilmes",Uma Linda Mulher
+https://lh3.googleusercontent.com/G6SdZnNUuCWLNK10qs8MoSHr0BQtGVcpZYw1mdPMLII=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/KAWOX7" group-title="ONFilmes",O Melhor de Mim
+https://lh3.googleusercontent.com/AvJrglSbQt9Ml37R4aqDpcqPnK3M2guBpUPeWPLSkd4=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/P30vFS" group-title="ONFilmes",Orgulho e Preconceito
+https://lh3.googleusercontent.com/ClbfWfeNdffBZD7g1qJb5-9_prB8gXEIDr1Ua8I7Ig=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/ubWvSQ" group-title="ONFilmes",Simplesmente Acontece
+https://lh3.googleusercontent.com/M2s4UgMkaFzX2zBVSi34BI8HaPGkxwP_I1t_o3bbX3A=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/4e14lH" group-title="ONFilmes",Brooklyn
+https://lh3.googleusercontent.com/0wmCZdV9h-oAB94OzmyFMUAG46i2MlAr0TulkIEx5aYkjlN9jHV6ze-v31_nHk2a-RA=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/Ud4LAI" group-title="ONFilmes",Já Estou com Saudades
+https://lh3.googleusercontent.com/s7kgDtjp7KAb7-KJoXpZkbOrjBSzcP5AtJt9kkH9qg3RMBubNnAjs5jN_xrQappIzJ_x=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/AKiOp0" group-title="ONFilmes",Namoro ou Liberdade
+https://lh3.googleusercontent.com/jR0MTQdYkh0OXRVshXuMiDFGUE6L49vWTEZfO1xnGsAZxu4Iwk7UCja5BkyGMB_0Ndc=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/VMx0OQ" group-title="ONFilmes",Diário de Uma Paixão
+https://lh3.googleusercontent.com/jwDbPWDM7xnxpiYwDVI8ocM-iMBT0bLUhToNzZYT-5kh1eGIfA-g84-rQeZF2qZ5rZY=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/8ixyfK" group-title="ONFilmes",Crô: O Filme
+https://lh3.googleusercontent.com/beOm4dUSaS_WTsD0k-Kg8eLTIL0uas6SEsh_S96pOoILSz1QdWyUBwDUQ2RwSnCILHhVeifSYDE=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/XwSFTH" group-title="ONFilmes",Depois de Tudo
+https://lh3.googleusercontent.com/LcO0ALyQWSPg3D1lnrUaGvkBrqBbxUMU09Q7YSfviANk80X0aK7ec6bvgTVHbf0qAWk0=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/VvOYMV" group-title="ONFilmes",Atividade Paranormal 5: Dimensão Fantasma
+https://lh3.googleusercontent.com/85x40mS0DO_XEdg7ZvOrrVlta6dMHT0ffs8LPg_i0gpmG5yAI1BzYPxK9IIbHE25kyAdg7-4Dw=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/LTH8JS" group-title="ONFilmes",A Revolta de Atlas: Parte II
+https://lh3.googleusercontent.com/lfJVVeCHluXWh7J3nPSPz0KESj9M_WaMyQ0mS4_qZPzonsiO_8dxOM_-oXreZOAaetLn=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/jH3DS9" group-title="ONFilmes",Garota Exemplar
+https://lh3.googleusercontent.com/I4rR4S5lgGmL475jHzP9bWbIQR7kOYYW60cFzeyEfYk16_2nlgtuE90XGhICU1mOquAc=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/Z0Gvgy" group-title="ONFilmes",O Menino do Pijama Listrado
+https://lh3.googleusercontent.com/O1cd_rSaVfO8ABfE35JBO_PcnnlZbUN1NUr0YqRg7PQh9HBULSHObFVLylNaoyYPhOpfAbUU3w=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/9Ivvgm" group-title="ONFilmes",Colonia
+https://lh3.googleusercontent.com/XQaD5izzU-7DmuxzrBV64sC5TdByWnoBmCf3D8kxAZrSEbBff-YxbG998oAaaPmYpY5Cw8jxVg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/spp911" group-title="ONFilmes",Memórias Secretas
+https://lh3.googleusercontent.com/ff4baT13d4lZa1OqbX4TEybkgFpm4zqDPNmf2LC4qI5ytPIPJdLd0_FECN95d4qPbqmbm5R79Q=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/e5Rfcl" group-title="ONFilmes",O Lagosta
+https://lh3.googleusercontent.com/J-GQ0rtMBHX-VSKWv0AbVo03WskddE8BhJjDGIvKJAAM4wTm7qEbnlMMrWMI3sFIGqmew97PdA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/6EQHbL" group-title="ONFilmes",O Garoto Da Casa Ao Lado
+https://lh3.googleusercontent.com/xk4KDm_go9qpOvopPYL8g7-AqHwpmEZpf8Q-nNN64O3hYibPP-SdnpPQi0rq95wu8IQ=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/JVIuqv" group-title="ONFilmes",Meu Ofício é Matar
+https://lh3.googleusercontent.com/seN24AdtaRDhmmIQsLQdbcZUgg0GJ-DDWPgBki3_QdQdylxlUkMSNTYCCEygq-z91eI=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/oMyRx6" group-title="ONFilmes",Os Caça-Fantasmas
+https://lh3.googleusercontent.com/Cw0lVbh8ZhE98K-je5BJDDZg6fK0vJnx9U8YTzBYMXzZt06bu6E_WYFG2lgQ7GWWjQSGaitn_w=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/fUCPE7" group-title="ONFilmes",Os Caça-Fantasmas II
+https://lh3.googleusercontent.com/s_ss1Q4vJ2ijywfVor3wOGfHixkf8qw-ldcla6ytWPnXo2N3CZCjwofqeb-1ka4zgg7MSvu-_A=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/nWSoRW" group-title="ONFilmes",Perdido Em Marte
+https://lh3.googleusercontent.com/rCjrkHnCtJUojy6tv8SUWnVylaZLzDZVOG-uRj1Wlj4obmQuffgsZfeSskXpZIz_IYMZhIyMrA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/zKDNHw" group-title="ONFilmes",Guardiões da Galáxia
+https://lh3.googleusercontent.com/9ZMcnwfSK2kr3vCg6bIdLU6YqSOXfocpJpBXz7wZnQk=m22?cpn=-SKbBlBc078lV2Iq&c=WEB&cver=html5
+#EXTINF:-1 tvg-logo="http://goo.gl/om2APD" group-title="ONFilmes",X-Men: Dias de Um Futuro Esquecido
+https://lh3.googleusercontent.com/hJ4iT1PP2s_wn7HYmgrlUqEJb6Wyh7HiPFgE7VFX7ZzF5cvjocQQeROgvFA_Q4w9eJpcbG1Ksg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/nBULYm" group-title="ONFilmes",Resident Evil 5
+https://lh3.googleusercontent.com/txB_sNJrpeLkdxBgFLnJKIreaa51QNQOFC5pPCFY-hNVwWcDVUtu53zuIgndNEiR8akA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/upMPY2" group-title="ONFilmes",Jogos Vorazes 1: Os Jogos da Fome
+https://lh3.googleusercontent.com/WVn_bWcDhrdc4NLVIIDfu6E3PR_0ltjKh62b_-qrEi-NKwsjjg4JW9AKANZQolje5LAISg=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/EYUcyv" group-title="ONFilmes",Jogos Vorazes 4: A Esperança – O Final
+https://lh3.googleusercontent.com/zJgNfckDNmOU8uTGWGTrOHHcv5Pc2sx0mnTdM8Jc0sfKOlUNokIbc_vstajYUhwJsA75=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/lSlvBa" group-title="ONFilmes",Batman Vs Superman - A Origem da Justiça
+https://lh3.googleusercontent.com/coZ_HDLVElw_fTXVvoVJz2Cd05xg4gsKg2oByWEi3ASH-3bh7CuWq5STWjls9ByzC097hGbjhw=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/WJ9Xax" group-title="ONFilmes",O Retorno de John Henry
+https://lh3.googleusercontent.com/cvs5CyMNiMgMOLiK-JmVoLJYlAjqX2j4vDejayqtlx1r-DRsgR38OXV1QV09SINOo-7yY_zqaQ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/J9QHun" group-title="ONFilmes",Harry Potter 1 e a Pedra Filosofal
+https://lh3.googleusercontent.com/vDi3XulgpkMEHpKIb_rUsENJ6bRfxl3-W3G0ia9S9pXIiskQK9z265soqxTsjk1ozFKuky_0qA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/qfSPPY" group-title="ONFilmes",Harry Potter 2 e a Câmara Secreta
+https://lh3.googleusercontent.com/YZwAyEnbNAAMo-gbyoAkJbAkZ43Gv6cLfr56DLW27WfOHBT3lwwL03K1IIR5yYopv9Cmh_V8fg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/whMjQa" group-title="ONFilmes",Harry Potter 4 e o Cálice de Fogo
+https://lh3.googleusercontent.com/eT6oG6WL7vRoBFm2-qdlSPhQiiAJEbHKNhR5DwtqBSIpsOJwQil1vSr8fAcA2FDXfZy3zDHJ_g=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/G0niwD" group-title="ONFilmes",Harry Potter 5 e a Ordem da Fênix
+https://lh3.googleusercontent.com/Fpirp3P8qkkGahrZIW4TVD397QeuExLHUYMfSFWC1_SQ7OVBwl1K2QaSPeo_2YYNw02l2_kWuA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/T1sVS2" group-title="ONFilmes",Harry Potter 7 e as Relíquias da Morte: Parte 1
+https://lh3.googleusercontent.com/7adeR_TT2NuEu8SN_lmjST0Q0ESghDpAAK46CWZOuZ46Y36jgzotOxnhQFw52hojc25e3WW_VQ=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/LQnqKv" group-title="ONFilmes",Harry Potter 8 e as Relíquias da Morte: Parte 2
+https://lh3.googleusercontent.com/13hoB3cb2CDv4BC_CT8X_hSn3DlU8TBO5ng_RxfGJkNvk79hnK_9RssSaDuwjbyjeSzg5y_pRw=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/Qm3AxL" group-title="ONFilmes",Homem-Aranha 3
+https://lh3.googleusercontent.com/5C-xzbl-Hc0CwszGCefqGXMvQPex07bSniPTSAT4Z7bUz7s-PB5bHE8r3yogea7Dy428=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/rcVSjR" group-title="ONFilmes",Aladdin
+https://lh3.googleusercontent.com/3FZqdoavTxp0OJjyJYbewsKBaeLvpjRpenS5Xse9vjifYArFIDlmRe280PYRvAFX9nUARvZBMA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/iBQd8P" group-title="ONFilmes",Lego Scooby-Doo Hollywood Assombrada
+https://lh3.googleusercontent.com/gd3nEg-u1qYAkZ9_awisTGZO1tenr9Fh4-G6DzEa1lx29eFwqfvYo5aqgWxZgwFpNZSMYsrzTQ=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/yLE7Fd" group-title="ONFilmes",A Era do Gelo 1
+https://lh3.googleusercontent.com/by0fGoYI_VqZrLR_IeAjECdSt19Dhw_coosTQDeIKg8=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/XxWakQ" group-title="ONFilmes",Intocáveis
+https://lh3.googleusercontent.com/anwbwyM1paXSiiliZ4shk4sXGUMN9b1Mi3kbJlAxlfiz8W6vHzenkHONJ7nSZUqUpzZZXUHHiA=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/rnO4jO" group-title="ONFilmes",Amizades Improváveis
+https://lh3.googleusercontent.com/dywo7_aIGsAhh9EkWi3dNvMKU9FUodGIi2CZK1spycmmt_b76TZrkpySf8hxtF6lrV7DdurP4g=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/tv9LMH" group-title="ONFilmes",A Justiceira
+https://lh3.googleusercontent.com/EwmXlNO0Ua6tXowLr4FrPm4qjrQr0jo885bQUastm1pLsFgdI-EkxHZpwmSoIzrweW4mk9YeXQ=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/Uz5MRH" group-title="ONFilmes",O seu jeito de andar
+https://lh3.googleusercontent.com/jq2huiTT8lstae9xdscVLwtskPjISj4detOSrDzKjsLplppzL8409EKAgIkfo6UrqCeeYC7w1Q=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/KU0Gpu" group-title="ONFilmes",(500) Dias com Ela
+https://lh3.googleusercontent.com/5xf-Lxuq65BpejfgCHGg38bCoQNqPzyZsRB4SD2c2BEj3sxca99fMe3Vkv7PLpi3ougK08pbwA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/TXsBDM" group-title="ONFilmes",A onda
+https://lh3.googleusercontent.com/VBZEJJzMU_ATZLnOmFHXEnQ9XYYHqY4XhlFJyqtCjX_i19sVDcVJTYHD8VCPnhlt166HMp6fQg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/IZSFmi" group-title="ONFilmes",Eden Lutar ou Morrer
+https://lh3.googleusercontent.com/HA6QYdNBvO1MLhV9rHsAzsRJHtDEMHATzeQ6kXAcI0uhR66ywszrwqmthqileFm-Irad0r9v=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/0MLphg" group-title="ONFilmes",Clube da Luta
+https://lh3.googleusercontent.com/DDGienbPyLgdJuQcDva10ZJcqSlIc0Qfx4ttlsGXSKziZRM6g_3YwXbTtHhXthp_1Uw=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/4KiZlK" group-title="ONFilmes",Que Horas Ela Volta?
+https://lh3.googleusercontent.com/t6g0CEx-vaccUwnaYFCifsRhCJF47aUEG3CUP4r6ErzDnm6zebpF_OQI4M7ayXcI0QXW=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/tL8yxT" group-title="ONFilmes",Poder Sem Limites
+https://lh3.googleusercontent.com/zj4ocny5Xd733SKjz75JscqUbn_xogFTfiy7yhvz-xkhhAd5RUEkNlXykJ3wttfbwc5_=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/vOuW4B" group-title="ONFilmes",Dead Drop
+https://lh3.googleusercontent.com/zGV_WQt6KjcyQ9nJrCSmuhoHP15QA6q4aZY19GUQ-Hrko_fmPBlglioaicVxV4IPBE9XBEqmOw=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/LWhZUe" group-title="ONFilmes",O Caçador e a Rainha do Gelo
+https://lh3.googleusercontent.com/JbHqLylR1CREPvv76ZM__gmW7iF9D7edkHuqLSUcfYRt-Q2zWkNobGVzlTTrcgG81gbAvOCR_A=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/E7Vih3" group-title="ONFilmes",Batman - O Início
+https://lh3.googleusercontent.com/IAIOE0hzNrFnUl8K-n2Yr0cM6ppjrWmxGN3qCXgfG8QkeUe7B3liu1BOeLM_VY0dKrxS=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/5GFxYN" group-title="ONFilmes",Garotas Inocentes
+https://lh3.googleusercontent.com/a5Bz5xCx_Aql8J_KI7leXLh_j79ovmYBYisBh6F7fzUSuFb72_fi2SfZ43NXNVXNelQSCQ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/6Ejb0Q" group-title="ONFilmes",Orgulho e Esperança
+https://lh3.googleusercontent.com/4m0yzSfCQIIoCdKzYDlFppDBagLMjn1-RGToyIDoZpwhdcRKp0XvO3rATMJxcoZJ02ZWMg=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/PpMntd" group-title="ONFilmes",Quebrando Regras
+https://lh3.googleusercontent.com/0vSowgoWVk2vRoY-hmmCvVaoWXvmTCA9EX_yYnN23hl-Xn_qnl6d5oH_SzYLq2KS760F=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/KhpsfA" group-title="ONFilmes",Annapolis
+https://lh3.googleusercontent.com/ND4ZrL2FkjuET8JvM3HCwRoX1OnfWxYswzTx6_ceCdrNPFqffaDTNHffvjWVGYRFZCtP=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/0ZbG74" group-title="ONFilmes",A Senhora da Van
+https://lh3.googleusercontent.com/tZKkvZe_AgFoVzl6fAmUVfsQJBgumFG717Wzq9vyzbVPEYsHf4h1KmGvCPyA1Z1iC7zS=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/SbJEoT" group-title="ONFilmes",Bruna Surfistinha
+http://servercrazzy.crazzy.com/RedeCanais/RedeCanais/RCFServer2/ondemand/BRNSFSTINHA.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/FXuOun" group-title="ONFilmes",Trapaça
+https://lh3.googleusercontent.com/hCclzZcUBCaWizXhvY6TCbsYU75dCktmEdeCc9F6xffg0VbLBlbZmJ1StvUOxLSGpOP4vA=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/QBkt4v" group-title="ONFilmes",Fúria
+https://lh3.googleusercontent.com/ZjAAAK8yTqrNt59QiYxGGGJrg2x9ipT8RNaRTOc1RPfHv9QhduECFBx0j-PD6DObIZGh=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/BZyG3m" group-title="ONFilmes",Uma Repórter em Apuros
+https://lh3.googleusercontent.com/F2d3fyYPvdt_gx2vn9XmH5ycGcNyb4Ws31ElastjVWb46UV7_F17Lp5npF4wNRjw3viPMmHmmg=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/3WGi9Q" group-title="ONFilmes",Vizinhança do Barulho
+https://lh3.googleusercontent.com/bBEhgrIJ1g5v8OTVkeW7fGymsQm_0wGXfC7oLptS8FtTngS4WfFlxBuj-ng3i8nb9Yayxt7wvA=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/aeLDRW" group-title="ONFilmes",Sob o Mesmo Céu
+https://lh3.googleusercontent.com/ngAaeu3u10OXXRnNAXnYygKqGf6Rpq3fivFPR7fzOFpW7lNQDJToGl2eM9jt6p8jZfPx=m18
+#EXTINF:-1 tvg-logo="https://goo.gl/EHK37L" group-title="ONFilmes",Tango e Cash - Os Vingadores
+https://lh3.googleusercontent.com/kcgJKjL2kQgNSpilhucpx-Gqx0U02gwaO44o9qsrSIZzuBCHVwEBmXKzdDP3YXNuaS2McQ=m18
+#EXTINF:-1 tvg-logo="http://goo.gl/7eTlL3" group-title="ONFilmes",Finalmente 18
+https://lh3.googleusercontent.com/fEswqVU1C0MqOGDjOpRoYwi3-JDR3RemQ486-1eThD3OhxW_NMF40Y8l64nyFO2UE3bz=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/txODNH" group-title="ONFilmes",Sex Tape: Perdido na Nuvem
+https://lh3.googleusercontent.com/CHE0siAlKQZjAvGb8AtB0AN9JT_FK4L-1J83uLqrIQ=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/uqVwGf" group-title="ONFilmes",Vizinhos
+https://lh3.googleusercontent.com/8rpXtfuBZXyab5zHcK8HriGMLhWsvEM3G3UQw8IExOo=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/GpgtnW" group-title="ONFilmes",Belas e Perseguidas
+https://lh3.googleusercontent.com/w9mhzWmubkQ1rNpMlRSKG4hFnKjogSiRGB_lRJtuzpA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/JK2K1j" group-title="ONFilmes",Os Estagiários
+https://lh3.googleusercontent.com/KJU9X3ORAnCQZsti1bb0rL10DbQzR5Fw1Md3SFOU6hE=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/QcOSxM" group-title="ONFilmes",Birdman
+https://lh3.googleusercontent.com/C7NMc6ZTxnE0BDytdK8cchtsNa92kRF5lzOLc0BidD0=m22
+#EXTINF:-1 tvg-logo="https://goo.gl/oqnq0e" group-title="ONFilmes",Se Beber Não Case! Parte II
+https://lh3.googleusercontent.com/Rx2jrmuA_QAgNkKtQx7YuuuY-0WpyVsvlV6s3he8fUg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/OWtvol" group-title="ONFilmes",Se Beber Não Case!
+https://lh3.googleusercontent.com/J7D44c3vzKrytMsbk1I43Bnk5Bomw-el4kBNmiiXbgs=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/sCySwL" group-title="ONFilmes",Patrick: O Despertar Do Mal
+https://lh3.googleusercontent.com/qWVbfhiqKNu_qkahzTAtHJYToASgsDbKOByuqJT87QMkofldr2qtV8zulHxF-tuVxrCilLcmHw=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/4sVhC3" group-title="ONFilmes",Mama
+https://lh3.googleusercontent.com/OElC5i6voB7JB_AMvD-EfYq7nyoeJ6qjPtQ7qRlVTIzwtwGxsUuQAUbveXEoYXjIgOGcc4Q2_A=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/heoYFo" group-title="ONFilmes",O Segredo Da Borboleta
+https://lh3.googleusercontent.com/JuV4TXolkalvslAu9DFPno7RsIkFmvXiOiBwxqvzz__bbzCdss-afKl-hlJ7O61Ue5_O_lGSVw=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/xRV0n4" group-title="ONFilmes",Silent Hill: Relevação
+https://lh3.googleusercontent.com/oSijY-ZtHkIk4TEGMjmRyQBUF9k5nCr52FGYD8xeF3ukFDRYSqE_koH2er4AhKiJgRQU35FDuw=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/gX3IBR" group-title="ONFilmes",Terror Em Silent Hill
+https://lh3.googleusercontent.com/iYKIDiXYiY5lC8og3NEQGHqGtYpA2YT6XL0QAiQoo-_2fQHHMABUiBOr2bQK9Zg6971INvG30Q=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/7Tbfke" group-title="ONFilmes",A Casa De Cera
+https://lh3.googleusercontent.com/Totrwe6zNFQOJpR2uzpn5ZwaPkW8DInVrvFEMfN5jsQ5otTrWwG_TPocVMBSPKjL29h8uYzgdQ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/VlFiEj" group-title="ONFilmes",Animal
+https://lh3.googleusercontent.com/18QcuQ7nGJ7ZJo3AxN410l4RUMRELqkgRWB-XVvzZ9ijcCV60WXa4R4NLrt4BtU_LK9P6UHQGw=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/XmEBYN" group-title="ONFilmes",Virgínia
+https://lh3.googleusercontent.com/46riZ1fHnclL8fw8x16R9_pAOOiwX2eYqIPYlxiS3cb0S8PTEhiGOE8nu2F9760NEN3GGkrr5A=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/ixBDWS" group-title="ONFilmes",Sobrenatural
+https://lh3.googleusercontent.com/VxNl395O34PvHPz1Rjn-i6RnWxZSu-eR5Rf-TCrTxh7guZMD54l3GXuqI3dgU1D7lUtHEYdDaQ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/fPcwJo" group-title="ONFilmes",João, Maria e a Bruxa
+https://lh3.googleusercontent.com/Emk-8KoqpdPyqmOlVsvCUSLfKHovnaNepdNbwFjK9yUHsDmRN3L9px-hXj9RvgVXOxCbPXrqog=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/6Dx0Hw" group-title="ONFilmes",Eeles Existem
+https://lh3.googleusercontent.com/mR-CIqdkC8_mDE_HsqhIkIFlftdPv0XuXSPKvNtAl9U_Okhi1sAhLHSwUAzzIra9ek4ZWwHxjA=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/rBmjz6" group-title="ONFilmes",Caçador De Almas
+https://lh3.googleusercontent.com/4Xm2rVtDaylISeZ6O-NF6bI5-JaY8PXeAMsm8ytwVf1RUNfPAtYtxXNuiiRLasE6FgNK9WGODA=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/QO9HRZ" group-title="ONFilmes",Stake Land - Anoitecer Violento
+https://lh3.googleusercontent.com/8dnPw3tKsP1YVKmLR6mWWKCAOVFgb8EyLBa-nRfms-XOkshq5mPcvjBoyqziYDT90_x974zNJg=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/LBm2xG" group-title="ONFilmes",O Exército De Frankenstein
+https://lh3.googleusercontent.com/Q-wK7kjVBra4Hl7Bv-cRA0U_5pO3ajC8Sv0nZZgQLi78EX-NrFs7Et7sZVyo8ucq6q8xzQaoMg=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/eob7RO" group-title="ONFilmes",A Maldição De Chucky
+https://lh3.googleusercontent.com/_nUQu0YASowaFftCk8_lOKIl_PoOO31qkGmP1lUfs6tx6lfDGnldBIbMjckHBBgFmUrt9EsACg=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/WDxxIn" group-title="ONFilmes",Mumia - A Ressurreição
+https://lh3.googleusercontent.com/Hcfs1l_SYQudrJSFLkPwPObjfQPGbPMCfrBv5grFYytd9JccaaQKLngv-qwNeCAwcJ837P5_Lw=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/S5udc6" group-title="ONFilmes",Renascida Do Inferno
+https://lh3.googleusercontent.com/-RDYR2vq7YtFY7r6XKEYVPI2EhxnYjfFNrycotLejwnOjy7hes1UtBruTR2YrLod0hAGeBQYWQ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/uZXNWn" group-title="ONFilmes",Espelhos Do Medo
+https://lh3.googleusercontent.com/SKmr9b160VFcDbzYMXaATGtlwNSyyIgSsAyxIAyXxANu2hCs7rC2cujKYcroY250C42q1EmWz50=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/Gz4RbH" group-title="ONFilmes",A Seita
+https://lh3.googleusercontent.com/a7TsY17dgUiJYcP6CY-v0Tnr39bw8PaCfl_Eghx8Iz855z-R-9TcJ3JM2JLyi0ocR6EYPCkfsg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/8lTE1G" group-title="ONFilmes",Demônio
+https://lh3.googleusercontent.com/vphyMHaOflFHp6Vz3-vpp1tV_h1biQIC_LazfkhdVllmrjyX1voOmMoSMF8IuNgdAi3CxVxCzg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/1eGU63" group-title="ONFilmes",O Franco-Atirador
+https://lh3.googleusercontent.com/hBi1AriysAg0fLgYRMPj633hV8QmVHfOMQFGWfg4xealeeOMviAyDcKT_kr_YAzCcZesf867EA=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/b6WlMv" group-title="ONFilmes",Jogos Mortais 2
+https://lh3.googleusercontent.com/LwSZs8kEjkgEw1XwpTcPa5HOURNr4tMWOfdJdJLgl4n98qt9ZwxsxN7zchPKZOZQuVIGr45FXA=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/vxn9JK" group-title="ONFilmes",Enterrando Minha Ex
+https://lh3.googleusercontent.com/YLD0ZxVfQDgXDs-5R1i5sLRSMkxZChFKul69Mx56RhMLHZpmAppphFhPDoK_1TdRPM4SsD_faw=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/7EPprq" group-title="ONFilmes",Todas As Cheerleaders Devem Morrer
+https://lh3.googleusercontent.com/lj_XYPh8Q1lJoPZfTLiOKUPu3rsxgTAF1l4byDt_jm8ilnj1IUJigfyS7m_s0aM9G8Utl__0gg=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/UWtpLo" group-title="ONFilmes",Resident Evil: O Hóspede Maldito
+https://lh3.googleusercontent.com/GiYO8LxAHIe8Pin-zv1B2qsD8xIhDCOzsXdL1K3s5tgf-GNgcJsQ2jbUARPMMAslFf2rPtHecQ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/1z64o2" group-title="ONFilmes",Jogos Mortais 6
+https://lh3.googleusercontent.com/WNMe0hcn7i2jV9AVDflu7XRk_fmXAJJCPFAr2BjebnojZX2z4sB5A7Tz7cere-LmTs3Gc9sh7Q=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/F8l2Ie" group-title="ONFilmes",Jogos Mortais
+https://lh3.googleusercontent.com/iCtCJL6hI_9kcBH2bYnXTIMXkmHdKGnL3fJKg1LVmJy-YAOSk6pOEWBENCibMH2vF2WvW9OUMg=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/NMtF7b" group-title="ONFilmes",Jogos Mortais - O Final
+https://lh3.googleusercontent.com/5V4WSUa-TLBa8jgelyr6nDhmgW6icLpOyQ5kDWEO9ULpOC3BqN8lG6M9gZzal2XcFa4bG0tR4A=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/sm7xRo" group-title="ONFilmes",Livrai-nos Do Mal
+https://lh3.googleusercontent.com/9Wfz4iBgossDzhRU_i4aNf-EH84SfSPkblKkf8RvQGW0BpduFjeA7yfGHgqgBi6lWPdIvK2WqA=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/aCr43X" group-title="ONFilmes",O Misterioso Caso De Judith Winstead
+https://lh3.googleusercontent.com/XfNHIgAEH7pt_Vu7p3wVYrC836jHrbDcRgMydMKaWV89prP610tB4ZPISDAC1hC3VtE5UOm7FA=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/risJnI" group-title="ONFilmes",Pacto Maligno
+https://lh3.googleusercontent.com/5PFJIOKrLrE3Dxevg1WCQVkUJ8y3xtKQeHSYIFPrfZDEuZdB8s1fdBF6uXzvodP5XGCZp_GqEQ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/udPR5D" group-title="ONFilmes",Visões Do Passado
+https://lh3.googleusercontent.com/hhO3NwzespNy0u3umypwKzk2p9usIO5VWg-QGk9agXmqdjJsG8z5T8Kg6ZpB3v-em7ywPNMXBQ=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/WBi21D" group-title="ONFilmes",Floresta Maldita
+https://lh3.googleusercontent.com/fbrIgkOngaucmMGzkHAFJs7IwzkieuhsQJ4RP60TJM9oxQQ9TVSkNCiPCB1vyebYok2B4fkYFg=m37
+#EXTINF:-1 tvg-logo="http://goo.gl/HcU4mc" group-title="ONFilmes",A Seita
+https://lh3.googleusercontent.com/a7TsY17dgUiJYcP6CY-v0Tnr39bw8PaCfl_Eghx8Iz855z-R-9TcJ3JM2JLyi0ocR6EYPCkfsg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/aOavWH" group-title="ONFilmes",A Hora Do Espanto 2
+https://lh3.googleusercontent.com/cenZKidr_vLEeME4GO4IrcI-eWDSJcWTBmyR0TxtyEMYRXe4EmgvRVG0ZH6CwfetH-soaTRIog=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/yH9jXi" group-title="ONFilmes",A Hora Do Espanto
+https://lh3.googleusercontent.com/ir1YJVa4XEvPLbeMGv4Ob6gr4Nr9akxsgQn96TjZgaWiOmXiJ87L97LsixdhDor-oJDYfoRixA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/wHC8uy" group-title="ONFilmes",Perseguição
+https://lh3.googleusercontent.com/y8aYLQBdaVLqZ15zhcLkHVm65SN5AkU-QMQUeOvDQ009UdrzQQYstI5ObcQDzEqO3Umb9EpXHQ=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/YsHvsK" group-title="ONFilmes",A Segunda Visão
+https://lh3.googleusercontent.com/AfLD-3tbdk77yIrt3aI0H4gjAD9_bSr52DW1emkH-eBxZ5qpABU4WQ5P0S_EbbM0hiCUByJaPg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/Sk1hrN" group-title="ONFilmes",A Chegada Do Diabo
+https://lh3.googleusercontent.com/Mt8PEQkorKWFzrmYTG_nb-t3ua7o1MymX1BCigdhkjWYgLyvS2n9oTxFFOj7d-zGNCpgDPmTnw=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/cDTAvc" group-title="ONFilmes",1408
+https://lh3.googleusercontent.com/ryjyF3pkPFTKVvp9xBm_TWW5wjSJFV2muzxSld3d2d9tcrfxkZeb6QQ5GM32q9F6amUM2l3dVw=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/WQbffw" group-title="ONFilmes",Doce Vingança
+https://lh3.googleusercontent.com/i2eboYREro12Xoqm5k_gA66TC1zpd5Nw2TKULMwyGABmdek4MeXnVgKGpZVZsLtXQnRUO5IKvw=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/G7u3QS" group-title="ONFilmes",O Espírito De Goodnight Lane
+https://lh3.googleusercontent.com/fTiMMnrD5s98WKuIKOMzgXEDNogEsSbUdWOdSt47sY9tbuBqlkCJKNlsMFB0wf6SL58WRpf5Tw=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/gqJP9R" group-title="ONFilmes",O Predador
+https://lh3.googleusercontent.com/vYNy_RQcCXyFxF_F3hmHOzvGBJ2xQtrg4y0Fc09ybH7Jm9oZeqa20Of4fvkitiiuvoLic2awIA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/ToQInR" group-title="ONFilmes",A Vizinhança Assombrada
+https://lh3.googleusercontent.com/D25HbBwKyaoT6iYeAVZbLxGto-ZSQmieQTLbiPk4xGZYDjgYcNsBOD-u_Q6_1YnC-IwvL6zurQ=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/FgJfES" group-title="ONFilmes",Sonâmbulos
+https://lh3.googleusercontent.com/c3YtsPyT6lZvhjVQojJWD0jzc56OpRelTj4TmtPxeC0bgVpMiBlGEsb9y4DYuqDh193f4ln6Bw=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/lHLi0i" group-title="ONFilmes",Hellboy
+https://lh3.googleusercontent.com/VDCC9kXQKMtduK5SSf9XFW2A7LeFwixQFE5vMq2TDFVLR_G_aXOFYs24p9lajc6WWcf3r1m5uQ=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/71U5VL" group-title="ONFilmes",Resident Evil: Condenação
+https://lh3.googleusercontent.com/nq_wWOnQvOa0wtxNbyfVst3VYLyDhFehJWCIOMl8kCfVHER25UqL0zDnRbZlVtxALmxUtSLYSg=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/u4fbTs" group-title="ONFilmes",Olheiras
+https://lh3.googleusercontent.com/hpUwwKSSyxVa-5fiLSMH5sc0RTzL2vofRngj80XGRsomb8IhcprNWyoyQvCX3nCDfjcFZnfohA=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/GltMve" group-title="ONFilmes",Resident Evil 5: Retribuição
+https://lh3.googleusercontent.com/O7ncNW4t7iL9F0M9lysAU0RAy3JIxtkIUMLYxZDFdNJMCUtB_AuRKU6ZX_0k11_M4KdYQ3GXIQ=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/bTLdup" group-title="ONFilmes",Amaldiçoados
+https://lh3.googleusercontent.com/YjRtt2KR_zMctlBheeGDFaIZr61gAUvO038EpjHHAOGSeziaaZDUgly1rk9BKKsFqETAAdp9Ew=m22
+#EXTINF:-1 tvg-logo="http://goo.gl/4j0GIO" group-title="ONFilmes",O Mistério Das Duas Irmãs
+https://lh3.googleusercontent.com/c_35SIUqYWdnrmKxN6EvzFelQDpbvjrbmxGLXU5KnijjN_y0Lf-5zm2gfpt1BxMc_z9dOmos-Q=m22
+---------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/3/v6/z1zlf_tnl_210x118.jpg?ts=20140530223429",O Ritual (2012)
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/y/n6/ty2lf_tnl_210x118.jpg?ts=20150325000851",Menina Ma.com
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/x/n6/oy2lf_tnl_210x118.jpg?ts=20150325003622",O Contrato
+http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/u/56/rv1lf_tnl_210x118.jpg?ts=20141111004527",A Janela Secreta
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/5/16/qp1lf_tnl_210x118.jpg?ts=20140710001508",Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/o/yl/49ayb_tnl_210x118.jpg?ts=20140406185151",Na Companhia Do Medo
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/w/il/r46wb_tnl_250x141.jpg?ts=20140406030608",O Codigo Da Vinci
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/k/j6/uwulf_tnl_250x141.jpg?ts=20140405082848",Rios Vermelhos
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/y/56/bw1lf_tnl_250x141.jpg?ts=20140930164826",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/t/kl/otbyb_tnl_250x141.jpg?ts=20140406232025",Desejo a Tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/3/sm/epfyb_tnl_210x118.jpg?ts=20140826224642",Red Corner
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebc2d95586.jpg",Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://br.web.img3.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/94/02/14/20296120.jpg",Mulher Solteira Procura
+http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://portal.julund.com.br/wp-content/uploads/2010/07/Quando-um-Estranho-Chama.jpg",Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://bocadoinferno.com/wp-content/uploads/2013/08/Estrada-Maldita-2007-4.jpg",Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2014/01/Lenda-Urbana-3-2005-5.jpg",Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/8e/Stigmata_film.jpg",Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/b/bd/Quarantineposter.jpg/200px-Quarantineposter.jpg",Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://www.gazetasetelagoana.com.br/wp-content/uploads/2011/07/identidade.jpg",Identidade
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://pipocacombo.com/wp-content/uploads/2012/01/A-beira-do-Abismo-331x480.jpg",A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/08/thumbs/c70156bb5addc6ac3cdc57d3a691c7b3_jpg_290x478_upscale_q90.jpg",Amar, Trair e Roubar
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://thayjustin.files.wordpress.com/2010/04/cativeiro1.jpg",Cativeiro
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://www.pluhma.com/locadora/capas/6289.jpg",Corpo em Evidencia
+http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/7/sl/udcyb_tnl_210x118.jpg?ts=20130429233115",Enquanto Ela Estiver Fora
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://www.blogsoestado.com/emcartaz/files/2012/10/Estranha.jpg",Estranha Obsessao
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/k/4l/8wcyb_tnl_210x118.jpg?ts=20130714165629",Hotel Ruanda
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images.quebarato.com.br/T440x/filme+malicia+jequie+ba+brasil__6FFD2D_1.jpg",Malicia
+http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Suspense" tvg-logo="http://images-br-am.crackle.com/1/e/am/3bdyb_tnl_210x118.jpg?ts=20130828194004",Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/v/96/731lf_tnl_210x118.jpg?ts=20141222172154",Bruno
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/g/f6/34ylf_tnl_210x118.jpg?ts=20150319123206",Casamento as Avessas
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/n/f6/w2ylf_tnl_210x118.jpg?ts=20150319114847",O ABC do Amor
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/a/56/lq1lf_tnl_210x118.jpg?ts=20150319144703",Juno
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/v/96/931lf_tnl_210x118.jpg?ts=20150225004527",As Branquelas
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/w/96/d41lf_tnl_210x118.jpg?ts=20150226222223",Bons Costumes
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/r/n6/2w2lf_tnl_210x118.jpg?ts=20150225004008",Julie & Julia
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/s/96/y01lf_tnl_210x118.jpg?ts=20141215203848",De Repente 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/j/96/uz1lf_tnl_210x118.jpg?ts=20141111004517",Meus Quinze Anos
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/3/f6/s7ylf_tnl_210x118.jpg?ts=20140407230223",Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/r/f6/d6ylf_tnl_210x118.jpg?ts=20140407213803",Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/9/l6/zjwlf_tnl_210x118.jpg?ts=20140407114709",Lembrancas de Hollywood
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/_/d6/i5vlf_tnl_210x118.jpg?ts=20140406222056",All That Jazz - O Show Deve Continuar
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/v/96/a41lf_tnl_210x118.jpg?ts=20141222175917",Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/d/4m/d9fyb_tnl_210x118.jpg?ts=20141117183313",Um Criminoso Decente
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/4/8l/t7cyb_tnl_210x118.jpg?ts=20130818173213",Os Seus, os Meus e os Nossos
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/d/l6/bdwlf_tnl_210x118.jpg?ts=20140407051244",Os Produtores
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/2/d6/g4vlf_tnl_210x118.jpg?ts=20140406173834",O clube de Leitura de Jane Austen
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/z/f6/a7ylf_tnl_210x118.jpg?ts=20140407221240",Lua de Mel em Las Vegas
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/2/v6/y1zlf_tnl_210x118.jpg?ts=20140530223520",Jogue a Mamae do Trem
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/h/om/kffyb_tnl_210x118.jpg?ts=20140623175915",Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/y/n6/q9ulf_tnl_210x118.jpg?ts=20140405171459",Eu, Minha Mulher e Minhas Copias
+http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/c/4m/c9fyb_tnl_210x118.jpg?ts=20141117191914",Annie
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/4/om/aifyb_tnl_210x118.jpg?ts=20140806022041",A Pantera Cor de Rosa
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/r/am/mddyb_tnl_210x118.jpg?ts=20130911200444",A Hora do Rango
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/c/qm/65dyb_tnl_210x118.jpg?ts=20140215035812",Um Salao do Barulho
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/q/im/7odyb_tnl_210x118.jpg?ts=20131025161222",A Rosa Purpura do Cairo
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/v/cl/7p4wb_tnl_250x141.jpg?ts=20140405153323",Mixed Nuts
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/p/4l/ql9wb_tnl_250x141.jpg?ts=20140405112550",Ricky Bobby - A Toda Velocidade
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/f/gl/rnbyb_tnl_250x141.jpg?ts=20121128184759",Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/3/sm/gpfyb_tnl_210x118.jpg?ts=20140826224640",Uma Festa no Ar
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg",Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-az.crackle.com/profiles/channels/100000114/BrowserPanelChannelBackground_300x169.jpg?ts=20121026110620",O Ultimo Grande Heroi
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://br.web.img1.acsta.net/pictures/210/211/21021105_20130718205428458.jpg",Kung-Fusao
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://mlb-s1-p.mlstatic.com/o-oposto-do-sexo-christina-ricci-dublado-14695-MLB72322752_7734-O.jpg",O Oposto do Sexo
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/6/8l/z7cyb_tnl_210x118.jpg?ts=20130817045430",Ironias do Amor
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://2.bp.blogspot.com/_5EE1wK9F0qs/S8FQSfNxFBI/AAAAAAAABbI/dH4bsgNcf9o/s1600/Um.Peixe.Chamado.Wanda.DVDRIP.Xvid.Dublado.jpg",Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/b/km/l7eyb_tnl_210x118.jpg?ts=20140414192334",Bastidores de um Casamento
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/3/16/jp1lf_tnl_210x118.jpg?ts=20140729190051",O Chamado de Xangai
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/x/n6/ry2lf_tnl_210x118.jpg?ts=20150325000719",Penelope
+http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/d/wl/recyb_tnl_210x118.jpg?ts=20130517224205",O Paraiso e Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/5/8l/w7cyb_tnl_210x118.jpg?ts=20130817042719",Nem Por Cima do Meu Cadaver
+http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2011/08/thumbs/9996069dd3b97c0eba9618a25df8cf08_jpg_290x478_upscale_q90.jpg",Adeus, Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/31/46/19874221.jpg",Um Amor de Verao
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://www.zerozen.com.br/video/otario01.jpg",O Otario
+http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://static.cinedica.com.br/capasm/6188.jpg",Tres Mulheres, Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://2.bp.blogspot.com/-p8Vo6FUVnmM/VCAvlsAQQ1I/AAAAAAAAIcM/eOIBHh2W-_Q/s1600/Meu%2BPrimeiro%2BAmor%2B-%2BParte%2B2.jpg",Meu Primeiro Amor - Parte 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://belezamaquiada.files.wordpress.com/2010/06/salaodobarulho.jpg",Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://2.bp.blogspot.com/-S6hPrZSFO5M/Tx3CkwAupbI/AAAAAAAABKI/P3xKjNmuEeo/s400/Super.Bad.E.Hoje.DVDRIP.Xvid.Dublado.JPG",Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://1.bp.blogspot.com/_5EE1wK9F0qs/TA8afo8VZDI/AAAAAAAAB8I/Fhro_JuHTPU/s1600/Segurando.as.Pontas.DVDIP.Xvid.Dublado.jpg",Segurando As Pontas
+http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://4.bp.blogspot.com/-d3glfrJcqlw/UwUC5OnDKBI/AAAAAAAAODg/n8-3Q6_fJVY/s1600/capa.jpg",Kung-Fu Futebol Clube
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://www.cranik.com/images/mrdeeds.jpg",A Heranca de Mr. Deeds
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://2.bp.blogspot.com/_G0ydGjcQI_8/TUBfZ4ec2EI/AAAAAAAABZ8/WqXoi1kA-yE/s320/image002-758252.jpg",A Inveja Mata
+http://media-br-am.crackle.com/1/0/v6/p1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://vod.img.estaticos.tv.br/static/uploaded/imagens/c745267dc4124ef799f15d070008660a.jpeg",A Ultima Missao
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://www.autobahn.com.br/filmes/a_volta_dos_mortos_vivos/screen01.jpg",A Volta dos Mortos Vivos
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2010/01/thumbs/e80d68a4635f5d8681f00af054c756b6_jpg_290x478_upscale_q90.jpg",Almondegas 4 - Ferias de Verao
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/j/l6/1dwlf_tnl_210x118.jpg?ts=20150319084339",Bolas em Panico
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://static.cinedica.com.br/capasm/10283.jpg",Como conquistar uma mulher
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/d/wl/tecyb_tnl_210x118.jpg?ts=20130517223307",Fido - O Mascote
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/funcionario-do-mes_cartaz_220x283.jpg",Funcionario do Mes
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/95/49/34/20408653.jpg",Grande Hotel
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/k/ol/y0byb_tnl_210x118.jpg?ts=20130222043142",Jogando com Prazer
+http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://2.bp.blogspot.com/-vn1jJoVbbuI/UcC_C4dZ3JI/AAAAAAAAJ2U/Gnr2VZYobi0/s1600/capa.jpg",Jogos, Trapacas E Dois Canos Fumegantes
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/11/00/19872109.jpg",Nao e Mais um Besteirol Americano
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://1.bp.blogspot.com/-wnbcEM6YDn4/UaU1HFQfk9I/AAAAAAAADEo/gzCyOvddTZc/s320/1920.jpg",O Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/m/im/ordyb_tnl_210x118.jpg?ts=20131119184935",O Julgamento de Paris
+http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://login.webadvisor.com.br/sites/1700/1730/2012Img/Agosto/OPaizAo.jpg",O Paizao
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/a/16/96wlf_tnl_210x118.jpg?ts=20150319110411",Os Safados
+http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://static.cineclick.com.br/sites/adm/uploads/banco_imagens/53/260x365_519ebb071e6de.jpg",Procurando Encrenca
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103769_000_c.jpg",Provas E Trapacas
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/e/gl/lkbyb_tnl_210x118.jpg?ts=20121126180437",Quase Ilegal
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://www.logicafeminina.com.br/wp-content/uploads/fetichesecretary.jpg",Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://images-br-am.crackle.com/1/r/im/9odyb_tnl_210x118.jpg?ts=20131029012940",Sob Suspeita (2006)
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-swingers-curtindo-a-noite-jon-favreau-14671-MLB101235607_6439-O.jpg",Swingers - Curtindo a Noite
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://27.media.tumblr.com/tumblr_le9klopJxT1qd6icvo1_500.jpg",Trabalho Sujo
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://blogdoheu.files.wordpress.com/2010/02/tres-amigos.jpg",Tres Amigos!
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/d1ac6b5e922764939e1c90b5a7aad430_jpg_290x478_upscale_q90.jpg",Uma Noiva e Tanto
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/uma-turma-do-barulho_cartaz_220x283.jpg",Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Comedia" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/25/20/19873566.jpg",Vamos Nessa
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/g/f6/44ylf_tnl_210x118.jpg?ts=20150319121122",As Faces de Helen
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/y/f6/73ylf_tnl_210x118.jpg?ts=20140407184313",Encontros ao Acaso
+http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/y/r6/3gvlf_tnl_210x118.jpg?ts=20140406014615",Sexo, Mentiras e Videotape
+http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/w/96/b41lf_tnl_210x118.jpg?ts=20150226222527",Vestigios do Dia
+http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/8/l6/ujwlf_tnl_210x118.jpg?ts=20140407115042",Lendas da Paixao
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/x/56/6v1lf_tnl_210x118.jpg?ts=20141027193137",Rain Man
+http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/9/l6/wjwlf_tnl_210x118.jpg?ts=20140407115036",Desaparecidas
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/q/sl/wbcyb_tnl_210x118.jpg?ts=20140407013733",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/r/im/apdyb_tnl_210x118.jpg?ts=20131029010328",Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/p/f6/55ylf_tnl_210x118.jpg?ts=20140407203352",Os Miseraveis
+http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/x/n6/o9ulf_tnl_210x118.jpg?ts=20140405171055",O Aprendiz
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/1/16/cp1lf_tnl_210x118.jpg?ts=20140729190057",Nas Profundezas Do Mar Sem Fim
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://molhoingles.com/wp-content/uploads/2012/03/lawrence-da-arabia.jpg",Lawrence da Arabia
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/d/qm/85dyb_tnl_210x118.jpg?ts=20140215040928",Nao Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/p/wm/6ufyb_tnl_210x118.jpg?ts=20140929173900",A Outra
+http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://famososnaweb.com/wp-content/uploads/2015/01/amigas.jpg",Amigas com Dinheiro
+http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://www4.cinemaemcena.com.br/gabinetedokas/wp-content/uploads/old/homem_fora_serie.jpg",Um homem fora-de-serie
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://amofilmes.net/wp-content/uploads/Segundas_Intencoes_3_DVDRIP_Xvid_Dublado.jpg",Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://br.web.img1.acsta.net/pictures/14/03/19/20/14/334055.jpg",Garotas Selvagens 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/32/95/19874376.jpg",O Povo Contra Larry Flynt
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/l/om/1ffyb_tnl_210x118.jpg?ts=20140624185200",Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/sedutora-e-diabolica_cartaz_220x283.jpg",Sedutora e diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://4.bp.blogspot.com/-16x-byBGFd0/Tfj3HfwnIFI/AAAAAAAAAMg/fVE5ZwJV4sc/s1600/five+easy+pieces.jpg",Cada um Vive Como Quer
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://www.imagemfilmes.com.br/resources/capas/103791_000_p.jpg",As coisas impossiveis do amor
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/24/19874302.jpg",Vidas Que Se Cruzam
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg?ts=20130817031148",O Despertar de uma Paixao
+http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/17/45/19872769.jpg",Por Amor
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://guiadoscuriosos.com.br/blog/wp-content/uploads/2014/02/MPW-13543.jpg",Oliver!
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://www.omelete.com.br/imagens/cinema/artigos/laurel_canyon/poster.jpg",Laurel Canyon - A Rua das Tentacoes
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/rancho-do-amor_cartaz_220x283.jpg",O Rancho do Amor
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://static.omelete.uol.com.br/legacy/imagens/cinema/artigos2/um_segredo_entre_nos/poster.jpg",Um Segredo Entre Nos
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://4.bp.blogspot.com/_v42LCUO_1aQ/TL2LFXX-i3I/AAAAAAAABBA/xUJMV51UyKY/s1600/ErinBrockovich.jpeg",Erin Brockovich - Uma Mulher de Talento
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images1.folha.com.br/livraria/images/3/c/1153148-250x250.png",Sete Vidas
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/x/om/gefyb_tnl_210x118.jpg?ts=20140613195929",Hackers - Piratas de Computador
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://www.menupeliculas.com/Content/images/portadas/7644_portada.JPG",12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://cdnfstatic.com/public/movies/covers/2012/11/thumbs/02054b78c67dc7d29227e41714ccc8b6_jpg_290x478_upscale_q90.jpg",8mm - Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TTzF5UqPHuI/AAAAAAAAFO4/0i8SLCRjChY/s250/8MM%2B2%2B-%2BOito%2BMil%25C3%25ADmetros%2B2.jpg",8mm - Oito Milimetros 2
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/28/18/19873882.jpg",Caminho Sem Volta
+http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/c/qm/55dyb_tnl_210x118.jpg?ts=20140215040200",A festa nunca termina
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/04/thumbs/929fe571609821c83d5907ea5deecf24_jpg_290x478_upscale_q90.jpg",A Grande Jogada
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/93/46/96/20258667.jpg",As Duas Faces Da Lei
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/65/30/20107036.jpg",Coisas Belas E Sujas
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/s/im/cpdyb_tnl_210x118.jpg?ts=20131029003846",Femme Fatale
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2012/05/thumbs/3470bed8b6e18f07dbe29c40602e81c3_jpg_290x478_upscale_q90.jpg",Inocente Ou Culpado
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/9/0l/qscyb_tnl_210x118.jpg?ts=20130626020853",Luta Pela Liberdade
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://1.bp.blogspot.com/_We7_bc6rARk/TCz5R29j02I/AAAAAAAAJaQ/wXCoI-BIzzk/s1600/marcas.jpg",Marcas do passado
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://4.bp.blogspot.com/-UHJgm5_LB_4/U_bf8aiRBeI/AAAAAAAAKRk/0wawskdeGWU/s1600/capa%2B11.jpg",O Cantor
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/k/ol/w0byb_tnl_210x118.jpg?ts=20130222042219",O Ilusionista
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://mlb-s2-p.mlstatic.com/dvd-filme-o-resgate-de-um-campeo-dublado-14365-MLB212187990_2182-F.jpg",O Regaste de um Campeao
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://cineindiscreto.files.wordpress.com/2010/12/o-golpista-do-ano-poster.jpg",O Vigarista do ano
+http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://cinezencultural.com.br/site/wp-content/uploads/2009/08/rededeintrigas.jpg",Rede de Intrigas
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://telecine.img.estaticos.tv.br/cache/cartazes/seducao-fatal_cartaz_220x283.jpg",Seducao Fatal
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://eovideolevou.com.br/imgProduto/70303_f1.jpg",Seis Graus de Separacao
+http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/t/am/sddyb_tnl_210x118.jpg?ts=20130912034254",Sem Saida
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/21/59/19873197.jpg",Studio 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/8/sl/ydcyb_tnl_210x118.jpg?ts=20130429232410",Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/x/n6/qy2lf_tnl_210x118.jpg?ts=20150325003111",Premonicoes
+http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Drama" tvg-logo="http://images-br-am.crackle.com/1/z/n6/zy2lf_tnl_210x118.jpg?ts=20150325002801",A Ultima Profecia
+http://media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Fantasia" tvg-logo="http://images-br-am.crackle.com/1/w/h6/57vlf_tnl_210x118.jpg?ts=20150319074354",Uma Garota Encantada
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Fantasia" tvg-logo="http://images-br-am.crackle.com/1/y/56/8v1lf_tnl_210x118.jpg?ts=20150319151355",Simplesmente Alice
+http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://images-br-am.crackle.com/1/8/16/5p1lf_tnl_210x118.jpg?ts=20150319135628",SacrifÃÂÃÂÃÂÃÂ­cio
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://images-br-am.crackle.com/1/j/l6/ydwlf_tnl_210x118.jpg?ts=20140407063858",A Informante
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-o-sangue-de-romeo-gary-oldman-14575-MLB95378491_5724-O.jpg",O Sangue de Romeo
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/93/75/92/20275887.jpg",O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://4.bp.blogspot.com/-rvm54VwSzGI/UBN06wq9OFI/AAAAAAAAIN4/zgohwGDAVmU/s250/filme+mulher+solteira+procura.jpg",Solteira Procura 2
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://dvdefilme.files.wordpress.com/2012/08/dirty-o-poder-da-corrupc3a7c3a3o.jpg",Poder e Corrupcao (Dirty)
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://megapix.img.estaticos.tv.br/cache/cartazes/amigos-de-caca_cartaz_220x284.jpg",Amigo de Caca
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://images-br-am.crackle.com/1/5/8l/u7cyb_tnl_210x118.jpg?ts=20130817031148",Aprendendo A Viver
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://images-br-am.crackle.com/1/c/qm/75dyb_tnl_210x118.jpg?ts=20140219012906",Caminhos Opostos
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/94/01/20497721.jpg",Eu Sei Quem Me Matou
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://images-br-am.crackle.com/1/6/8l/27cyb_tnl_210x118.jpg?ts=20130904015547",Homens Perigosos
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/29/50/19874017.jpg",O Sequestro do Metro 123
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://br.web.img1.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/87/76/63/19961328.jpg",O Tango e o Assassino
+http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://1.bp.blogspot.com/_7HNyPzlnadY/StUnB_XadjI/AAAAAAAAAT0/FJVkgkUJoPo/s400/60secondsdvdvs2ja7.jpg",Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Crime" tvg-logo="http://mlb-s1-p.mlstatic.com/dvd-original-do-filme-paraiso-14505-MLB3104010334_092012-O.jpg",Paraiso
+http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/9/16/6p1lf_tnl_210x118.jpg?ts=20150319135935",Os Mensageiros
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/q/r6/b22lf_tnl_210x118.jpg?ts=20150407194405",Turistas
+http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/z/km/f7eyb_tnl_210x118.jpg?ts=20140414192627",Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/v/n6/g6ulf_tnl_210x118.jpg?ts=20140828000203",Resident Evil - Apocalipse
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/r/16/68wlf_tnl_210x118.jpg?ts=20140407152126",O Albergue 2
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/f/l6/hdwlf_tnl_210x118.jpg?ts=20140407054512",Jovens Bruxas
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/_/h6/tcwlf_tnl_210x118.jpg?ts=20140407045421",Evil Dead - A Morte do Demonio
+http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://br.web.img2.acsta.net/r_160_240/b_1_d6d6d6/pictures/14/10/07/20/11/210244.jpg",O Albergue
+http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://2.bp.blogspot.com/_yDXkSU18DUc/SwfehPM4UsI/AAAAAAAAABo/4QykdqJ5zJw/s320/GRD_lenda2.jpg",Lenda Urbana 2
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://cinepop.virgula.uol.com.br/cartazes/silenthill2_2.jpg",Silent Hill: Revelacao
+http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/s/ml/pkayb_tnl_210x118.jpg?ts=20140406162015",O Grito 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://www.alemdaimaginacao.com/Noticias/Christine/christine_capa.jpg",Christine - O Carro Assassino
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/t/am/uddyb_tnl_210x118.jpg?ts=20130912035430",Brinquedo Assassino
+http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2333_Kalifornia.jpg",Kalifornia - Uma Viagem ao Inferno
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://www.interfilmes.com/FILMES/21900/21934/fotocapa.jpg",Nao Adianta Fugir
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://2.bp.blogspot.com/-gpoIzH_d9nw/TeKj6reaCZI/AAAAAAAAJvs/yJTkc-QPJuo/s320/o+principal+suspeito.jpg",O Principal Suspeito
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/4/4b/Rec_poster.jpg",REC
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://1.bp.blogspot.com/_l1HtIw7ZdA0/Sy9MpO-3MDI/AAAAAAAACEo/0iHKWEUXlns/s400/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.jpg",Tentaculos
+http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://images-br-am.crackle.com/1/q/4l/yucyb_tnl_210x118.jpg?ts=20130626021755",Torturado
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Terror" tvg-logo="http://bocadoinferno.com.br/wp-content/uploads/2013/05/Vestida-para-Matar-1980-3.jpg",Vestida Para Matar
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/d/f6/t4ylf_tnl_210x118.jpg?ts=20140405033900",Feitico do Tempo
+http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/o/4j/grftb_tnl_210x118.jpg?ts=20110917104501",Anjos da Noite: A Evolucao
+http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/u/96/631lf_tnl_210x118.jpg?ts=20141222172140",Hancock
+http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/w/n6/j9ulf_tnl_210x118.jpg?ts=20140405171038",Fuga de Absolom
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/z/n6/v9ulf_tnl_210x118.jpg?ts=20140405174313",Dr. Fantastico
+http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/h/om/lffyb_tnl_210x118.jpg?ts=20140623175138",Supernova
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/e/r6/tbvlf_tnl_210x118.jpg?ts=20140406004625",Starman - O Homem das Estrelas
+http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/e/um/qaeyb_tnl_210x118.jpg?ts=20140313025209",Robocop 3
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/o/d6/y2vlf_tnl_210x118.jpg?ts=20140406144444",Robocop - O Policial do Futuro
+http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/g/wl/3ecyb_tnl_210x118.jpg?ts=20140407010437",Herois
+http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://3.bp.blogspot.com/-yC451wGpQYc/Ua_7UrelWzI/AAAAAAAAAL8/KdwTr1j7_mU/s320/Resident+Evil+-+O+Hospede+Maldito.jpg",Resident Evil - O Hospede Maldito
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/c/qm/45dyb_tnl_210x118.jpg?ts=20140216050223",1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/93/39/20121003.jpg",Contatos Imediatos de Terceiro Grau
+http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/01/02/19871066.jpg",Equilibrio
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/e/ee/Existenz.jpg/200px-Existenz.jpg",eXistenZ
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://bastidoores.files.wordpress.com/2010/12/skyline-poster-20102010.jpg",Skyline - A Invasao
+http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://images-br-am.crackle.com/1/j/4l/1wcyb_tnl_210x118.jpg?ts=20130723012745",Violacao de Privacidade
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Ficcao Cientifica" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/3/34/Resident_Evil_Extinction.jpg",Resident Evil 3: A Extincao
+http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/r/n6/0w2lf_tnl_210x118.jpg?ts=20150327002552",Espiao Por Acidente
+http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/x/n6/py2lf_tnl_210x118.jpg?ts=20150331003545",Redline: Velocidade sem Limites
+http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/y/n6/sy2lf_tnl_210x118.jpg?ts=20150325001658",Ong-Bak - Guerreiro Sagrado
+http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/j/8m/dhgyb_tnl_210x118.jpg?ts=20141222170718",Triplo X
+http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/r/n6/1w2lf_tnl_210x118.jpg?ts=20150225175910",O Homen Sombra
+http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/r/z6/wuvlf_tnl_210x118.jpg?ts=20140406101230",XXX2 - Estado de Emergencia
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/4/f6/w7ylf_tnl_210x118.jpg?ts=20140407231429",Replicante
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/5/f6/y7ylf_tnl_210x118.jpg?ts=20140407231628",JCVD
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://www.interfilmes.com/FILMES/16100/16150/fotocapa.jpg",O Forasteiro 2
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://www.assistirfilmesdublados.com.br/wp-content/uploads/2015/01/Anjos-Da-Noite-3-a-Rebeli%C3%A3o.jpg",Anjos da Noite 3 - A Rebeliao
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://3.bp.blogspot.com/_YJ5kgB-UVT8/S0xiMvxGOGI/AAAAAAAAAZM/JoLWl4lmYCI/s250/eu+sou+espiao.jpg&w=166&h=250",Sou Espiao
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://cinema10.com.br/upload/filmes/filmes_2988_Assalto%20Sobre%20Trilhos.jpg",Assalto Sobre Trilhos
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://mlb-s1-p.mlstatic.com/vhs-excesso-de-bagagem-alicia-silverstone-14215-MLB88858427_559-O.jpg",Excesso de Bagagem
+http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/7/sl/wdcyb_tnl_210x118.jpg?ts=20130429224803",Vinganca
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://eovideolevou.com.br/imgProduto/70987_f1.jpg",Horas de Desespero
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/p/im/zrdyb_tnl_210x118.jpg?ts=20131121023127",Haven
+http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://www.fulltv.com.ar/images/peliculas/kuffs-poli-por-casualidad.jpg",Agente Indomavel
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/d/qm/a6dyb_tnl_210x118.jpg?ts=20140219014649",Guerra ao Terror
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://comprepelanet.net/oscommerce/images/FantasmasDeMarte.jpg",Fantasmas de Marte
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/90/70/07/20109058.jpg",S.W.A.T. - Comando Especial
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/x/ol/f2byb_tnl_210x118.jpg?ts=20130301124935",Crash: No Limite
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://static.cinedica.com.br/capasm/6147.jpg",Mergulho Radical 2: Os Recifes
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://br.web.img1.acsta.net/r_160_240/b_1_d6d6d6/medias/nmedia/18/92/09/53/20180406.jpg",Hooligans: Furia nos campos
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/q/mm/h0dyb_tnl_210x118.jpg?ts=20140116232555",A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://cdn.fstatic.com/public/movies/covers/2013/09/thumbs/caes-de-guerra_t23736_jpg_290x478_upscale_q90.jpg",Caes de Guerra
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://blogdoheu.files.wordpress.com/2011/01/conquistasangrenta.jpg",Conquista Sangrenta
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://mlb-s2-p.mlstatic.com/dvd-original-do-filme-desafio-radical-devon-sawa-14507-MLB3055191906_082012-O.jpg",Desafio Radical
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://2.bp.blogspot.com/_qzW5Q7OTOqc/SZxSF5WUsOI/AAAAAAAABjg/NagKJ2gZaPM/s250/divisao.jpeg&w=166&h=250",Divisao de Homicidios
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://upload.wikimedia.org/wikipedia/en/2/2e/Godzilla_%281998_Movie_Poster%29.jpg",Godzilla (1998)
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://3.bp.blogspot.com/_lK3IcXkTsJQ/TOqFdtjmT4I/AAAAAAAAAS8/Z64IHFH46uY/s250/gfh5nbv.jpg",Cacada sem Treguas
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://user.img.todaoferta.uol.com.br/C/J/XT/VGRGK2/bigPhoto_0.jpg",Honra e Coragem - As Quatro Plumas
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://eovideolevou.com.br/imgProduto/70987_f1.jpg",Horas de Desespero
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/k/gl/dlbyb_tnl_210x118.jpg?ts=20121126181406",Impacto Mortal
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/8/87/Karate_kid_part_iii.jpg",Karate Kid 3 - O Desafio Final Filme
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://4.bp.blogspot.com/-9Tx7A1GJjTA/TcBiYXYYF_I/AAAAAAAABco/K0fs2f2CdkY/s640/matador%2Bde%2Baluguel.jpg",Matador De Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://www.saudadeeadeus.com.br/images/colecionador_ossos.jpg",O Colecionador de Ossos
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://4.bp.blogspot.com/-YjVYBCmC86A/Ur9jJsvT7VI/AAAAAAAARsc/axm5DzjE4T0/s1600/O+grande+anjo+negro+poster.jpg",O Grande Anjo Negro
+http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/s/am/pddyb_tnl_210x118.jpg?ts=20130912022729",O Guardiao
+http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/o/im/wrdyb_tnl_210x118.jpg?ts=20131119184818",O Guardiao - 2 Retorno As Minas do Rei Salomao
+http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/o/im/vrdyb_tnl_210x118.jpg?ts=20131119184648",O Guardiao 3 - A Maldicao do Calice de Judas
+http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/w/4l/kzcyb_tnl_210x118.jpg?ts=20130723012026",O Legionario
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/b/ol/u2byb_tnl_210x118.jpg?ts=20130304183010",O Senhor das Armas
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://br.web.img1.acsta.net/medias/nmedia/18/87/17/46/19872770.jpg",Os Reis de Dogtown
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://vod.img.estaticos.tv.br/static/uploaded/imagens/682096_1.jpg",Red - Aposentados e Perigosos
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/n/im/rrdyb_tnl_210x118.jpg?ts=20131121020104",Risco Absoluto
+http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://www.moviepilot.de/files/images/0579/4090/3musk.jpg",RoboCop 2
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://upload.wikimedia.org/wikipedia/pt/thumb/c/ca/Rocky_Balboa_2006.jpg/250px-Rocky_Balboa_2006.jpg",Rocky Balboa
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/r/4l/zucyb_tnl_210x118.jpg?ts=20130626022523",Ruslan - Vinganca Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/h/ql/oh7wb_tnl_210x118.jpg?ts=20111102095941",Soldado Universal 3 - Regeneracao
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/7/sl/vdcyb_tnl_210x118.jpg?ts=20130429223858",Tempos de Violencia
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://2.bp.blogspot.com/-w8tq3EXTCCY/TaZEosyEriI/AAAAAAAAAQU/-YGCuojAmNA/s1600/Um+Ato+de+Liberdade.jpg",Um Ato de Liberdade
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://mlb-s2-p.mlstatic.com/promoco-dvd-viciado-em-sexo-orig-raro-14184-MLB227102488_3468-O.jpg",Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://static.cinedica.com.br/capasm/798476664.jpg",Vou Te Pegar Otario
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://www.largadoemguarapari.com.br/13largado/wp-content/uploads/2013/08/WASABI.jpg",Wasabi
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Acao" tvg-logo="http://images-br-am.crackle.com/1/m/56/vr1lf_tnl_210x118.jpg?ts=20150319150738",O Nome do Jogo
+http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/y/z6/ssvlf_tnl_210x118.jpg?ts=20150319043936",Greta
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/u/56/uv1lf_tnl_210x118.jpg?ts=20140925193105",Como Se Fosse a Primeira Vez
+http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/e/l6/edwlf_tnl_210x118.jpg?ts=20140407052527",Atraidos Pelo Destino
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/p/d6/12vlf_tnl_210x118.jpg?ts=20140406144501",Tres Mulheres, Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/0/v6/o1zlf_tnl_210x118.jpg?ts=20140430214737",Persuasao
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/w/4m/k8fyb_tnl_210x118.jpg?ts=20141113192534",O Melhor Amigo da Noiva
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/5/8l/y7cyb_tnl_210x118.jpg?ts=20130817044800",Nicholas Nickleby
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/0/16/6o1lf_tnl_210x118.jpg?ts=20140625202855",Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/t/am/vddyb_tnl_210x118.jpg?ts=20130912041715",O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/9/0l/oscyb_tnl_250x141.jpg?ts=20130626010117",Tres Mulheres, Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/9/16/7p1lf_tnl_210x118.jpg?ts=20140827233900",Pegar e Largar
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://images-br-am.crackle.com/1/d/wm/ttfyb_tnl_210x118.jpg?ts=20140929194144",Funny Lady
+http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://amalgama.blog.br/imagens/101/casamento-de-rachel.jpg",O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg",Apenas Uma Vez
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Romance" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/87/32/62/19874342.jpg",A Jovem Rainha Victoria
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Guerra" tvg-logo="http://images-br-am.crackle.com/1/7/16/1p1lf_tnl_210x118.jpg?ts=20140827235501",Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+#EXTINF:-1 $ExtFilter="Crackle | Filmes" group-title="Guerra" tvg-logo="http://images-br-am.crackle.com/1/3/v6/01zlf_tnl_210x118.jpg?ts=20140530224248",A Guerra de Hart
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+
+
+#EXTINF:-1 tvg-logo="portugal.png" tvg-logo="C:\TVIPCABONET\Kodi\portable_data\userdata\Thumbnails\logos\portugal.png" group-title="Adultos +18",FTV
+http://176.78.137.130:8001/1:0:1:51F:67:53:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="portugal.png" tvg-logo="C:\TVIPCABONET\Kodi\portable_data\userdata\Thumbnails\logos\portugal.png" group-title="Adultos +18",Venus
+http://176.78.137.130:8001/1:0:1:D5:66:53:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18",Miami TV
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Really
+http://78.46.64.13:1935/tv3/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Brazzers TV
+http://93.87.85.70/PLTV/88888888/224/3221226769/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", PlayBoy TV
+http://live.softiptv.com:9900/live/Julian/Julian/8196.m3u8
+
+#EXTINF:-1 tvg-logo="portugal.png" tvg-logo="C:\TVIPCABONET\Kodi\portable_data\userdata\Thumbnails\logos\portugal.png" group-title="Adultos +18",Playboy TV
+http://176.78.137.130:8001/1:0:1:527:67:53:CE40000:0:0:0:
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Playy 19+
+http://edge2.everyon.tv/etv2sb/phd10769/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", ButGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Okadai TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10499/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Sexy Sat Brasil
+http://81.89.48.215:1935/xyz888wkz/xy8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", ASK TV
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Penthouse Asia 18+
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Playboy Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Sakura Porn TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", LIVETing TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="Adultos +18", Storm Babes TV
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8
