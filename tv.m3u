@@ -1,3 +1,237 @@
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbt.png" group-title="CANAIS SMART TV",SBT SP INTERIOR
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvcidade.png" group-title="CANAIS SMART TV",SBT PI (OCASIONAL)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjornal.png" group-title="CANAIS SMART TV", SBT RECIFE
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjornal.png" group-title="CANAIS SMART TV", SBT CARUARU
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvaratu.png" group-title="CANAIS SMART TV", SBT BA - TV ARATU
+http://stream.tvpapodetudo.com.br:1935/aratuduZgOqNa/myStream.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.tvrba.com.br/images/log-rbatv.jpg" group-title="CANAL ABERTO",BAND RBA - PARÁ 
+http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/1uNFUhTl76/d9V03nvlaC2TxBQC.png" group-title="CANAL ABERTO",SBT RECIFE
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbt.png" group-title="CANAIS SMART TV",SBT HD
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbt.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbt.png" group-title="CANAIS SMART TV",SBT HD
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbt.m3u8
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="CANAIS SMART TV",REDE ESGOTO
+http://137.74.93.219:8000/live/ch@Oui!_!72/ch@Oui!_!72/3167.ts
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-p-WtmdnR-Q8/VO6KdhEVmDI/AAAAAAAAAlA/1eXuL1tEXhk/s1600/m1.png" group-title="CANAIS SMART TV",REDE ESGOTO(A GLOBO) 
+http://31.204.128.117:8081/live/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=http://2.bp.blogspot.com/-p-WtmdnR-Q8/VO6KdhEVmDI/AAAAAAAAAlA/1eXuL1tEXhk/s1600/m1.png" group-title="CANAIS SMART TV",REDE ESGOTO SP
+http://31.204.128.117:8081/live/sptv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-njwQf1sIXcY/Ts_s6JrSOJI/AAAAAAAAKco/AoPOI4MYkRg/s1600/Logo+Band.png" group-title="CANAL ABERTO", BAND SP
+http://31.204.128.117:8081/live/band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvrba.com.br/images/log-rbatv.jpg" group-title="CANAL ABERTO",BAND RBA - PARÁ 
+http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1094092344/logo_TV_Vitoria_copy.jpg" group-title="CANAIS SMART TV", TV Vitoria RECORD ES HD
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-vOgpdiPkfuo/VQT8TSWylbI/AAAAAAAAAJc/1GrMwcqBspY/s80/record.png" group-title="CANAIS SMART TV",RECORD TV CORREIO PB
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1094092344/logo_TV_Vitoria_copy.jpg" group-title="CANAIS SMART TV", TV Vitoria RECORD ES HD
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-vOgpdiPkfuo/VQT8TSWylbI/AAAAAAAAAJc/1GrMwcqBspY/s80/record.png" group-title="CANAIS SMART TV",RECORD TV CORREIO PB
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://a4.mzstatic.com/us/r30/Purple49/v4/8b/e1/bc/8be1bc5e-0d3c-3c1b-4543-ddb1afcee46d/icon175x175.jpeg" group-title="CANAIS SMART TV",BYU TV
+http://byuhd2-lh.akamaihd.net/i/byutvintporthd2_live@103132/index_2540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1094092344/logo_TV_Vitoria_copy.jpg" group-title="CANAIS SMART TV", TV Vitoria RECORD ES HD
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-vOgpdiPkfuo/VQT8TSWylbI/AAAAAAAAAJc/1GrMwcqBspY/s80/record.png" group-title="CANAIS SMART TV",RECORD TV CORREIO PB
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://a4.mzstatic.com/us/r30/Purple49/v4/8b/e1/bc/8be1bc5e-0d3c-3c1b-4543-ddb1afcee46d/icon175x175.jpeg" group-title="CANAIS SMART TV",BYU TV
+http://byuhd2-lh.akamaihd.net/i/byutvintporthd2_live@103132/index_2540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cultura_logo_2010.svg/2000px-Cultura_logo_2010.svg.png" group-title="CANAIS SMART TV",TV CULTURA HD - ITARARÃ? PB
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cultura_logo_2010.svg/2000px-Cultura_logo_2010.svg.png" group-title="CANAIS SMART TV",TV Cultura
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvbaiana.png" group-title="CANAIS SMART TV",TV CULTURA - BAHIA
+http://cdn-br-002938543.comets.com.br/tvbaiana/aovivo/chunklist_w1472016693.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvitarare.png" group-title="CANAIS SMART TV", TV CULTURA HD - ITARARÉ PB
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="CANAIS SMART TV",REDETV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redetvrn.png" group-title="CANAIS SMART TV",REDETV RN
+http://tv.taaqui.org:1935/redetvrn/redetvrn/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redetvrn.png" group-title="CANAIS SMART TV", REDETV SUDOESTE
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvarapuan.png" group-title="CANAIS SMART TV",REDETV ARAPUAN -  PB
+http://mediacp.ciclanohost.com.br:1935/8064/8064/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565204197675507712/LX2kxB8D.jpeg" group-title="CANAIS SMART TV", REDE FAM?ILIA
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="CANAIS SMART TV", TVE RS
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://goo.gl/0zbE78" group-title="CANAIS SMART TV", TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://snews.tv/2015/wp-content/uploads/2015/08/logo_tv_novo.png" group-title="CANAIS SMART TV", FUTURA TV UNIVATES
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.camaraconchas.sp.gov.br/Figuras/TV_Assembleia_SP_61_2__2015.jpg" group-title="CANAIS SMART TV", TV ASSEMBLEIA SP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/479278823519703040/CfRkvHio_400x400.jpeg" group-title="CANAIS SMART TV", TV CAMARA
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png" group-title="CANAIS SMART TV", TV Cidade Verde
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/150/redebrasil.png" group-title="CANAIS SMART TV",Tv Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?AndreOid
+
+------------------VARIEDADES---------------------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/canal_saude_assistir_ao_vivo.jpg" group-title="Canais de Variedades",CANAL SAUDE
+http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
+#EXTINF:-1 tvg-logo="https://lut.im/AIywZYNCnM/JNmQMcJ3hr5OQlg5.png" group-title="Canais de Variedades", NGT RJ HD
+http://iphone-streaming.ustream.tv:80/uhls/14419615/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://gvnews.tv.br/wp-content/uploads/2015/03/logo.png" group-title="Canais de Variedades", GVNEWS - VITÓRIA ES
+http://172.93.110.130:1935/gvnews/gvnews/live.m3u8?AndreOid
+#EXTINF:1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8S0EitRHpQdk-AtfAzv0YAU1IepYAMZ4p81a2_MCFd98l-v8h" group-title="Canais de Variedades", FISH TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8?AndreOid
+#EXTINF:1 tvg-logo="http://gvnews.com.br/wp-content/uploads/2016/03/gvnews-doisanos.jpg" group-title="Canais de Variedades",GV NEWS
+http://172.93.110.130:1935/gvnews/gvnews/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/DZ1aul" group-title="Canais de Variedades",TV PONTA NEGRA NEWS
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/5QsFh6" group-title="Canais de Variedades",TV PANTANAL
+http://78.46.36.212:1935/tvpantanalms//tvpantanalms/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/Ww8ID5" group-title="Canais de Variedades",mkk
+http://wsemedia.com:1935/marcoaurelio84/marcoaurelio84/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://tvwebcidade.net/wp-content/uploads/2015/01/logo1.png" group-title="Canais de Variedades",TV WEB Cidade
+http://stmv1.srvstm.com/tvwebcidade/tvwebcidade/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/Jdcnin" group-title="Canais de Variedades" ,CONEXÃ?O BR
+http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dfc2cda465307e3040ffe29d4849e87.jpg" group-title="Canais de Variedades",CWB TV
+http://38.96.175.108:1935/cwbtv/cwbtv/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.infointerativa.com/wp-content/uploads/logo/shoptime.png" group-title="Canais de Variedades",SHOPTIME
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_lld8saie_all.smil/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://goo.gl/u4HtY5" group-title="Canais de Variedades",REDE CORREIO TV
+http://flash1.crossdigital.com.br:1935/491/491/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvmorena.png" group-title="Canais de Variedades",Via Morena
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-DJhqzu20_HY/UMLch5JjeQI/AAAAAAAAA1s/pagXgPRZK0E/s1600/Tv-Online-Logo.png" group-title="Canais de Variedades" , TV ONLINE
+http://painelvj.com.br:1935/tvonline/tvonline.sdp/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-PtYhqa3DUK8/AAAAAAAAAAI/AAAAAAAAAAA/zFbiRv4QCY8/s900-c-k-no/photo.jpg" group-title="Canais de Variedades" ,TV GOIAS
+http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.gruporbs.com.br/noticias/wp-content/uploads/sites/3/2014/06/Logo_TVCOM1.png" group-title="Canais de Variedades" ,TVCADM
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://www.sba1.com/wp-content/uploads/2012/07/logo_agrocanal_programacao.jpg" group-title="Canais de Variedades" ,AGRO CANAL MS
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Ijp6o0q.png" group-title="Canais de Variedades", Multi TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YOfUvNM.jpg" group-title="Canais de Variedades", RCTV
+http://flash1.crossdigital.com.br/491/491/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6SJkynf.jpg" group-title="Canais de Variedades", TV Jornal Caruaru
+http://evp.mm.uol.com.br/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/63/Logotipo_da_TV_Di%C3%A1rio.png" group-title="Canais de Variedades", TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/585768001376509952/sde82n8L.png" group-title="Canais de Variedades", MULTI TV CIDADES
+rtmp://a3.fabricahost.com.br:1935/multitv/stream?AndreOid
+#EXTINF:-1 tvg-logo="http://www.tvpantanalms.com.br/images/logo_menor.png" group-title="Canais de Variedades", TV PANTANAL MS
+http://78.46.36.212:1935/tvpantanalms//tvpantanalms/live.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://pontanegranews.com.br/pics/pontanegranews.png" group-title="Canais de Variedades", TV PONTA NEGRA NEWS
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/300px-TVUConcepcionLogo.png" group-title="Canais de Variedades", TV URBANA
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8?AndreOid
+#EXTINF:-1 tvg-logo="http://mkttv.net/wp-content/uploads/2009/12/amazonsat.png" group-title="Canais de Variedades", Amazon Sat
+http://gbbrlive2.sambatech.com.br:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8?AndreOid
+
+-----------------------------------RELIGIOSO----------------------------------------------
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvaparecida.png" group-title="RELIGIOSO",Tv Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.aroodawakening.tv/wp-content/uploads/Gospel-TV-logo-best.jpeg" group-title="RELIGIOSO",Portal Gospel TV
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Redevida-logo.png" group-title="RELIGIOSO",Rede Vida
+http://rtmp.ingest.upx.net.br:1935/74cc/myStream.sdp/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/150/rit.png" group-title="RELIGIOSO",RIT Tv
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-vEPogtAiOzM/V8eNxbdBHaI/AAAAAAAAAZQ/R6NjFDwy7Eclwrfl9ger-gObjw890q71gCLcB/s400/Rede_Mundial.png" group-title="RELIGIOSO",Tv Mundial
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rXPArkuTJ0w/V3XBFxCzSYI/AAAAAAAACRc/L1wZkfLIEuw-qmZoRQotkVn2OCuzthAOQCCo/s256/Rede%2BGospel.png" group-title="RELIGIOSO",Rede Gospel  
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?AndreOid
+
+----------------------------------ESPORTES------------------------------------------------------
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="Esportes" ,Combate
+http://31.204.128.117:8081/live/combate/playlist.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="Esportes" ,UFC NETWORK
+http://190.57.234.164/V3/6/1.m3u8?
+
+#EXTINF:-1 tvg="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/band-sports.png" group-title="Esportes", BandSports
+http://ev.mm.uol.com.br:1935/geobband/operadoras/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/premiere.png" group-title="ESPORTES", PREMIERE
+http://31.204.128.117:8081/live/pfc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2016/09/Logo_fox_sports.png" group-title="ESPORTES",FOX ESPORTES
+http://31.204.128.117:8081/live/foxsport/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://heberger-image.fr/data/vignettes/90911_smarttv.png" group-title="ESPORTES",ESPORTE INTERATIVO
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sxu4K8t.png" group-title="ESPORTES",EI MAX 1
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Sxu4K8t.png" group-title="ESPORTES",EI MAX 2
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sportv.png" group-title="ESPORTES", SPORTV
+http://31.204.128.117:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL
+http://31.204.128.117:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.cardplayer.com/assets/twitch_channels/000/000/001/pokercentral-profile_image-576154661611b620-300x300.png" group-title="ESPORTES", Poker Central (USA)
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.vizandchips.com/WorldDataCup/ENG/img/versus.png" group-title="ESPORTES", VERSUS HD EUA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2016/03/all-sports.jpg" group-title="ESPORTES", ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yMTxoex.jpg" group-title="ESPORTES", NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kmRRX.png" group-title="ESPORTES", DeporTV HD
+http://edge02.dcarsat.com.ar/DXTV/DXTV/playlist.m3u8
+
+#
+
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/sbt.png" group-title="CANAIS SMART TV",SBT SP INTERIOR
 http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
 
