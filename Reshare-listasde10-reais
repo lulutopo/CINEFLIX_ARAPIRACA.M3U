@@ -1,0 +1,1251 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="###  CANAIS ABERTOS ###" tvg-logo="http://www.clker.com/cliparts/2/b/k/g/q/m/tv-web-logo-color-md.png" group-title="TV ABERTA",###  CANAIS ABERTOS ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1325.ts
+#EXTINF:-1 tvg-ID="TV ANHANGUERA HD" tvg-name="TV ANHANGUERA HD" tvg-logo="http://1.bp.blogspot.com/-yPG16SDUEcU/Uu1M_IVipSI/AAAAAAAABnc/xXo6RhKHLjQ/s1600/TV_Anhanguera-300x139.png" group-title="TV ABERTA",TV ANHANGUERA HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/834.ts
+#EXTINF:-1 tvg-ID="GLOBO SP HD" tvg-name="GLOBO SP HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO SP HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/513.ts
+#EXTINF:-1 tvg-ID="GLOBO SP HD" tvg-name="GLOBO SP  SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO SP  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1065.ts
+#EXTINF:-1 tvg-ID="GLOBO RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO RJ HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/467.ts
+#EXTINF:-1 tvg-ID="GLOBO RJ HD (OPÇAO 2)" tvg-name="GLOBO RJ SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO RJ SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1506.ts
+#EXTINF:-1 tvg-ID="GLOBO MG HD" tvg-name="GLOBO MG SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO MG SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/466.ts
+#EXTINF:-1 tvg-ID="GLOBO VITORIA SD" tvg-name="GLOBO VITORIA HD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="TV ABERTA",GLOBO VITORIA HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/152.ts
+#EXTINF:-1 tvg-ID="RBS TV SD" tvg-name="RBS TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="TV ABERTA",RBS TV SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1492.ts
+#EXTINF:-1 tvg-ID="TV ANHANGUERA HD" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://tudotv.tv/fotos/492d2b912a58c8507cd2f5380d7bc3a2.jpg" group-title="TV ABERTA",GLOBO BRASILIA SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1532.ts
+#EXTINF:-1 tvg-ID="GLOBO BAHIA HD" tvg-name="TV BAHIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4c/Logotipo_da_TV_Bahia.jpg" group-title="TV ABERTA",TV BAHIA HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/983.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/d/d8/20150630051001%21TV_Globo_Nordeste.jpg" group-title="TV ABERTA",GLOBO NORDESTE HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/817.ts
+#EXTINF:-1 tvg-ID="GLOBO INTERNACIONAL" tvg-name="GLOBO INTERNACIONAL" tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png Globo" group-title="TV ABERTA",GLOBO INTERNACIONAL
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/153.ts
+#EXTINF:-1 tvg-ID="SBT HD" tvg-name="SBT HD" tvg-logo="https://s19.postimg.org/4mye21toz/sbt_logo1.png" group-title="TV ABERTA",SBT HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SBT SD" tvg-logo="https://s19.postimg.io/4mye21toz/sbt_logo1.png  SBT" group-title="TV ABERTA",SBT SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/678.ts
+#EXTINF:-1 tvg-ID="REDE RECORD HD" tvg-name="REDE RECORD HD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/478.ts
+#EXTINF:-1 tvg-ID="REDE RECORD HD ( OPÇAO 2)" tvg-name="REDE RECORD HD ( OPÇAO 2)" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD HD ( OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/937.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDE RECORD USA" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/912.ts
+#EXTINF:-1 tvg-ID="REDE RECORD SD" tvg-name="REDE RECORD SD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="TV ABERTA",REDE RECORD SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/679.ts
+#EXTINF:-1 tvg-ID="BAND HD" tvg-name="BAND HD" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/523.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BAND" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/857.ts
+#EXTINF:-1 tvg-ID="BAND SD" tvg-name="BAND SD" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="TV ABERTA",BAND SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/959.ts
+#EXTINF:-1 tvg-ID="REDE TV SD" tvg-name="REDE TV SD" tvg-logo="https://s19.postimg.org/4jn6eg87n/Rede_TV_2009.png RedeTV!" group-title="TV ABERTA",REDE TV SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/414.ts
+#EXTINF:-1 tvg-ID="CNN SD" tvg-name="CNT  SD" tvg-logo="https://clubdatelevisao.files.wordpress.com/2012/04/redecnt.jpg" group-title="TV ABERTA",CNT  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV CULTURA HD" tvg-logo="http://s20.postimg.org/b9etxac21/Cultura.png TV Cultura" group-title="TV ABERTA",TV CULTURA HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/681.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL RURAL SD" tvg-logo="http://www.playhdtv.pw/img/canalruralb.png" group-title="TV ABERTA",CANAL RURAL SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/761.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL DO BOI SD" tvg-logo="http://www.javet.com.br/images/javet/logo%20canal_do_boi.jpg" group-title="TV ABERTA",CANAL DO BOI SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1362.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBR SD" tvg-logo="http://www.playhdtv.pw/img/NBR.gif" group-title="TV ABERTA",NBR SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/763.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDE GOSPEL" tvg-logo="http://images.comunidades.net/lui/luisdasilva76/TV_REDE_GOSPEL.jpg" group-title="TV ABERTA",REDE GOSPEL
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1567.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV GIDEOES" tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="TV ABERTA",TV GIDEOES
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1568.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANÇAO NOVA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="TV ABERTA",CANÇAO NOVA SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV APARECIDA SD" tvg-logo="http://www.playhdtv.pw/img/rede_aparecida.png" group-title="TV ABERTA",TV APARECIDA SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/790.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV GAZETA HD" tvg-logo="http://www.playhdtv.pw/img/gazeta.jpg" group-title="TV ABERTA",TV GAZETA HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/789.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REDE BRASIL  SD" tvg-logo="https://s30.postimg.org/hhup3dqa9/Rede_Brasil.png" group-title="TV ABERTA",REDE BRASIL  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/788.ts
+#EXTINF:-1 tvg-ID="" tvg-name="### ESPORTES ###" tvg-logo="http://colegioatibaia.com.br/imagens/fixas/olimpiadas/logo-esportes.png" group-title="ESPORTES",### ESPORTES ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1326.ts
+#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png SporTV" group-title="ESPORTES",SPORTV HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1404.ts
+#EXTINF:-1 tvg-ID="SPORTV HD" tvg-name="SPORTV HD ( OPÇAO 2 )" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png SporTV" group-title="ESPORTES",SPORTV HD ( OPÇAO 2 )
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1494.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV SD" tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png" group-title="ESPORTES",SPORTV SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/212.ts
+#EXTINF:-1 tvg-ID="SPORTV 2 HD" tvg-name="SPORTV 2 HD" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/508.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 2 SD" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="ESPORTES",SPORTV 2 SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/213.ts
+#EXTINF:-1 tvg-ID="SPORTV 3 HD" tvg-name="SPORTV 3 HD" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/511.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1496.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV 3 SD" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png SporTV 3" group-title="ESPORTES",SPORTV 3 SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/214.ts
+#EXTINF:-1 tvg-ID="FOX SPORTS-HD" tvg-name="FOX SPORTS-HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS-HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/464.ts
+#EXTINF:-1 tvg-ID="FOX SPORTS HD (OPÇAO 2)" tvg-name="FOX SPORTS HD (OPÇAO 2)" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1493.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/876.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS SD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/695.ts
+#EXTINF:-1 tvg-ID="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/465.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 (OPÇAO 2)" tvg-logo="https://s24.postimg.org/a6iz4v691/foxsports2.png" group-title="",FOX SPORTS 2 (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/877.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2" tvg-logo="https://s24.postimg.org/a6iz4v691/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/878.ts
+#EXTINF:-1 tvg-ID="FOX SPORTS SD" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png Fox Sports" group-title="ESPORTES",FOX SPORTS 2 SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/696.ts
+#EXTINF:-1 tvg-ID="EI MAXX - HD" tvg-name="EI MAXX - HD" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EI MAXX - HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/660.ts
+#EXTINF:-1 tvg-ID="EI MAXX - HD" tvg-name="EI MAXX HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EI MAXX HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1504.ts
+#EXTINF:-1 tvg-ID="EIMAX SD" tvg-name="EIMAX SD" tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="ESPORTES",EIMAX SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1069.ts
+#EXTINF:-1 tvg-ID="EI Maxx 2 HD" tvg-name="EI MAXX - 2 HD" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="ESPORTES",EI MAXX - 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/661.ts
+#EXTINF:-1 tvg-ID="EI MAXX 2 SD" tvg-name="EI MAXX 2 SD" tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title="ESPORTES",EI MAXX 2 SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1070.ts
+#EXTINF:-1 tvg-ID="ESPORTE INTERATIVO HD" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="http://s20.postimg.org/gzjgnysgd/esporte_interativo.png" group-title="ESPORTES",ESPORTE INTERATIVO HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/662.ts
+#EXTINF:-1 tvg-ID="ESPN BRASIL HD" tvg-name="ESPN BRASIL HD" tvg-logo="http://www.playhdtv.pw/img/espnbrasilb.png" group-title="ESPORTES",ESPN BRASIL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1109.ts
+#EXTINF:-1 tvg-ID="ESPN BRASIL- HD" tvg-name="ESPN BRASIL HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="ESPORTES",ESPN BRASIL HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/520.ts
+#EXTINF:-1 tvg-ID="ESPN BRASIL SD" tvg-name="ESPN BRASIL SD" tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="ESPORTES",ESPN BRASIL SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1023.ts
+#EXTINF:-1 tvg-ID="ESPN- HD" tvg-name="ESPN- HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="ESPORTES",ESPN- HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/521.ts
+#EXTINF:-1 tvg-ID="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="ESPORTES",ESPN HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/697.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN (OPÇAO 2)" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="",ESPN (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/870.ts
+#EXTINF:-1 tvg-ID="ESPN + HD" tvg-name="ESPN + HD" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="ESPORTES",ESPN + HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/522.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN +" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="ESPORTES",ESPN +
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/698.ts
+#EXTINF:-1 tvg-ID="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="ESPORTES",BAND SPORTS HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/515.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BAND SPORTS (OPÇAO 2)" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="ESPORTES",BAND SPORTS (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/856.ts
+#EXTINF:-1 tvg-ID="BAND SPORTS SD" tvg-name="BAND SPORTS SD" tvg-logo="http://s20.postimg.org/44ntwrq19/Band_Sport.png Band Sports" group-title="ESPORTES",BAND SPORTS SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/717.ts
+#EXTINF:-1 tvg-ID="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="ESPORTES",COMBATE HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/451.ts
+#EXTINF:-1 tvg-ID="Combate HD" tvg-name="COMBATE HD (OPÇAO 2)" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png" group-title="ESPORTES",COMBATE HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1505.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMBATE" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="ESPORTES",COMBATE
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/862.ts
+#EXTINF:-1 tvg-ID="COMBATE SD" tvg-name="COMBATE SD" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="ESPORTES",COMBATE SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ALL SPORTS BR HD" tvg-logo="http://www.playhdtv.pw/img/allsports.png" group-title="ESPORTES",ALL SPORTS BR HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/765.ts
+#EXTINF:-1 tvg-ID="FISHTV SD" tvg-name="FISHTV SD" tvg-logo="https://lh5.ggpht.com/XnGz5jsT_iy1nyrnnDteRK0v0XttfgJsHMZRDq54nqQbEiUn56f9a6yYKSBmjAhnwlfs=w300" group-title="VARIEDADES",FISHTV SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/854.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PFC - SD" tvg-logo="http://www.playhdtv.pw/img/PFC.png" group-title="ESPORTES",PFC - SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/537.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PFC INTERNACIONAL" tvg-logo="http://www.playhdtv.pw/img/PFC.png" group-title="ESPORTES",PFC INTERNACIONAL
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/186.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 24HS HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="ESPORTES",PREMIER 24HS HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/509.ts
+#EXTINF:-1 tvg-ID="PREMIER 24HS HD (OPÇAO 2)" tvg-name="PREMIER 24HS HD (OPÇAO 2)" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="ESPORTES",PREMIER 24HS HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1526.ts
+#EXTINF:-1 tvg-ID="PREMIER 24HS SD" tvg-name="PREMIER 24HS SD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="ESPORTES",PREMIER 24HS SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1090.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 1" tvg-logo="http://www.playhdtv.pw/img/Premier1.png" group-title="ESPORTES",PREMIER - 1
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/645.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 2" tvg-logo="http://www.playhdtv.pw/img/Premier2.png" group-title="ESPORTES",PREMIER - 2
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/646.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 3" tvg-logo="http://www.playhdtv.pw/img/Premier3.png" group-title="ESPORTES",PREMIER - 3
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/647.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER  4" tvg-logo="http://www.playhdtv.pw/img/Premier4.png" group-title="ESPORTES",PREMIER  4
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/648.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 5" tvg-logo="http://www.playhdtv.pw/img/Premier5.png" group-title="ESPORTES",PREMIER - 5
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/649.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 6" tvg-logo="http://www.playhdtv.pw/img/Premier6.png" group-title="ESPORTES",PREMIER - 6
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/650.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 7" tvg-logo="http://www.playhdtv.pw/img/Premier7.png" group-title="ESPORTES",PREMIER - 7
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/651.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 8" tvg-logo="http://www.playhdtv.pw/img/Premier8.png" group-title="ESPORTES",PREMIER - 8
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/652.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 9" tvg-logo="http://www.playhdtv.pw/img/Premier9.png" group-title="ESPORTES",PREMIER - 9
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/653.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER - 10" tvg-logo="http://www.playhdtv.pw/img/Premier10.png" group-title="ESPORTES",PREMIER - 10
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/654.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 2 HD" tvg-logo="http://www.playhdtv.pw/img/Premier2.png" group-title="ESPORTES",PREMIER 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/510.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 3 HD" tvg-logo="http://www.playhdtv.pw/img/Premier3.png" group-title="ESPORTES",PREMIER 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/543.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 4 HD" tvg-logo="http://www.playhdtv.pw/img/Premier4.png" group-title="ESPORTES",PREMIER 4 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/544.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 5 HD" tvg-logo="http://www.playhdtv.pw/img/Premier5.png" group-title="ESPORTES",PREMIER 5 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/545.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 6 HD" tvg-logo="http://www.playhdtv.pw/img/Premier6.png" group-title="ESPORTES",PREMIER 6 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/976.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PREMIER 7 HD" tvg-logo="http://www.playhdtv.pw/img/Premier7.png" group-title="ESPORTES",PREMIER 7 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/977.ts
+#EXTINF:-1 tvg-ID="" tvg-name="### FILMES E SERIES ###" tvg-logo="http://kelowsurf.no.comunidades.net/imagens/filmeseseries21.png" group-title="FILMES",### FILMES E SERIES ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1327.ts
+#EXTINF:-1 tvg-ID="TELECINE PREMIUM HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/487.ts
+#EXTINF:-1 tvg-ID="TELECINE PREMIUM HD" tvg-name="TELECINE PREMIUM HD (OPÇAO 2)" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1511.ts
+#EXTINF:-1 tvg-ID="TELECINE PREMIUM SD" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="FILMES",TELECINE PREMIUM SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1049.ts
+#EXTINF:-1 tvg-ID="TELECINE ACTION HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="FILMES",TELECINE ACTION HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/483.ts
+#EXTINF:-1 tvg-ID="TELECINE ACTION HD" tvg-name="TELECINE ACTION HD (OPÇAO 2)" tvg-logo="http://www.playhdtv.pw/img/tcaction.jpg" group-title="FILMES",TELECINE ACTION HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1513.ts
+#EXTINF:-1 tvg-ID="TELECINE ACTION SD" tvg-name="TELECINE ACTION SD" tvg-logo="http://www.playhdtv.pw/img/tcaction.jpg" group-title="FILMES",TELECINE ACTION SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1050.ts
+#EXTINF:-1 tvg-ID="TELECINE TOUCH HD" tvg-name="TELECINE TOUCH HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="FILMES",TELECINE TOUCH HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/488.ts
+#EXTINF:-1 tvg-ID="TELECINE TOUCH HD" tvg-name="TELECINE TOUCH HD ( OPÇAO 2)" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="FILMES",TELECINE TOUCH HD ( OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1510.ts
+#EXTINF:-1 tvg-ID="TELECINE TOUCH SD" tvg-name="TELECINE TOUCH SD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="FILMES",TELECINE TOUCH SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1057.ts
+#EXTINF:-1 tvg-ID="TELECINE PIPOCA HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="FILMES",TELECINE PIPOCA HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/486.ts
+#EXTINF:-1 tvg-ID="TELECINE PIPOCA HD" tvg-name="TELECINE PIPOCA HD (OPÇAO 2)" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="FILMES",TELECINE PIPOCA HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1514.ts
+#EXTINF:-1 tvg-ID="TELECINE PIPOCA SD" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="FILMES",TELECINE PIPOCA SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/687.ts
+#EXTINF:-1 tvg-ID="TELECINE FUN HD" tvg-name="TELECINE FUN HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="FILMES",TELECINE FUN HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/485.ts
+#EXTINF:-1 tvg-ID="TELECINE FUN HD" tvg-name="TELECINE FUN HD (OPÇAO 2)" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="FILMES",TELECINE FUN HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1512.ts
+#EXTINF:-1 tvg-ID="TELECINE FUN SD" tvg-name="TELECINE FUN SD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="FILMES",TELECINE FUN SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1047.ts
+#EXTINF:-1 tvg-ID="TELECINE CULT HD" tvg-name="TELECINE CULT HD" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="FILMES",TELECINE CULT HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE CULT (OPÇAO 2)" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="FILMES",TELECINE CULT (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/926.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECINE CULT SD" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="FILMES",TELECINE CULT SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/685.ts
+#EXTINF:-1 tvg-ID="HBO HD" tvg-name="HBO HD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/473.ts
+#EXTINF:-1 tvg-ID="HBO HD (OPÇAO 2)" tvg-name="HBO HD (OPÇAO 2)" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1518.ts
+#EXTINF:-1 tvg-ID="HBO SD" tvg-name="HBO SD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1031.ts
+#EXTINF:-1 tvg-ID="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/690.ts
+#EXTINF:-1 tvg-ID="HBO 2 HD" tvg-name="HBO 2 HD (OPÇAO 2)" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO 2 HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1508.ts
+#EXTINF:-1 tvg-ID="HBO2 SD" tvg-name="HBO2 SD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO2 SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1030.ts
+#EXTINF:-1 tvg-ID="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/497.ts
+#EXTINF:-1 tvg-ID="HBO PLUS HD (OPÇAO 2)" tvg-name="HBO PLUS HD (OPÇAO 2)" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1517.ts
+#EXTINF:-1 tvg-ID="HBO PLUS SD" tvg-name="HBO PLUS SD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="FILMES",HBO PLUS SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1032.ts
+#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-name="HBO FAMILY HD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/472.ts
+#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-name="HBO FAMILY HD (OPÇAO 2)" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1509.ts
+#EXTINF:-1 tvg-ID="HBO FAMILY HD" tvg-name="HBO FAMILY SD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="FILMES",HBO FAMILY SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/691.ts
+#EXTINF:-1 tvg-ID="HBO SIGNATURE HD" tvg-name="HBO SIGNATURE HD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="FILMES",HBO SIGNATURE HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/474.ts
+#EXTINF:-1 tvg-ID="HBO SIGNATURE HD" tvg-name="HBO SIGNATURE HD (OPÇAO 2)" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="FILMES",HBO SIGNATURE HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1516.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE SD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="FILMES",HBO SIGNATURE SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/694.ts
+#EXTINF:-1 tvg-ID="MAX HD" tvg-name="MAX HD" tvg-logo="https://s31.postimg.org/h4q35bctn/max.png" group-title="FILMES",MAX HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/501.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX SD" tvg-logo="https://s31.postimg.org/h4q35bctn/max.png" group-title="FILMES",MAX SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/728.ts
+#EXTINF:-1 tvg-ID="Max Up HD" tvg-name="MAX UP HD" tvg-logo="https://s31.postimg.org/x7orzkx97/max_up.png" group-title="FILMES",MAX UP HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/503.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX UP SD" tvg-logo="https://s31.postimg.org/x7orzkx97/max_up.png" group-title="FILMES",MAX UP SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/730.ts
+#EXTINF:-1 tvg-ID="MAX PRIME HD" tvg-name="MAX PRIME HD" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="FILMES",MAX PRIME HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/502.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME SD" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="FILMES",MAX PRIME SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/729.ts
+#EXTINF:-1 tvg-ID="MEGAPIX HD" tvg-name="MEGAPIX HD" tvg-logo="http://s20.postimg.org/7rlpqry4p/Megapix.png" group-title="FILMES",MEGAPIX HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/475.ts
+#EXTINF:-1 tvg-ID="MEGAPIX HD" tvg-name="MEGAPIX HD (OPÇAO 2)" tvg-logo="http://s20.postimg.org/7rlpqry4p/Megapix.png" group-title="FILMES",MEGAPIX HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1559.ts
+#EXTINF:-1 tvg-ID="MEGAPIX SD" tvg-name="MEGAPIX SD" tvg-logo="http://s20.postimg.org/7rlpqry4p/Megapix.png" group-title="FILMES",MEGAPIX SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1026.ts
+#EXTINF:-1 tvg-ID="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="FILMES",CINEMAX HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/450.ts
+#EXTINF:-1 tvg-ID="CINEMAX SD" tvg-name="CINEMAX SD" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="FILMES",CINEMAX SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1044.ts
+#EXTINF:-1 tvg-ID="PARAMOUNT CHANNEL HD" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="FILMES",PARAMOUNT CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/709.ts
+#EXTINF:-1 tvg-ID="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://s31.postimg.org/uu398livf/space.png" group-title="FILMES",SPACE HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/479.ts
+#EXTINF:-1 tvg-ID="SPACE - SD" tvg-name="SPACE - SD" tvg-logo="http://www.playhdtv.pw/img/canalspace.jpg" group-title="FILMES",SPACE - SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1042.ts
+#EXTINF:-1 tvg-ID="AE HD" tvg-name="A&E HD" tvg-logo="http://www.playhdtv.pw/img/A&E.jpg" group-title="SERIES",A&E HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/745.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E (OPÇAO 2)" tvg-logo="http://www.playhdtv.pw/img/A&E.jpg" group-title="SERIES",A&E (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/944.ts
+#EXTINF:-1 tvg-ID="A&E HD" tvg-name="A&E SD" tvg-logo="http://www.playhdtv.pw/img/A&E.jpg" group-title="SERIES",A&E SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1529.ts
+#EXTINF:-1 tvg-ID="AXN HD" tvg-name="AXN HD" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="SERIES",AXN HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/447.ts
+#EXTINF:-1 tvg-ID="AXN HD (OPÇAO 2)" tvg-name="AXN HD (OPÇAO 2)" tvg-logo="http://www.novasdodia.com.br/wp-content/uploads/2015/06/axn-hd-claro-tv-maio.jpg" group-title="SERIES",AXN HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1521.ts
+#EXTINF:-1 tvg-ID="AXN SD" tvg-name="AXN SD" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="SERIES",AXN SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1028.ts
+#EXTINF:-1 tvg-ID="TCM SD" tvg-name="TCM SD" tvg-logo="http://www.playhdtv.pw/img/TCM.png" group-title="FILMES",TCM SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/682.ts
+#EXTINF:-1 tvg-ID="TNT HD" tvg-name="TNT HD" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/482.ts
+#EXTINF:-1 tvg-ID="TNT HD" tvg-name="TNT HD (OPÇAO 2)" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1519.ts
+#EXTINF:-1 tvg-ID="TNT SD" tvg-name="TNT SD" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="FILMES",TNT SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1073.ts
+#EXTINF:-1 tvg-ID="TNT SERIES SD" tvg-name="TNT SERIES HD" tvg-logo="http://www.playhdtv.pw/img/tntseries.png" group-title="SERIES",TNT SERIES HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1105.ts
+#EXTINF:-1 tvg-ID="TNT SERIES SD" tvg-name="TNT SERIES SD" tvg-logo="http://www.playhdtv.pw/img/tntseries.png" group-title="SERIES",TNT SERIES SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1046.ts
+#EXTINF:-1 tvg-ID="WARNER CHANNEL HD" tvg-name="WARNER CHANNEL HD" tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="SERIES",WARNER CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/500.ts
+#EXTINF:-1 tvg-ID="WARNER CHANNEL SD" tvg-name="WARNER CHANNEL SD" tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="SERIES",WARNER CHANNEL SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1072.ts
+#EXTINF:-1 tvg-ID="FOX HD" tvg-name="FOX HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="SERIES",FOX HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/972.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD (OPÇAO 2)" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="SERIES",FOX HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1507.ts
+#EXTINF:-1 tvg-ID="FOX SD" tvg-name="FOX SD" tvg-logo="http://www.playhdtv.pw/img/fox-.jpg" group-title="SERIES",FOX SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="SERIES",FOX PREMIUM 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/978.ts
+#EXTINF:-1 tvg-ID="FOX PREMIUM 1 HD" tvg-name="FOX PREMIUM  2 HD" tvg-logo="http://cdn.foxplaybrasil.com.br/sites/foxplay-br/files/img/fox-action.png" group-title="FILMES",FOX PREMIUM  2 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1310.ts
+#EXTINF:-1 tvg-ID="FX HD" tvg-name="FX HD" tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="SERIES",FX HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/462.ts
+#EXTINF:-1 tvg-ID="FX HD (OPÇAO 2)" tvg-name="FX HD (OPÇAO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="FILMES",FX HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1520.ts
+#EXTINF:-1 tvg-ID="FX SD" tvg-name="FX  SD" tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="SERIES",FX  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1043.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION HD" tvg-logo="http://www.playhdtv.pw/img/FOXACTION.png" group-title="SERIES",FOX ACTION HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/743.ts
+#EXTINF:-1 tvg-ID="FOX LIFE - SD" tvg-name="FOX LIFE - SD" tvg-logo="http://s22.postimg.org/bo4dgvux9/life.png" group-title="SERIES",FOX LIFE - SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/463.ts
+#EXTINF:-1 tvg-ID="UNIVERSAL CHANNEL HD" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="SERIES",UNIVERSAL CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/700.ts
+#EXTINF:-1 tvg-ID="UNIVERSAL CHANNEL SD" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="SERIES",UNIVERSAL CHANNEL SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/929.ts
+#EXTINF:-1 tvg-ID="STUDIO UNIVERSAL SD" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="VARIEDADES",STUDIO UNIVERSAL SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/720.ts
+#EXTINF:-1 tvg-ID="CANAL SONY HD" tvg-name="CANAL SONY  HD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="SERIES",CANAL SONY  HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/507.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SONY HD (OPÇAO 2)" tvg-logo="http://1.bp.blogspot.com/-ecyirODpBUQ/VdUVsju_c-I/AAAAAAAAPo0/yp8DK3xQiSA/s200/canal-sony-logo.gif" group-title="SERIES",CANAL SONY HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/833.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL SONY SD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="SERIES",CANAL SONY SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/719.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LIFETIME SD" tvg-logo="https://s19.postimg.org/s6k70av4j/Lifetime_logo.png" group-title="SERIES",LIFETIME SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/725.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC SD" tvg-logo="http://www.playhdtv.pw/img/AMC.png" group-title="FILMES",AMC SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/701.ts
+#EXTINF:-1 tvg-ID="SYFY SD" tvg-name="SYFY HD" tvg-logo="http://www.playhdtv.pw/img/Syfy-HD.png" group-title="VARIEDADES",SYFY HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/480.ts
+#EXTINF:-1 tvg-ID="COMEDY CENTRAL SD" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://www.playhdtv.pw/img/FOX-Comedy-HD.png" group-title="VARIEDADES",COMEDY CENTRAL SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/849.ts
+#EXTINF:-1 tvg-ID="TBS SD" tvg-name="TBS SD" tvg-logo="https://s31.postimg.org/hj4nfr0az/tbs.png" group-title="FILMES",TBS SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/683.ts
+#EXTINF:-1 tvg-ID="I-SAT" tvg-name="I-SAT  SD" tvg-logo="http://www.playhdtv.pw/img/isat.png" group-title="FILMES",I-SAT  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/727.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL BRASIL HD" tvg-logo="https://s19.postimg.org/3mi6f8o0j/Logo_Canal_Brasil.png Canal Brasil" group-title="TV ABERTA",CANAL BRASIL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/708.ts
+#EXTINF:-1 tvg-ID="" tvg-name="### INFANTIL ###" tvg-logo="http://3.bp.blogspot.com/-clngXmB3HpM/VpO4JrrTn-I/AAAAAAAAAM8/rWMqvmp27Yg/s640/canais%2Binfantiss%2Bsem%2Blogo.png" group-title="INFANTIL",### INFANTIL ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1328.ts
+#EXTINF:-1 tvg-ID="BOOMERANG HD" tvg-name="BOOMERANG HD" tvg-logo="http://s20.postimg.org/9cdieyw09/Bloomberg.png" group-title="INFANTIL",BOOMERANG HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/448.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD - SD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="INFANTIL",DISNEY XD - SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/460.ts
+#EXTINF:-1 tvg-ID="DISNEY XD HD" tvg-name="DISNEY XD HD" tvg-logo="http://s20.postimg.org/y2714ldop/Disney_XD.png" group-title="INFANTIL",DISNEY XD HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/590.ts
+#EXTINF:-1 tvg-ID="DISNEY JUNIOR HD" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://s20.postimg.org/fb53ufj49/Disney_Jr.png" group-title="INFANTIL",DISNEY JUNIOR HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/459.ts
+#EXTINF:-1 tvg-ID="DISNEY CHANNEL HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://s20.postimg.org/p5rnmwxot/Disney_Channel.png" group-title="INFANTIL",DISNEY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/494.ts
+#EXTINF:-1 tvg-ID="DISCOVERY KIDS HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/455.ts
+#EXTINF:-1 tvg-ID="DISCOVERY KIDS HD" tvg-name="DISCOVERY KIDS SD" tvg-logo="http://www.playhdtv.pw/img/Discovery-Kids.png" group-title="INFANTIL",DISCOVERY KIDS SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1058.ts
+#EXTINF:-1 tvg-ID="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK  HD" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK  HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/449.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK  SD" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="INFANTIL",CARTOON NETWORK  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/587.ts
+#EXTINF:-1 tvg-ID="TOONCAST HD" tvg-name="TOONCAST HD" tvg-logo="https://s19.postimg.org/jnfd5yb9v/tooncast.png" group-title="INFANTIL",TOONCAST HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/489.ts
+#EXTINF:-1 tvg-ID="TOONCAST SD" tvg-name="TOONCAST SD" tvg-logo="https://s19.postimg.org/jnfd5yb9v/tooncast.png" group-title="INFANTIL",TOONCAST SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/702.ts
+#EXTINF:-1 tvg-ID="NICKLODEON SD" tvg-name="NICKLODEON SD" tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="INFANTIL",NICKLODEON SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/477.ts
+#EXTINF:-1 tvg-ID="NICK JR SD" tvg-name="NICK JR SD" tvg-logo="http://s20.postimg.org/x0fqbxhu1/Nick_Jr.png" group-title="INFANTIL",NICK JR SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/506.ts
+#EXTINF:-1 tvg-ID="GLOOB HD" tvg-name="GLOOB HD" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",GLOOB HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOOB (OPÇAO 2)" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",GLOOB (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/951.ts
+#EXTINF:-1 tvg-ID="GLOOB SD" tvg-name="GLOOB  SD" tvg-logo="http://s20.postimg.org/sn3eoa4y1/Gloob.png" group-title="INFANTIL",GLOOB  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/823.ts
+#EXTINF:-1 tvg-ID="" tvg-name="### VARIEDADES E MUSICAS" tvg-logo="http://skyassinatura.com.br/tv-sky/icones/master_hdii/Canais%20Variedades.png" group-title="VARIEDADES",### VARIEDADES E MUSICAS
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1329.ts
+#EXTINF:-1 tvg-ID="MULTISHOW HD" tvg-name="MULTISHOW HD" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADES",MULTISHOW HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/476.ts
+#EXTINF:-1 tvg-ID="MULTISHOW HD" tvg-name="MULTISHOW HD (OPÇAO 2)" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADES",MULTISHOW HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1558.ts
+#EXTINF:-1 tvg-ID="MULTISHOW SD" tvg-name="MULTISHOW SD" tvg-logo="http://s32.postimg.org/7wouj3pht/multishow.png" group-title="VARIEDADES",MULTISHOW SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/174.ts
+#EXTINF:-1 tvg-ID="MTV HD" tvg-name="MTV HD" tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="VARIEDADES",MTV HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/620.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV (OPÇAO 2 )" tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="",MTV (OPÇAO 2 )
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/891.ts
+#EXTINF:-1 tvg-ID="OFF HD" tvg-name="OFF HD" tvg-logo="https://s19.postimg.org/nezbjq4k3/canal_off_2.png" group-title="VARIEDADES",OFF HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/183.ts
+#EXTINF:-1 tvg-ID="VIVA HD" tvg-name="VIVA HD" tvg-logo="https://s19.postimg.org/fb6qemt1v/Canal_Viva_logo_2014.png" group-title="VARIEDADES",VIVA HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/491.ts
+#EXTINF:-1 tvg-ID="VIVA SD" tvg-name="VIVA  SD" tvg-logo="https://s19.postimg.org/fb6qemt1v/Canal_Viva_logo_2014.png" group-title="VARIEDADES",VIVA  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/243.ts
+#EXTINF:-1 tvg-ID="BIS HD" tvg-name="BIS HD" tvg-logo="https://s19.postimg.org/wj8o62ro3/Canal_Bis.png" group-title="VARIEDADES",BIS HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/102.ts
+#EXTINF:-1 tvg-ID="VH1 HD" tvg-name="VH1 HD" tvg-logo="https://s19.postimg.org/yzbyh4djn/vh1_logo.png" group-title="VARIEDADES",VH1 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/676.ts
+#EXTINF:-1 tvg-ID="VH1 Mega Hits" tvg-name="VH 1 MEGA HITS SD" tvg-logo="http://www.playhdtv.pw/img/vh1megahits.png" group-title="VARIEDADES",VH 1 MEGA HITS SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/735.ts
+#EXTINF:-1 tvg-ID="TruTV SD" tvg-name="TruTV SD" tvg-logo="https://s19.postimg.org/r9nqh3iqb/Tru_TV.png" group-title="VARIEDADES",TruTV SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1071.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WOOHOO SD" tvg-logo="https://www.compretvclaro.com.br/blog/wp-content/uploads/2015/07/wohoo-canal-claro-tv.jpg" group-title="VARIEDADES",WOOHOO SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1361.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOOD NETWORK  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1000px-Food_Network_Logo.svg.png" group-title="VARIEDADES",FOOD NETWORK  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1531.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Play TV SD" tvg-logo="http://www.playhdtv.pw/img/playtv.jpg" group-title="VARIEDADES",Play TV SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1025.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC BOX BRASIL  SD" tvg-logo="http://www.playhdtv.pw/img/musicbox.png" group-title="VARIEDADES",MUSIC BOX BRASIL  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/762.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PRIME BOX BRASIL  SD" tvg-logo="http://www.playhdtv.pw/img/Prime_Box_Brazil.png" group-title="VARIEDADES",PRIME BOX BRASIL  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/764.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBOSAT HD" tvg-logo="https://s19.postimg.org/f53vmdggj/1280x720.png" group-title="VARIEDADES",GLOBOSAT HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBOSAT SD" tvg-logo="https://s19.postimg.org/f53vmdggj/1280x720.png" group-title="VARIEDADES",GLOBOSAT SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1566.ts
+#EXTINF:-1 tvg-ID="GNT HD" tvg-name="GNT HD" tvg-logo="http://s32.postimg.org/mfp4sxpch/GNT.png" group-title="VARIEDADES",GNT HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GNT SD" tvg-logo="http://www.playhdtv.pw/img/Gnt_logo.jpg" group-title="VARIEDADES",GNT SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/829.ts
+#EXTINF:-1 tvg-ID="GLOBO NEWS HD" tvg-name="GLOBO NEWS HD" tvg-logo="http://s10.postimg.org/nmpvs4hkl/gnews.png Globo News" group-title="NOTICIAS",GLOBO NEWS HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/663.ts
+#EXTINF:-1 tvg-ID="GLOBO NEWS SD" tvg-name="GLOBO NEWS SD" tvg-logo="http://www.playhdtv.pw/img/globonews.png" group-title="NOTICIAS",GLOBO NEWS SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RECORD NEWS SD" tvg-logo="http://www.playhdtv.pw/img/RecordNews.png" group-title="NOTICIAS",RECORD NEWS SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/734.ts
+#EXTINF:-1 tvg-ID="BAND NEWS HD" tvg-name="BAND NEWS HD" tvg-logo="https://s32.postimg.org/8pydcnfhx/band_news.png Band News" group-title="NOTICIAS",BAND NEWS HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/495.ts
+#EXTINF:-1 tvg-ID="BAND NEWS SD" tvg-name="BAND NEWS  SD" tvg-logo="http://www.playhdtv.pw/img/bandind.png" group-title="NOTICIAS",BAND NEWS  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/726.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN SD" tvg-logo="https://s19.postimg.org/qam0dwrrn/Cnn_svg.png" group-title="NOTICIAS",CNN SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/724.ts
+#EXTINF:-1 tvg-ID="HISTORY CHANNEL HD" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/499.ts
+#EXTINF:-1 tvg-ID="HISTORY CHANNEL SD" tvg-name="HISTORY CHANNEL  SD" tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1067.ts
+#EXTINF:-1 tvg-ID="H2 HD" tvg-name="H2 HD" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="DOCUMENTARIOS",H2 HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/470.ts
+#EXTINF:-1 tvg-ID="H2 SD" tvg-name="H2 SD" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="DOCUMENTARIOS",H2 SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/714.ts
+#EXTINF:-1 tvg-ID="TLC HD" tvg-name="TLC HD" tvg-logo="http://s7.postimg.org/9xq1acbgn/TLC.png" group-title="VARIEDADES",TLC HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/644.ts
+#EXTINF:-1 tvg-ID="TLC" tvg-name="TLC SD" tvg-logo="http://www.playhdtv.pw/img/TLC.png" group-title="VARIEDADES",TLC SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/825.ts
+#EXTINF:-1 tvg-ID="E! SD" tvg-name="E!  SD" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="VARIEDADES",E!  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/632.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E! (OPÇAO 2)" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="",E! (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/868.ts
+#EXTINF:-1 tvg-ID="NATGEO HD" tvg-name="NATGEO HD" tvg-logo="http://s20.postimg.org/qg8cruefd/Nat_Geo.png" group-title="DOCUMENTARIOS",NATGEO HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/498.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC (OPÇAO 2)" tvg-logo="http://www.playhdtv.pw/img/national-geographic.jpg" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/899.ts
+#EXTINF:-1 tvg-ID="NATGEO SD" tvg-name="NATGEO SD" tvg-logo="http://s20.postimg.org/qg8cruefd/Nat_Geo.png" group-title="DOCUMENTARIOS",NATGEO SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1202.ts
+#EXTINF:-1 tvg-ID="NATGEO HD" tvg-name="NAT GEO WILD HD" tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="DOCUMENTARIOS",NAT GEO WILD HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/712.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD SD" tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="DOCUMENTARIOS",NATGEO WILD SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/787.ts
+#EXTINF:-1 tvg-ID="DISCOVERY CHANNEL HD" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://s19.postimg.org/6fqd4gtcj/Discovery_Channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/516.ts
+#EXTINF:-1 tvg-ID="DISCOVERY CHANNEL SD" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://s19.postimg.org/6fqd4gtcj/Discovery_Channel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1055.ts
+#EXTINF:-1 tvg-ID="DISCOVERY TURBO HD" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://s19.postimg.org/pdqzg9us3/Discovery_Turbo_HD.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1059.ts
+#EXTINF:-1 tvg-ID="DISCOVERY TURBO HD" tvg-name="DISCOVERY TURBO HD (OPÇAO 2)" tvg-logo="https://s19.postimg.org/pdqzg9us3/Discovery_Turbo_HD.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1560.ts
+#EXTINF:-1 tvg-ID="DISCOVERY TURBO SD" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://s19.postimg.org/pdqzg9us3/Discovery_Turbo_HD.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1060.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CIVILIZATION  SD" tvg-logo="http://www.playhdtv.pw/img/DiscoveryCivilization.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION  SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/737.ts
+#EXTINF:-1 tvg-ID="DISCOVERY SCIENCE SD" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://www.playhdtv.pw/img/DiscoveryScience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/736.ts
+#EXTINF:-1 tvg-ID="DISCOVERY HOME & HEALTH HD" tvg-name="DISCOVERY HOME & HEALTH  HD" tvg-logo="https://s31.postimg.org/d2r4nmuq3/discoveryhome.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH  HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/656.ts
+#EXTINF:-1 tvg-ID="DISCOVERY HOME & HEALTH SD" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="http://www.playhdtv.pw/img/DiscoveryHome&Health.png" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1054.ts
+#EXTINF:-1 tvg-ID="Discovery Theater" tvg-name="DISCOVERY THEATER - HD" tvg-logo="https://s19.postimg.org/6hlawfswj/Discovery_HD_Theater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER - HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/655.ts
+#EXTINF:-1 tvg-ID="INVESTIGATION DISCOVERY - HD" tvg-name="INVESTIGATION DISCOVERY - HD" tvg-logo="https://s19.postimg.org/tkbtvludv/Investigation_discovery_us_hd.png" group-title="DOCUMENTARIOS",INVESTIGATION DISCOVERY - HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/658.ts
+#EXTINF:-1 tvg-ID="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1324.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET (OPÇAO 2)" tvg-logo="https://s29.postimg.org/rweopp7uv/curta.png" group-title="",ANIMAL PLANET (OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/884.ts
+#EXTINF:-1 tvg-ID="ANIMAL PLANET SD" tvg-name="ANIMAL PLANET SD" tvg-logo="https://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/711.ts
+#EXTINF:-1 tvg-ID="" tvg-name="### PORTUGAL CHANNEL ###" tvg-logo="http://www.playhdtv.pw/imgs/portugal_640.png" group-title="CANAIS PORTUGAL",### PORTUGAL CHANNEL ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1040.ts
+#EXTINF:-1 tvg-ID="GLOBO PORTUGAL SD" tvg-name="GLOBO PORTUGAL SD" tvg-logo="http://s20.postimg.org/h9gvd2ufd/Globo_SP.png" group-title="CANAIS PORTUGAL",GLOBO PORTUGAL SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/733.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBO PREMIUM SD" tvg-logo="http://www.playhdtv.pw/img/Globosp.png" group-title="CANAIS PORTUGAL",GLOBO PREMIUM SD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1024.ts
+#EXTINF:-1 tvg-ID="RECORD SD" tvg-name="RECORD PT FULL HD" tvg-logo="http://s20.postimg.org/cx0pdmf7t/Record.png Record" group-title="CANAIS PORTUGAL",RECORD PT FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/416.ts
+#EXTINF:-1 tvg-ID="TV CINE 1 FULL HD" tvg-name="TV CINE 1 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC1.png" group-title="CANAIS PORTUGAL",TV CINE 1 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/777.ts
+#EXTINF:-1 tvg-ID="TV CINE 2 FULL HD" tvg-name="TV CINE 2 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC2.png" group-title="CANAIS PORTUGAL",TV CINE 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/778.ts
+#EXTINF:-1 tvg-ID="TV CINE 3 FULL HD" tvg-name="TV CINE 3 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC3.png" group-title="CANAIS PORTUGAL",TV CINE 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/779.ts
+#EXTINF:-1 tvg-ID="TV CINE 4 FULL HD" tvg-name="TV CINE 4 FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVC4.png" group-title="CANAIS PORTUGAL",TV CINE 4 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/780.ts
+#EXTINF:-1 tvg-ID="TV CINE SERIES FULL HD" tvg-name="TV CINE SERIES FULL HD" tvg-logo="http://www.playhdtv.pw/img/TVSeries.jpg" group-title="CANAIS PORTUGAL",TV CINE SERIES FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/781.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HD - PT" tvg-logo="http://www.playhdtv.pw/img/AMC.png" group-title="CANAIS PORTUGAL",AMC HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/767.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN FULL HD - PT" tvg-logo="https://s15.postimg.org/tzhnubsmz/axn.png" group-title="CANAIS PORTUGAL",AXN FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/776.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN BLACK FULL HD - PT" tvg-logo="http://www.playhdtv.pw/img/AXN_Black.png" group-title="CANAIS PORTUGAL",AXN BLACK FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/783.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN White FULL HD - PT" tvg-logo="http://www.playhdtv.pw/img/AXN_White.png" group-title="CANAIS PORTUGAL",AXN White FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/786.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX FULL HD - PT" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="CANAIS PORTUGAL",FOX FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/771.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE FULL HD PT" tvg-logo="http://www.playhdtv.pw/img/fox-life-hd.jpg" group-title="CANAIS PORTUGAL",FOX LIFE FULL HD PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/963.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY HD - PT" tvg-logo="http://www.playhdtv.pw/img/FOX-Comedy-HD.png" group-title="CANAIS PORTUGAL",FOX COMEDY HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/784.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES FULL HD PT" tvg-logo="http://www.playhdtv.pw/img/foxmove.png" group-title="CANAIS PORTUGAL",FOX MOVIES FULL HD PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/962.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CRIME FULL HD - PT" tvg-logo="http://www.playhdtv.pw/img/foxcrimehd.png" group-title="CANAIS PORTUGAL",FOX CRIME FULL HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/785.ts
+#EXTINF:-1 tvg-ID="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.playhdtv.pw/img/hollywood.png" group-title="CANAIS PORTUGAL",HOLLYWOOD HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/782.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SHOW CASE HD - PT" tvg-logo="http://www.playhdtv.pw/img/Discovery_HD_Showcase.png" group-title="CANAIS PORTUGAL",DISCOVERY SHOW CASE HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/770.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD HD - PT" tvg-logo="http://www.playhdtv.pw/img/NatgeoWildhD.png" group-title="CANAIS PORTUGAL",NAT GEO WILD HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/768.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO HD - PT" tvg-logo="http://www.playhdtv.pw/img/national-geographic.jpg" group-title="CANAIS PORTUGAL",NAT GEO HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/769.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BABY FIRTS - PT" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/baby_first_tv.png.300x300_q85.png" group-title="CANAIS PORTUGAL",BABY FIRTS - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1384.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK - PT" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="CANAIS PORTUGAL",CARTOON NETWORK - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1386.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FASHION TV HD - PT" tvg-logo="http://www.dipol.tkb.pl/wp-content/uploads/2016/07/fashion_tv_hd.jpg" group-title="CANAIS PORTUGAL",FASHION TV HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1455.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY HD - PT" tvg-logo="http://www.playhdtv.pw/img/The_History_Channel_HD.png" group-title="CANAIS PORTUGAL",HISTORY HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1320.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MCM POP - PT" tvg-logo="http://www.playhdtv.pw/img/MCM-POP.png" group-title="CANAIS PORTUGAL",MCM POP - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1311.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MCM TOP - PT" tvg-logo="http://www.playhdtv.pw/img/MCMTOP.jpg" group-title="CANAIS PORTUGAL",MCM TOP - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1312.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV DANCE - PT" tvg-logo="http://www.playhdtv.pw/img/MTV_Dance.png" group-title="CANAIS PORTUGAL",MTV DANCE - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1314.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY HD - PT" tvg-logo="http://www.playhdtv.pw/img/Syfy-HD.png" group-title="CANAIS PORTUGAL",SYFY HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1319.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CRIME INVESTIGATION - PT" tvg-logo="https://s3.amazonaws.com/piktochartv2-dev/v2/uploads/341ded3d-6001-48cd-b523-6014d9312bd6/c760f9417ff93196b33c32d2d34893223b6bc9fc_original.png" group-title="CANAIS PORTUGAL",CRIME INVESTIGATION - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1388.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CMTV HD - PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg" group-title="CANAIS PORTUGAL",CMTV HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1389.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBS REALITY - PT" tvg-logo="http://tvprofil.net/img/kanali-logo/CBS-REALITY.png" group-title="CANAIS PORTUGAL",CBS REALITY - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1387.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL Q - PT" tvg-logo="https://www.thematv.com/images/channels/canal-q.png" group-title="CANAIS PORTUGAL",CANAL Q - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIC HD - PT" tvg-logo="http://www.playhdtv.pw/img/SIC.jpg" group-title="CANAIS PORTUGAL",SIC HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1317.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIC MULHER - PT" tvg-logo="http://www.playhdtv.pw/img/SIC_Mulher.png" group-title="CANAIS PORTUGAL",SIC MULHER - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1315.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIC CARAS - PT" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2013/10/SIC-Caras-logo.png" group-title="CANAIS PORTUGAL",SIC CARAS - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SIC RADICAL  HD - PT" tvg-logo="http://www.playhdtv.pw/img/SICRADICAL.png" group-title="CANAIS PORTUGAL",SIC RADICAL  HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1316.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV GALICIA - PT" tvg-logo="http://www.atcco.com.ar/basico/basico_archivos/image070.jpg" group-title="CANAIS PORTUGAL",TV GALICIA - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVI - PT" tvg-logo="http://www.playhdtv.pw/img/TVI.png" group-title="CANAIS PORTUGAL",TVI - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/774.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVI FICÇAO - PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/d/d0/20160411200132%21TVI_fic%C3%A7%C3%A3o.png" group-title="CANAIS PORTUGAL",TVI FICÇAO - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1380.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVI REALITY - PT" tvg-logo="https://2.bp.blogspot.com/-nDNKgSgvAhI/WKyJ0FKeePI/AAAAAAAACc8/JMcwqkU-fsMYyl-KwukhXGS7McwGzbAOACEw/s400/TVIreality.png" group-title="CANAIS PORTUGAL",TVI REALITY - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1381.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP - PT" tvg-logo="http://www.playhdtv.pw/img/rtp_.png" group-title="CANAIS PORTUGAL",RTP - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1322.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP 2 - PT" tvg-logo="http://www.playhdtv.pw/img/rtp_.png" group-title="CANAIS PORTUGAL",RTP 2 - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/772.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP MADEIRA - PT" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Madeira.png" group-title="CANAIS PORTUGAL",RTP MADEIRA - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP AFRICA - PT" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtpAfrica_positivo.jpg" group-title="CANAIS PORTUGAL",RTP AFRICA - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP ACORES - PT" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rdpA%C3%A7ores_01.jpg" group-title="CANAIS PORTUGAL",RTP ACORES - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTP MEMORIA - PT" tvg-logo="http://www.playhdtv.pw/img/rtp-memoria.jpg" group-title="CANAIS PORTUGAL",RTP MEMORIA - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1321.ts
+#EXTINF:-1 tvg-ID="" tvg-name="24 KITCHEN HD - PT" tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-nl/images/stations/24-kitchen-radio-cover.png" group-title="CANAIS PORTUGAL",24 KITCHEN HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1382.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE - PT" tvg-logo="https://www.sundance.org/images/support-us/corporate/sundanceTV_680x136.png" group-title="CANAIS PORTUGAL",SUNDANCE - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1392.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MOTORVISION - PT" tvg-logo="http://www.ppm-intermedia.com/motorvision/logo.png" group-title="CANAIS PORTUGAL",MOTORVISION - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1391.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E! ENTERTAINMENT - PT" tvg-logo="http://2.bp.blogspot.com/-BsjeUcAD9gA/TZDwITEvQxI/AAAAAAAAJxw/eaKAwb7aPWI/s1600/E%2521Entertainment+Logo.jpg" group-title="CANAIS PORTUGAL",E! ENTERTAINMENT - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1390.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MCS EXTREME - PT" tvg-logo="http://www.playhdtv.pw/img/MCS-Extreme.png" group-title="CANAIS PORTUGAL",MCS EXTREME - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1313.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMUNDO - PT" tvg-logo="http://www.playhdtv.pw/img/cinemundo.jpg" group-title="CANAIS PORTUGAL",CINEMUNDO - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/964.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CAÇA E PESCA - PT" tvg-logo="https://images.tcdn.com.br/img//arquivos/407368/themed/img/theme-logo.png" group-title="CANAIS PORTUGAL",CAÇA E PESCA - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1385.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A BOLA - PT" tvg-logo="http://www.userlogos.org/files/logos/mattymuk/A_Bola.png" group-title="CANAIS PORTUGAL",A BOLA - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1383.ts
+#EXTINF:-1 tvg-ID="SPORT TV + FULL HD" tvg-name="SPORT TV + FULL HD" tvg-logo="http://www.playhdtv.pw/img/sport.tv_.plus.jpg" group-title="CANAIS PORTUGAL",SPORT TV + FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/971.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV  PT 1 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT1.png" group-title="CANAIS PORTUGAL",SPORTV  PT 1 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/666.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV  PT 2 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT2.png" group-title="CANAIS PORTUGAL",SPORTV  PT 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/667.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTV  PT 3 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT3.png" group-title="CANAIS PORTUGAL",SPORTV  PT 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/668.ts
+#EXTINF:-1 tvg-ID="SPORTV PT 4 FULL HD" tvg-name="SPORTV  PT 4 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT4.png" group-title="CANAIS PORTUGAL",SPORTV  PT 4 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/669.ts
+#EXTINF:-1 tvg-ID="SPORTV PT 5 FULL HD" tvg-name="SPORTV   PT 5 FULL HD" tvg-logo="http://www.playhdtv.pw/img/SPORTVPT5.png" group-title="CANAIS PORTUGAL",SPORTV   PT 5 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/674.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BENFICA TV HD" tvg-logo="http://www.playhdtv.pw/img/BenficaTV.png" group-title="CANAIS PORTUGAL",BENFICA TV HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/675.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EUROSPORT HD - PT" tvg-logo="http://www.playhdtv.pw/img/Eurosport_HD.png" group-title="CANAIS PORTUGAL",EUROSPORT HD - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="REAL MADRID TV - PT" tvg-logo="http://www.playhdtv.pw/img/real-madrid-tv.jpg" group-title="CANAIS PORTUGAL",REAL MADRID TV - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/766.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS - PT" tvg-logo="http://www.playhdtv.pw/img/bein-logo.jpg" group-title="CANAIS PORTUGAL",BEIN SPORTS - PT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/758.ts
+#EXTINF:-1 tvg-ID="" tvg-name="### USA CHANNELL ###" tvg-logo="https://s14.postimg.org/bjgr7imf5/Bandeira_Estados_Unidos.png" group-title="CANAIS USA",### USA CHANNELL ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/999.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ABC HD - USA" tvg-logo="http://www.cablecable.net/files/7413/9569/2658/abc_hd.png" group-title="CANAIS USA",ABC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/990.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBC - USA" tvg-logo="http://nitrocircus.com/wp-content/uploads/2015/06/NBC_logo1.png" group-title="CANAIS USA",NBC - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/988.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MSNBC HD - USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/MSNBC_logo.png" group-title="CANAIS USA",MSNBC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/989.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX NEWS HD - USA" tvg-logo="http://global.fncstatic.com/static/v/all/img/og/og-fn-foxnews.jpg" group-title="CANAIS USA",FOX NEWS HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/998.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SEC NETWORK - USA" tvg-logo="https://www.mydish.com/filestream.ashx?ID=12543" group-title="CANAIS USA",SEC NETWORK - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1367.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BNN - USA" tvg-logo="http://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_bnn-490x490.png" group-title="CANAIS USA",BNN - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1370.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FINE LIVING - USA" tvg-logo="https://tekmediamag.files.wordpress.com/2016/02/b3011-large.jpg" group-title="CANAIS USA",FINE LIVING - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1371.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TBS HD - USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltbnDKurVizNznJauxxgNBj4Cu-DteDmNIDwv6izRk5XLdqEi" group-title="CANAIS USA",TBS HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1366.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BET - USA" tvg-logo="https://pbs.twimg.com/profile_images/551807676233957377/-5DjZsbn.png" group-title="CANAIS USA",BET - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1002.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC - USA" tvg-logo="http://fm.cnbc.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="CANAIS USA",CNBC - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD - USA" tvg-logo="https://cms.cignal.tv/Upload/Images/FOX-HD.png" group-title="CANAIS USA",FOX HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/993.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBSN HD - USA" tvg-logo="http://1.bp.blogspot.com/-M8nye-TxX6M/UGbSZiAxapI/AAAAAAAACSI/_T3yV5sehEA/s1600/cbs.jpg" group-title="CANAIS USA",CBSN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/991.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CW HD - USA" tvg-logo="http://img.zanda.com/item/43060230000008/1024x768/The_CW_logo.png" group-title="CANAIS USA",CW HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/994.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN HD - USA" tvg-logo="http://findastream.com/wp-content/uploads/2016/05/stream-cnn.jpeg" group-title="CANAIS USA",CNN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1001.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DIY NETWORK - USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgeWNhqm9AkqfHZs_gGCk7nLTx1B_Em8eBzpwgTZf0G6Y4vFiyEiaPrmvb" group-title="CANAIS USA",DIY NETWORK - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPIKE HD - USA" tvg-logo="http://www.underconsideration.com/brandnew/archives/spike_tv_2015_logo_detail.png" group-title="CANAIS USA",SPIKE HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BRAVO HD - USA" tvg-logo="http://www.ferris.edu/HTMLS/mytechsupport/servicecat/phoneandcable/cable_television/cableimages/bravohdlogo.png" group-title="CANAIS USA",BRAVO HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1363.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OXYGEN HD - USA" tvg-logo="http://www.oxygen.com/sites/nbcuoxygen/files/oxygen_logo-200x200.png" group-title="CANAIS USA",OXYGEN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1365.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BTN HD - USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="CANAIS USA",BTN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1364.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOOD NETWORK HD - USA" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/10/food-network-hd.png" group-title="CANAIS USA",FOOD NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1004.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV HD - USA" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/a/ac/Hgtv-logo-with-r.png/revision/latest?cb=20140623030647" group-title="CANAIS USA",HGTV HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1357.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC - USA" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="CANAIS USA",NATIONAL GEOGRAPHIC - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1005.ts
+#EXTINF:-1 tvg-ID="" tvg-name="OUTDOOR CHANNEL - USA" tvg-logo="http://www.luxuryprivatetravel.de/includes/templates/luxuryprivatetravel/images/logo.gif" group-title="CANAIS USA",OUTDOOR CHANNEL - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FUEL TV  HD - USA" tvg-logo="https://jorgesalvador.files.wordpress.com/2012/01/fueltvhdlogopeq.png" group-title="CANAIS USA",FUEL TV  HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1372.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E! HD - USA" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="CANAIS USA",E! HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1254.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LIFETIME MOVIE NETWORK HD - USA" tvg-logo="https://s19.postimg.org/s6k70av4j/Lifetime_logo.png" group-title="CANAIS USA",LIFETIME MOVIE NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1250.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HD - USA" tvg-logo="https://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="CANAIS USA",ANIMAL PLANET HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1251.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HD - USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/2000px-TNT_Film_HD_Logo.svg.png" group-title="CANAIS USA",TNT HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1006.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX HD - USA" tvg-logo="http://americablejapan.net/images/station_logos/FXX_HD.jpg" group-title="CANAIS USA",FX HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HD - USA" tvg-logo="http://www.playhdtv.pw/img/AMC.png" group-title="CANAIS USA",AMC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1275.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E HD - USA" tvg-logo="http://www.playhdtv.pw/img/A&E.jpg" group-title="CANAIS USA",A&E HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1273.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO HD - USA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="CANAIS USA",HBO HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/997.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX ACTION HD - USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Cinemax_logo.png" group-title="CANAIS USA",CINEMAX ACTION HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1012.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX MOREMAX - USA" tvg-logo="http://www.playhdtv.pw/img/Cinemax.png" group-title="CANAIS USA",CINEMAX MOREMAX - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1274.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS HD - USA" tvg-logo="http://www.playhdtv.pw/img/bein-logo.jpg" group-title="CANAIS USA",BEIN SPORTS HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1431.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN HD - USA" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="CANAIS USA",ESPN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT SPORT - USA" tvg-logo="https://4.bp.blogspot.com/-HiVnVVX81g4/V1HMT9twsaI/AAAAAAAAWcY/aUdJZqmxzVcyA8ZgWt-MtGxpUVQU-bHhwCLcB/s1600/fight%2Bsport.png" group-title="CANAIS USA",FIGHT SPORT - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1013.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOL TV - USA" tvg-logo="https://pbs.twimg.com/profile_images/509436644147994624/JJM6OpCL.jpeg" group-title="CANAIS USA",GOL TV - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1010.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NFL NETWORK HD - USA" tvg-logo="http://hd-report.com/wp-content/uploads/2010/03/nfl-network-logo.jpg" group-title="CANAIS USA",NFL NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1009.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NHL NETWORK HD - USA" tvg-logo="http://3.cdn.nhle.com/nhl/images/upload/2011/12/New_NHLN_logo_325x183.png" group-title="CANAIS USA",NHL NETWORK HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1008.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA TV HD - USA" tvg-logo="http://forums.nba-live.com/dl_mod/thumbs/2166_nbatv_logo1%20MED%20HD.bmp" group-title="CANAIS USA",NBA TV HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1007.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG - USA" tvg-logo="http://s20.postimg.org/9cdieyw09/Bloomberg.png" group-title="CANAIS USA",BOOMERANG - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK - USA" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/05/Cartoon_Network_2004_logo.svg_.png" group-title="CANAIS USA",CARTOON NETWORK - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1000.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEN HD - USA" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/04/nickelodeon-hd-simulcast.png" group-title="CANAIS USA",NICKELODEN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1011.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL HD - USA" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0050418.png" group-title="CANAIS USA",DISCOVERY CHANNEL HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1015.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H2 - USA" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/08/canal-h2-hd-na-net.png" group-title="CANAIS USA",H2 - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1016.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY HD - USA" tvg-logo="http://bundler.watch.aetnd.com/images/history/generic-thumb.jpg" group-title="CANAIS USA",HISTORY HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1014.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 CLASSIC - USA" tvg-logo="http://www.playhdtv.pw/img/VH1CLASSIC.png" group-title="CANAIS USA",VH1 CLASSIC - USA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1262.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CITY TV HD - CA" tvg-logo="http://www.playhdtv.pw/img/CityTV_logo.png" group-title="CANAIS CANADA",CITY TV HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CBC HD - CA" tvg-logo="http://www.playhdtv.pw/img/cbc.png" group-title="CANAIS CANADA",CBC HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1259.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CP24 HD - CA" tvg-logo="http://www.playhdtv.pw/img/cp24.png" group-title="CANAIS CANADA",CP24 HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1256.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLOBAL HD - CA" tvg-logo="http://www.playhdtv.pw/img/Global_TV_HD.png" group-title="CANAIS CANADA",GLOBAL HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1258.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TSN HD - CA" tvg-logo="http://www.playhdtv.pw/img/TSN_Logo.svg.png" group-title="CANAIS CANADA",TSN HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1260.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTNET HD - CA" tvg-logo="http://www.playhdtv.pw/img/sportnet.png" group-title="CANAIS CANADA",SPORTNET HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1257.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVISION HD" tvg-logo="http://www.foxcitiestv.com/files/images/univision.png" group-title="CANAIS PORTUGAL",UNIVISION HD
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="CANAIS PORTUGAL",TELEMUNDO
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UNIMAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq0Vv3TvsBZuwVHwRh6pa5UVQzbelvKHFl7iaE4UH446hLsBkbRXk-kQ" group-title="CANAIS PORTUGAL",UNIMAS
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1323.ts
+#EXTINF:-1 tvg-ID="" tvg-name="### ITALIA  CHANNELL ###" tvg-logo="http://1.bp.blogspot.com/-Tn4nNfsovGk/VpaTkjgvNFI/AAAAAAAAAWA/xBa6obudMfk/s1600/BANDEIRA%2B3.jpg" group-title="CANAIS ITALIA",### ITALIA  CHANNELL ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1272.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI HD - IT" tvg-logo="http://www.playhdtv.pw/imgca/Logo-Rai.png" group-title="CANAIS ITALIA",RAI HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1263.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI 2 HD - IT" tvg-logo="http://www.playhdtv.pw/imgca/Logo_Rai_2_2010.svg.png" group-title="CANAIS ITALIA",RAI 2 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1264.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI 3 HD - IT" tvg-logo="http://www.playhdtv.pw/imgca/Rai_3.png" group-title="CANAIS ITALIA",RAI 3 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1265.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI 4 HD - IT" tvg-logo="http://www.playhdtv.pw/imgca/1000px-RAI4_2010_Logo.svg.png" group-title="CANAIS ITALIA",RAI 4 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1266.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI 5 HD - IT" tvg-logo="http://www.playhdtv.pw/imgca/1024px-Rai_5_logo.svg.png" group-title="CANAIS ITALIA",RAI 5 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1267.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RAI MOVIE - IT" tvg-logo="http://www.playhdtv.pw/imgca/1200px-RAI_Movie_2010_neu_Logo.svg.png" group-title="CANAIS ITALIA",RAI MOVIE - IT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1268.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SKY TG24 - IT" tvg-logo="http://www.playhdtv.pw/imgca/SKY_TG24.png" group-title="CANAIS ITALIA",SKY TG24 - IT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1270.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MEDIASET - IT" tvg-logo="http://www.playhdtv.pw/imgca/download.png" group-title="CANAIS ITALIA",MEDIASET - IT
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1269.ts
+#EXTINF:-1 tvg-ID="" tvg-name="### RADIOS ###" tvg-logo="http://iptvmaniahd.com/imagens/radio.png" group-title="",### RADIOS ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Transamerica FM" tvg-logo="http://brasilradiofm.com/sites/default/files/radio/logos/logo-transamerica.png" group-title="RADIOS",RADIO Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Mania FM" tvg-logo="http://player.radiomania.com.br/imagens/logo.png" group-title="RADIOS",RADIO Mania FM
+http://radio.servercsi.com.br:8595/;
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Jovem Pan FM" tvg-logo="http://visualbest.com.br/wp-content/uploads/2014/12/mzl.kjktdwna.png" group-title="RADIOS",RADIO Jovem Pan FM
+http://live.webradio.upx.net.br:8112/;
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Liberdade FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/liberdade.png" group-title="RADIOS",RADIO Liberdade FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO 104 FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/104.png" group-title="RADIOS",RADIO 104 FM
+http://noasrv.caster.fm:10127/stream
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO CaiÃ§ara FM-AM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/caicara.png" group-title="RADIOS",RADIO CaiÃ§ara FM-AM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO CapÃ£o FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/capao.png" group-title="RADIOS",RADIO CapÃ£o FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Coca Cola FM" tvg-logo="http://www.cocacola.com.br/etc/designs/projectux-coca-cola/main/images/ccfm_logo_fb.jpg" group-title="RADIOS",RADIO Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Continental FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/continental.png" group-title="RADIOS",RADIO Continental FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Eldorado FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/eldorado.png" group-title="RADIOS",RADIO Eldorado FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO FM Premium" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/premium.png" group-title="RADIOS",RADIO FM Premium
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Funk Brasil" tvg-logo="http://www.portaldn7.com.br/wp-content/uploads/2014/12/LOGO-415x260.png" group-title="RADIOS",RADIO Funk Brasil
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Funk NeurÃ³tico" tvg-logo="http://cdn-radiotime-logos.tunein.com/s126553q.png" group-title="RADIOS",RADIO Funk NeurÃ³tico
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Grenal FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/grenal.png" group-title="RADIOS",RADIO Grenal FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO ImbÃ© FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/premium.png" group-title="RADIOS",RADIO ImbÃ© FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Mix FM" tvg-logo="http://pbs.twimg.com/profile_images/1592841029/AVATAR_-_TWITTER_MIX_MARINGA.png" group-title="RADIOS",RADIO Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Pampa FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/pampa.png" group-title="RADIOS",RADIO Pampa FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Praia FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/praia.png" group-title="RADIOS",RADIO Praia FM
+http://noasrv.caster.fm:10132/stream
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Xangri-lÃ¡ FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/premium.png" group-title="RADIOS",RADIO Xangri-lÃ¡ FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO Princesa FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/premium.png" group-title="RADIOS",RADIO Princesa FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO TramandaÃ­ FM" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/tramandai.png" group-title="RADIOS",RADIO TramandaÃ­ FM
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="### FILMES ON DEMAND ###" tvg-logo="http://iptvmaniahd.com/imagens/filme.png" group-title="FILMES",### FILMES ON DEMAND ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1089.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Atração Violenta (2017) 720p" tvg-logo="https://i0.wp.com/baixarblurays.com/wp-content/uploads/2017/07/Bluray-Atra%C3%A7%C3%A3o-Violenta.jpg?resize=239%2C300" group-title="FILMES ON DEMAND",Atração Violenta (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1573.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Crimes na Madrugada (2017) 720p" tvg-logo="https://1.bp.blogspot.com/-6o0MxbsH1Fs/WXSXRUoNWnI/AAAAAAAAKm8/sFmABWFhtvgoBn1ISDGzJBSqn7OkustYwCLcBGAs/s320/Crimes%2BNa%2BMadrugada%2BSCREEM.jpg" group-title="FILMES ON DEMAND",Crimes na Madrugada (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1574.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Nunca Diga Seu Nome (2017) 720p" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/07/27/14/23/345144.jpg" group-title="FILMES ON DEMAND",Nunca Diga Seu Nome (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1575.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Real O Plano Por Tras da Historia (2017) 720p" tvg-logo="http://www.pipocao.com.br/images/cinema/real.jpg" group-title="FILMES ON DEMAND",Real O Plano Por Tras da Historia (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1576.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ben-Hur (2016) 720p" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcT6ory31s2BhKCm2194Pqyvxan81bewMVChzvwCZRj-hrnrmxr7" group-title="FILMES ON DEMAND",Ben-Hur (2016) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1569.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Divertida Mente (2015) 720p" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcRfHd-mM9MgWeQNmyKNg-dKuNcCaNVP8EOstPbFLz-JaBdIZ8wA" group-title="FILMES ON DEMAND",Divertida Mente (2015) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1570.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Paixão Obsessiva (2017) 720p" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRXA_CtbCvcisL6OR77JLxqIp4MFe7UucNQB_aONhavzfaoUkxe" group-title="FILMES ON DEMAND",Paixão Obsessiva (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1571.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Vingança (2017) 720p" tvg-logo="https://4.bp.blogspot.com/-NTmHqTTwwn8/WVapGTMbSSI/AAAAAAAAW0o/Jq5kScLdCBYbwVpxE0nEW798-PAT3eEhgCLcBGAs/s350/IC_Vingan%25C3%25A7a%2B2017.png" group-title="FILMES ON DEMAND",Vingança (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1553.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Alien Covenant (2017) 1080p LEGENDADO" tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/AlienPoster.jpg" group-title="FILMES ON DEMAND",Alien Covenant (2017) 1080p LEGENDADO
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1555.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="8 Mile - Rua das Ilusões (2002) 720p" tvg-logo="http://4.bp.blogspot.com/-rUNnuXppHTw/UngfB5Nhi2I/AAAAAAAAFLA/vXnsT9Y7RDo/s1600/8+Mile+-+Rua+das+Ilusoes.jpg" group-title="FILMES ON DEMAND",8 Mile - Rua das Ilusões (2002) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1572.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Amaldiçoada (2017) 720p" tvg-logo="https://2.bp.blogspot.com/-dz7hkg3F9II/WVpnZjMhKOI/AAAAAAAAW2k/SbDnF25fEJICBGqsJ1E12UBo0Mg7OP1dACEwYBhgL/s1600/IC_Amaldi%25C3%25A7oada%2B2017.png" group-title="FILMES ON DEMAND",Amaldiçoada (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1554.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mate o Rei (2017) 720p" tvg-logo="https://i.imgur.com/bYsPNAy.png" group-title="FILMES ON DEMAND",Mate o Rei (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1557.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mulher Maravilha (2017) 1080p LEGENDADO" tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2016/09/mulher-maravilha-poster-nacional.jpg" group-title="FILMES ON DEMAND",Mulher Maravilha (2017) 1080p LEGENDADO
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1556.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Resident evil A Vinganca (2017) 720p" tvg-logo="http://www.videoperola.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/r/e/resident_evil_vendetta_bd_st_7892770038689.jpg" group-title="FILMES ON DEMAND",Resident evil A Vinganca (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1564.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Um Contratempo (2017) 720p" tvg-logo="https://i0.wp.com/i.imgur.com/59vCv32.png?resize=235%2C280&ssl=1" group-title="FILMES ON DEMAND",Um Contratempo (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1563.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Vida Dupla 2017 720p" tvg-logo="https://2.bp.blogspot.com/-4wVV9Mzi_wo/WV5Lb-38tYI/AAAAAAAAnBg/6yNiX9Ve4Fo2R4iBiiAA0fcQYG-KfadhQCLcBGAs/s1600/0Zpnh5a.jpg" group-title="FILMES ON DEMAND",Vida Dupla 2017 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1562.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Drone (2017)720p" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTv3wcKHZUaQlmuyel8Y3Wb1_HvszoBK-d2R0cTWaa0Gw4WJz7s" group-title="FILMES ON DEMAND",Drone (2017)720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1552.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Poderoso Chefinho (2017)720p" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcQxgMWyABeVtBSm7s2PPHGE9lxe8Sl5CN4H7mH27FJQKky0KeOo" group-title="FILMES ON DEMAND",O Poderoso Chefinho (2017)720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1551.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Okja (2017) 720p" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcSkeKv-OKoYw_T-ObRdOKEMfdTrQoJa6O4dLiOhca2PyD1ZkC5c" group-title="FILMES ON DEMAND",Okja (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1549.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Os Smurfs e a Vila Perdida (2017) 720p" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTYgRQkpUzF4VvfyrVCmiH-hZf8Tiw9FL3g2nFUK_E51R0cNyzZ" group-title="FILMES ON DEMAND",Os Smurfs e a Vila Perdida (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1550.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Corra (2017) 720p Audio ts" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/04/19/21/08/577190.jpg" group-title="FILMES ON DEMAND",Corra (2017) 720p Audio ts
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1539.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kong A Ilha da Caveira (2017) 720p" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcS6VQtbQQciwE_zLOgcfTfm4pinERAxr5usph9UWR_8pm-Bcv96" group-title="FILMES ON DEMAND",Kong A Ilha da Caveira (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1538.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Bela & A Fera (2017) 1080p" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2771200.jpg" group-title="FILMES DESENHO",A Bela & A Fera (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1534.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Campo Minado (2017) 720p" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzVjZTdjMWYtZmFhNS00MDRmLTgyNDktYzQwM2M1ZDQyMTg3XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="FILMES ON DEMAND",Campo Minado (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1545.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Espaço Entre Nós (2017) 720p" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/12/01/18/26/416749.jpg" group-title="FILMES ON DEMAND",O Espaço Entre Nós (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1546.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Sinal - Frequeciancia do Medo (2015) 720p" tvg-logo="http://2.bp.blogspot.com/-iDBOSGgHuYM/VbbdOW-mQfI/AAAAAAAAEmI/TMd3bNSojh8/s1600/O%2BSinal%2B-%2BFrequ%25C3%25AAncia%2Bdo%2BMedo%2B%25E2%2580%2593%2BUm%2Bsuspense%2Bsci%2Bfi%2Boriginal%2Be%2Bintrigante.jpg" group-title="FILMES ON DEMAND",O Sinal - Frequeciancia do Medo (2015) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1543.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Headshot (2017) 1080p" tvg-logo="data:image/jpeg;base64,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" group-title="FILMES ON DEMAND",Headshot (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1528.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Personal Shopper (2017) 1080p" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcTVG6iwSJUp3itSBbbk9a8c3sFzEnMc1lrIom1KOJl9yjm6qWnk" group-title="FILMES ON DEMAND",Personal Shopper (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1527.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Power Rangers (2017) 720p LEGENDADO" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/17/02/20/23/09/003238.jpg" group-title="FILMES DESENHO",Power Rangers (2017) 720p LEGENDADO
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1533.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Power Rangers (2017) 1080p" tvg-logo="https://www.thepiratefilmeshd.com/wp-content/uploads/2017/06/power-rangers-2017-torrent-bluray-720p-1080p-legendado-download.jpg" group-title="FILMES DESENHO",Power Rangers (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1536.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Truque De Mestre 2 (2016) 1080p" tvg-logo="https://3.bp.blogspot.com/-bTdMXu0TA30/V7nnFkqBOqI/AAAAAAAAEik/T-Sx-3YEmRIGs4LJ8M7KbG84GsjSinBrQCLcB/s1600/truque-de-mestre-2-2016-torrent-bluray-720p-e-1080p-dublado-download.jpg" group-title="FILMES ON DEMAND",Truque De Mestre 2 (2016) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1537.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sem Limites 2 (2017) 1080p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVeoGbvrwuy73OjrP6T7W3Yi1918uNEWlj1ZzI99fFEiCLIonU" group-title="FILMES ON DEMAND",Sem Limites 2 (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1535.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Clube da Luta" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0137523.jpg" group-title="FILMES ON DEMAND",Clube da Luta
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1203.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Resident Evil 6: O Capítulo Final" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2592614.jpg" group-title="FILMES ON DEMAND",Resident Evil 6: O Capítulo Final
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1083.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Rogue One  Uma História Star Wars" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3748528.jpg" group-title="FILMES ON DEMAND",Rogue One  Uma História Star Wars
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1101.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Anjos da Noite 5" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3717252.jpg" group-title="FILMES ON DEMAND",Anjos da Noite 5
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1092.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Esquadrão Suicida  H265" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1386697.jpg" group-title="FILMES ON DEMAND",Esquadrão Suicida  H265
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1097.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="1 Contra todos o filme H265" tvg-logo="http://br.web.img1.acsta.net/c_160_214/pictures/16/06/14/23/33/400178.jpg" group-title="FILMES ON DEMAND",1 Contra todos o filme H265
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1430.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="X-Men: Apocalipse" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3385516.jpg" group-title="FILMES ON DEMAND",X-Men: Apocalipse
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1103.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e a Pedra Filosofal (2001) 1080p" tvg-logo="http://image.tmdb.org/t/p/w396/c6m4IMQkvZKOL019gEaRd8PJtex.jpg" group-title="FILMES ON DEMAND",Harry Potter e a Pedra Filosofal (2001) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1469.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e a Camara Secreta (2002) 1080p" tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/filme_12001.jpg" group-title="FILMES ON DEMAND",Harry Potter e a Camara Secreta (2002) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1468.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e o Prisioneiro de Azakaban (2004) 1080p" tvg-logo="http://static.fnac-static.com/multimedia/PT/images_produits/PT/ZoomPE/0/2/2/5601887546220/tsp20101207203243/Harry-Potter-e-o-Prisioneiro-de-Azkaban.jpg" group-title="FILMES ON DEMAND",Harry Potter e o Prisioneiro de Azakaban (2004) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1470.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e o Cálice de Fogo (2005) 1080p" tvg-logo="http://static.fnac-static.com/multimedia/PT/images_produits/PT/ZoomPE/6/1/9/5601887546916/tsp20101207203243/Harry-Potter-e-o-Calice-de-Fogo.jpg" group-title="FILMES ON DEMAND",Harry Potter e o Cálice de Fogo (2005) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1368.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter Ordem da fenix (2007) 1080p" tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/filme_9347.jpg" group-title="FILMES ON DEMAND",Harry Potter Ordem da fenix (2007) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1210.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e o Enigma do Principe (2009) 1080p" tvg-logo="http://www.becodiagonal.com.br/imagensGaleria/secao2/album22/1462.jpg" group-title="FILMES ON DEMAND",Harry Potter e o Enigma do Principe (2009) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1369.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter Reliquia da Morte parte 1 (2010) 1080p" tvg-logo="http://1.bp.blogspot.com/-5mBDTHz86pA/UGiiGm9_s6I/AAAAAAAABHk/rHxfD-hevJU/s1600/500px-HP_7_1.png" group-title="FILMES ON DEMAND",Harry Potter Reliquia da Morte parte 1 (2010) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1214.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Harry Potter e as Reliquias da Morte Parte 2 (2011) 1080p" tvg-logo="http://eovideolevou.com.br/imgProduto/71437_f1.jpg" group-title="FILMES ON DEMAND",Harry Potter e as Reliquias da Morte Parte 2 (2011) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1215.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Forrest Gump O Contador De Historias" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0109830.jpg" group-title="FILMES ON DEMAND",Forrest Gump O Contador De Historias
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1208.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Austrália" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0455824.jpg" group-title="FILMES ON DEMAND",Austrália
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1247.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Brilho Eterno de uma Mente Sem Lembranças" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0338013.jpg" group-title="FILMES ON DEMAND",Brilho Eterno de uma Mente Sem Lembranças
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1246.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Misterioso Caso de Judith Winstead" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3280916.jpg" group-title="FILMES ON DEMAND",O Misterioso Caso de Judith Winstead
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1233.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Viral" tvg-logo="http://www.playhdtv.pw/imgs/ViralColored-cover.jpg" group-title="TERROR",Viral
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1052.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Assassin's creed" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2094766.jpg" group-title="FILMES ON DEMAND",Assassin's creed
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1078.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Batman vs. Superman: A Origem da Justiça" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2975590.jpg" group-title="FILMES ON DEMAND",Batman vs. Superman: A Origem da Justiça
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1094.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Coração de Cavaleiro" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0183790.jpg" group-title="FILMES ON DEMAND",Coração de Cavaleiro
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1205.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Minha mãe é uma peça 2" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3212812.jpg" group-title="FILMES ON DEMAND",Minha mãe é uma peça 2
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1099.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Passageiros" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1355644.jpg" group-title="FILMES ON DEMAND",Passageiros
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1087.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Portal dos Guerreiros" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0483130.jpg" group-title="FILMES ON DEMAND",Portal dos Guerreiros
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1100.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Silêncio" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0490215.jpg" group-title="FILMES ON DEMAND",Silêncio
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1102.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Bailarina" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2261287.jpg" group-title="FILMES ON DEMAND",A Bailarina
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1279.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A cabana (2017) 720p" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcTOwEP0Xaw1RZv8OJgA3UvKdDTx26CF2NFGITiRZREoWsEajmrY" group-title="FILMES ON DEMAND",A cabana (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1276.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A chantagem" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4430212.jpg" group-title="FILMES ON DEMAND",A chantagem
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1280.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A ultima ressaca do Ano" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1711525.jpg" group-title="FILMES ON DEMAND",A ultima ressaca do Ano
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1283.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Breaking bad the movie" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/not-found.jpg" group-title="FILMES ON DEMAND",Breaking bad the movie
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1284.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Dominação" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3216348.jpg" group-title="FILMES ON DEMAND",Dominação
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1285.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ela Dança Eu Danço" tvg-logo="http://ssdvds.loja2.com.br/img/dfbdb8e1777a8ff4963d4709a6785a22.png" group-title="FILMES ON DEMAND",Ela Dança Eu Danço
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1288.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ela Dança Eu Danço 2" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/37/63/20093733.jpg" group-title="FILMES ON DEMAND",Ela Dança Eu Danço 2
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1289.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ela Dança Eu Danço 3" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/37/67/20093741.JPG" group-title="FILMES ON DEMAND",Ela Dança Eu Danço 3
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1290.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ela Dança Eu Danço 4" tvg-logo="http://bestfilmeshd.com/wp-content/uploads/2016/05/Ela-Dan%C3%A7a-Eu-Dan%C3%A7o-4.jpg" group-title="FILMES ON DEMAND",Ela Dança Eu Danço 4
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1291.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ela Dança Eu Danço 5" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/94/e0/c7/94e0c7159e1835fc1ba08e47017107ce.jpg" group-title="FILMES ON DEMAND",Ela Dança Eu Danço 5
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1292.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Estrelas Alem do tempo" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4846340.jpg" group-title="FILMES ON DEMAND",Estrelas Alem do tempo
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1286.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Eu Deus e Bin Laden" tvg-logo="http://ultrahdseriesfilmes.net/wp-content/uploads/2017/04/eu-deus-e-binladen.jpg" group-title="FILMES ON DEMAND",Eu Deus e Bin Laden
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1287.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Felipe Neto Minha Vida Não Faz Sentido" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/6690322.jpg" group-title="FILMES ON DEMAND",Felipe Neto Minha Vida Não Faz Sentido
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1293.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Grande Muralha" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2034800.jpg" group-title="FILMES ON DEMAND",Grande Muralha
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1281.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Hop" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1411704.jpg" group-title="FILMES ON DEMAND",Hop
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1294.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Internet  o filme" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/6571110.jpg" group-title="FILMES ON DEMAND",Internet  o filme
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1295.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Jason Bourne" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4196776.jpg" group-title="FILMES ON DEMAND",Jason Bourne
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1296.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick: Chapter 2" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4425200.jpg" group-title="FILMES ON DEMAND",John Wick: Chapter 2
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1277.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Lendas Do templo Perdido" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/5333842.jpg" group-title="FILMES ON DEMAND",Lendas Do templo Perdido
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1297.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Logan (2017) 1080p" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3315342.jpg" group-title="FILMES ON DEMAND",Logan (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1298.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Mara E O Senhor Do Fogo 2017" tvg-logo="https://2.bp.blogspot.com/-tvU5PMMv244/WK1sY3bIPAI/AAAAAAAAAvs/gftfhq5H9oEqxaCYz4-wGq4iRE3cOLW8ACLcB/s1600/Mara.jpg" group-title="FILMES ON DEMAND",Mara E O Senhor Do Fogo 2017
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1299.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Nossos Amantes" tvg-logo="http://capasftpcolecao1.com/wp-content/uploads/2017/04/NOSSOS-AMANTES.jpg" group-title="FILMES ON DEMAND",Nossos Amantes
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1300.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Chamado 3" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0498381.jpg" group-title="FILMES ON DEMAND",O Chamado 3
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1271.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Tunel" tvg-logo="https://4.bp.blogspot.com/-ZQJN57jMyuM/WLv6bSPPJQI/AAAAAAAAVbc/BJej1gTQGUEbStBFO3ylM3hvh1G6floXQCLcB/s1600/IC_O%2BTUNEL%2B2017.png" group-title="FILMES ON DEMAND",O Tunel
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1301.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Peles" tvg-logo="https://img.fstatic.com/26_JTD35I4NaQWQKP-6nViqeExE=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/04/pieles-cartel-eduardo-casanova.jpg" group-title="FILMES ON DEMAND",Peles
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1302.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Questão de tempo" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2194499.jpg" group-title="FILMES ON DEMAND",Questão de tempo
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1303.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sala Verde" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4062536.jpg" group-title="FILMES ON DEMAND",Sala Verde
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1304.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sucesso Acima de tudo" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2474958.jpg" group-title="FILMES ON DEMAND",Sucesso Acima de tudo
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1306.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tempo Esquecido" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3473654.jpg" group-title="FILMES ON DEMAND",Tempo Esquecido
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1307.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="The Outcasts" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2597760.jpg" group-title="FILMES ON DEMAND",The Outcasts
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1282.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Tumba Aberta" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2071550.jpg" group-title="FILMES ON DEMAND",Tumba Aberta
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1308.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Hora do Rush" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0120812.jpg" group-title="FILMES ON DEMAND",A Hora do Rush
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1354.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Hora do Rush 2" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0266915.jpg" group-title="FILMES ON DEMAND",A Hora do Rush 2
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1355.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Hora do Rush 3" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0293564.jpg" group-title="FILMES ON DEMAND",A Hora do Rush 3
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1356.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Adrenalina" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0479884.jpg" group-title="FILMES ON DEMAND",Adrenalina
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1352.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Adrenalina 2" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1121931.jpg" group-title="FILMES ON DEMAND",Adrenalina 2
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1353.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="America Pie" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0163651.jpg" group-title="FILMES ON DEMAND",America Pie
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1349.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="American Pie 2, A Segunda Vez é Ainda Melhor" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0252866.jpg" group-title="FILMES ON DEMAND",American Pie 2, A Segunda Vez é Ainda Melhor
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1350.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="American Pie 3, O Casamento" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0328828.jpg" group-title="FILMES ON DEMAND",American Pie 3, O Casamento
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1351.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Demolição" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1172049.jpg" group-title="FILMES ON DEMAND",Demolição
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1348.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="E Fada!" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2495980.jpg" group-title="FILMES ON DEMAND",E Fada!
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1334.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Herança de Sangue" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3647498.jpg" group-title="FILMES ON DEMAND",Herança de Sangue
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1332.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Meu Amigo Dragão" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2788732.jpg" group-title="FILMES ON DEMAND",Meu Amigo Dragão
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1335.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Negócios Das Arabias" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2980210.jpg" group-title="FILMES ON DEMAND",Negócios Das Arabias
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1346.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Grande Roubo" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4797160.jpg" group-title="FILMES ON DEMAND",O Grande Roubo
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1347.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Lar Das Crianças Peculiares" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1935859.jpg" group-title="FILMES ON DEMAND",O Lar Das Crianças Peculiares
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1345.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Poder Da Coragem" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/5286444.jpg" group-title="FILMES ON DEMAND",O Poder Da Coragem
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1344.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Uivo" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2393827.jpg" group-title="FILMES ON DEMAND",O Uivo
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1343.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Os Escolhidos" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2387433.jpg" group-title="FILMES ON DEMAND",Os Escolhidos
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1339.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Pequeno Delitos" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/5717492.jpg" group-title="FILMES ON DEMAND",Pequeno Delitos
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1336.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Procurando Dory" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2277860.jpg" group-title="FILMES ON DEMAND",Procurando Dory
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1340.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Seguidores Macabros" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3685668.jpg" group-title="FILMES ON DEMAND",Seguidores Macabros
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1338.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Truque De Mestre" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1670345.jpg" group-title="FILMES ON DEMAND",Truque De Mestre
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1341.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Um Amor A Altura" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4699388.jpg" group-title="FILMES ON DEMAND",Um Amor A Altura
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1342.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Uma Noite De Crime" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2184339.jpg" group-title="FILMES ON DEMAND",Uma Noite De Crime
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1337.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="xXx Reativado" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1293847.jpg" group-title="FILMES ON DEMAND",xXx Reativado
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1333.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes & Furiosos 1 (2001) 1080p" tvg-logo="https://3.bp.blogspot.com/-tfZCTp_VSKs/VtxN5tUG11I/AAAAAAAAAVY/4i8LzhykzpE/s400/srkCSeD.jpg" group-title="FILMES ON DEMAND",Velozes & Furiosos 1 (2001) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1393.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes & Furiosos 2 (2003) 1080p" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/22/ea/31/22ea318ccd124f64f81eae0741fc90f4.jpg" group-title="FILMES ON DEMAND",Velozes & Furiosos 2 (2003) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1394.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes & Furiosos 3 (2006) 1080p" tvg-logo="http://fnac.vteximg.com.br/arquivos/ids/389011/360-653074-0-5-velozes-e-furiosos-3-desafio-em-toquio-dvd.jpg" group-title="FILMES ON DEMAND",Velozes & Furiosos 3 (2006) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1395.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes & Furiosos 4 (2009) 1080p" tvg-logo="http://br.web.img3.acsta.net/pictures/210/445/21044501_2013092621313492.jpg" group-title="FILMES ON DEMAND",Velozes & Furiosos 4 (2009) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1396.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes & Furiosos 5 (2011) 1080p" tvg-logo="https://2.bp.blogspot.com/-GIGsuKKBp-0/UUojkh31v7I/AAAAAAAAY0U/JuCLAvgUyRw/s1600/capa.png" group-title="FILMES ON DEMAND",Velozes & Furiosos 5 (2011) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1397.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes & Furiosos 6 (2013) 1080p" tvg-logo="http://4.bp.blogspot.com/-J9axNPhgjPY/Um8D8ezPuDI/AAAAAAAAAac/VYi5wX1DxYQ/s1600/veloses+e+furiosos+6.jpg" group-title="FILMES ON DEMAND",Velozes & Furiosos 6 (2013) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1398.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes & Furiosos 7 (2015)  720p" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQeFw2aZDvBeISPR42qowNwbey0WVIcsKLbVuCMn4JmR2GbFgLv" group-title="FILMES ON DEMAND",Velozes & Furiosos 7 (2015)  720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1544.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Velozes & Furiosos 8  (2017) 720p LEGENDADO" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4630562.jpg" group-title="FILMES ON DEMAND",Velozes & Furiosos 8  (2017) 720p LEGENDADO
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1220.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Capitão América, O Primeiro Vingador (Marvel Collection)" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0458339.jpg" group-title="FILMES ON DEMAND",Capitão América, O Primeiro Vingador (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1399.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Capitão América 2 - O Soldado Invernal (2014) 1080p (Marvel Collection)" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1843866.jpg" group-title="FILMES ON DEMAND",Capitão América 2 - O Soldado Invernal (2014) 1080p (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1400.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Capitão América Guerra Civil (2016) 1080p  (Marvel Collection)" tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/10/20/36/363874.jpg" group-title="FILMES ON DEMAND",Capitão América Guerra Civil (2016) 1080p  (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1401.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Homem De Ferro (Marvell Collection)" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0371746.jpg" group-title="FILMES ON DEMAND",Homem De Ferro (Marvell Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1429.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Thor (Marvel Collection)" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0800369.jpg" group-title="FILMES ON DEMAND",Thor (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1427.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Thor: O Mundo Sombrio (Marvell Collection)" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1981115.jpg" group-title="FILMES ON DEMAND",Thor: O Mundo Sombrio (Marvell Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1428.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Vingadores (Marvel Colection)" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0848228.jpg" group-title="FILMES ON DEMAND",Vingadores (Marvel Colection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1419.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Doutor Estranho (2017) 1080p (Marvel Collection)" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRX9fR3-eF7emQjr21VmJHVekvKTpha9bi8LhjrcGk1m5M3nVe" group-title="FILMES ON DEMAND",Doutor Estranho (2017) 1080p (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1403.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O incrivel Hulk   (marvel Colection)" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0800080.jpg" group-title="FILMES ON DEMAND",O incrivel Hulk   (marvel Colection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1417.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Guardiões da Galáxia (2014) 1080p (Marvel Collection)" tvg-logo="http://4.bp.blogspot.com/-VVYkJr94fqI/VaLj124SILI/AAAAAAAAv8w/cPiLFi75deU/s1600/Guardi%25C3%25B5es%2B1080p%2BG%252B.jpg" group-title="FILMES ON DEMAND",Guardiões da Galáxia (2014) 1080p (Marvel Collection)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1438.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Guardiões da Galáxia Vol. 2  ( TS )" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3896198.jpg" group-title="FILMES ON DEMAND",Guardiões da Galáxia Vol. 2  ( TS )
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1331.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="60 Segundos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/93/60segundosposter.jpg/200px-60segundosposter.jpg" group-title="FILMES ON DEMAND",60 Segundos
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1411.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Visita" tvg-logo="http://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9263252&qld=90&l=430&a=-1" group-title="FILMES ON DEMAND",A Visita
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1413.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Advogado do Diabo" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0118971.jpg" group-title="FILMES ON DEMAND",Advogado do Diabo
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1412.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Aguas Rasas" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4052882.jpg" group-title="FILMES ON DEMAND",Aguas Rasas
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1405.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Armageddon" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0120591.jpg" group-title="FILMES ON DEMAND",Armageddon
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1414.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kick-Ass Quebrando Tudo" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1250777.jpg" group-title="FILMES ON DEMAND",Kick-Ass Quebrando Tudo
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1426.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="La La Land Cantando Estaçoes" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3783958.jpg" group-title="FILMES ON DEMAND",La La Land Cantando Estaçoes
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1415.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Lorax em busca da trufula perdida" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1482459.jpg" group-title="FILMES ON DEMAND",Lorax em busca da trufula perdida
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1418.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Ataque dos Zumbis Bavaros" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3569970.jpg" group-title="FILMES ON DEMAND",O Ataque dos Zumbis Bavaros
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1416.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Piratas do Caribe A Maldição do Pérola Negra" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0325980.jpg" group-title="FILMES ON DEMAND",Piratas do Caribe A Maldição do Pérola Negra
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1406.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Piratas do Caribe Navegando Em Águas Misteriosas" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/63/Pirates_of_the_Caribbean_-_On_Stranger_Tides.jpg/225px-Pirates_of_the_Caribbean_-_On_Stranger_Tides.jpg" group-title="FILMES ON DEMAND",Piratas do Caribe Navegando Em Águas Misteriosas
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1409.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Piratas do Caribe No Fim do Mundo" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0449088.jpg" group-title="FILMES ON DEMAND",Piratas do Caribe No Fim do Mundo
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1408.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Piratas do Caribe O Baú da Morte" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0383574.jpg" group-title="FILMES ON DEMAND",Piratas do Caribe O Baú da Morte
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1407.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Premonição" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0195714.jpg" group-title="TERROR",Premonição
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1421.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Premonição 2" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0309593.jpg" group-title="TERROR",Premonição 2
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1422.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Premonição 3" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0414982.jpg" group-title="TERROR",Premonição 3
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1423.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Premonição 4" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1144884.jpg" group-title="TERROR",Premonição 4
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1424.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="premonição 5" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1622979.jpg" group-title="TERROR",premonição 5
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1425.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Enjaulada" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1183374.jpg" group-title="FILMES ON DEMAND",Enjaulada
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1439.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Homem Aranha 1 (2002) 1080p" tvg-logo="https://4.bp.blogspot.com/-l1zBijCNo2c/VzhAwtgfLUI/AAAAAAAACxY/ZIYzjKnReYQ4vb60mLX92vuFKUEdGO9FACLcB/s1600/capa.png" group-title="FILMES ON DEMAND",Homem Aranha 1 (2002) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1442.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Homem Aranha 2 (2004) 1080p" tvg-logo="https://3.bp.blogspot.com/-4nh1LFiR-pA/V37taJnx1fI/AAAAAAAABBM/gNuPoedPQzICiNKKzlfEtSWW0ufS_GB0wCLcB/s1600/Homem%2BAranha%2B2.jpg" group-title="FILMES ON DEMAND",Homem Aranha 2 (2004) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1443.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Homem Aranha 3 (2007) 1080p" tvg-logo="http://filmesserieshd.com/wp-content/uploads/2015/07/homem-aranha-3-dublado-hd-1080p-filmes-online.jpg" group-title="FILMES ON DEMAND",Homem Aranha 3 (2007) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1444.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Profissional" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0110413.jpg" group-title="FILMES ON DEMAND",O Profissional
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1432.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Ray" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0350258.jpg" group-title="FILMES ON DEMAND",Ray
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1433.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Se Beber Não Case Parte l" tvg-logo="http://filmesserieshd.com/wp-content/uploads/2015/05/se-beber-nao-case-1-dublado-1080p.jpg" group-title="FILMES ON DEMAND",Se Beber Não Case Parte l
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1434.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Se Beber Nao Case Parte ll" tvg-logo="http://img.americanas.com.br/produtos/01/00/item/110344/0/110344040SZ.jpg" group-title="FILMES ON DEMAND",Se Beber Nao Case Parte ll
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1435.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Se Beber Não Case Parte lll" tvg-logo="http://topdezfilmes.org/wp-content/uploads/2013/07/l_1951261_7d4f0c97.jpg" group-title="FILMES ON DEMAND",Se Beber Não Case Parte lll
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1436.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Spirit o corcel indomavel" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0166813.jpg" group-title="FILMES ON DEMAND",Spirit o corcel indomavel
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1440.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Uma Saída de Mestre (2003)" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0317740.jpg" group-title="FILMES ON DEMAND",Uma Saída de Mestre (2003)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1437.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Chamas da Vingança (2004) 1080p" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/96/28/47/20457373.jpg" group-title="FILMES ON DEMAND",Chamas da Vingança (2004) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1450.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="12 Horas para Sobreviver - O Ano Da Eleição" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/4094724.jpg" group-title="FILMES ON DEMAND",12 Horas para Sobreviver - O Ano Da Eleição
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1446.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="3 Turco e um bebe" tvg-logo="http://megafilmesonline.net/wp-content/uploads/2016/12/3-turcos-e-um-bebe.jpg" group-title="FILMES ON DEMAND",3 Turco e um bebe
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1445.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Chegada" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2543164.jpg" group-title="FILMES ON DEMAND",A Chegada
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1447.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="As Loucas Aventuras de James West (1999) 1080p" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/30/16/19909908.jpg" group-title="FILMES ON DEMAND",As Loucas Aventuras de James West (1999) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1449.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Closer (2004)" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0376541.jpg" group-title="FILMES ON DEMAND",Closer (2004)
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1451.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Como se Fosse a Primeira Vez (2004) 1080p" tvg-logo="http://www.megafilmesonline.net/wp-content/uploads/2014/06/Como-Se-Fosse-A-Primeira-Vez.jpg" group-title="FILMES ON DEMAND",Como se Fosse a Primeira Vez (2004) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1452.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Diario De Uma Paixão (2004) 720p" tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/91/21/92/20135014.jpg" group-title="FILMES ON DEMAND",Diario De Uma Paixão (2004) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1453.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fechando Negocio (2017) 720p" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNWRkNWJjMzctZWVkMi00OGE4LWI5OTItOTZhNjBjMGI5OTEzXkEyXkFqcGdeQXVyMjMyMTg1OTM@._V1_UY268_CR15,0,182,268_AL_.jpg" group-title="FILMES ON DEMAND",Fechando Negocio (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1461.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Fragmentado (2017) 1080p" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/02/24/16/32/482058.jpg" group-title="TERROR",Fragmentado (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1460.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Moana Um Mar de Aventuras (2017) 720p" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3521164.jpg" group-title="FILMES ON DEMAND",Moana Um Mar de Aventuras (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1457.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sing - Quem canta seus males espanta (2017) 1080p" tvg-logo="http://www.claquete.com/fotos/galeria_fotos/40328.jpg" group-title="FILMES ON DEMAND",Sing - Quem canta seus males espanta (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1464.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Aladdin" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0103639.jpg" group-title="FILMES ON DEMAND",Aladdin
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1448.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Detona Ralph" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1772341.jpg" group-title="FILMES ON DEMAND",Detona Ralph
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1441.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Quatro Vidas de um Cachorro" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/1753383.jpg" group-title="FILMES ON DEMAND",Quatro Vidas de um Cachorro
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1420.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Nerve Um Jogo Sem Regras (2016) 1080p" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/3531824.jpg" group-title="FILMES ON DEMAND",Nerve Um Jogo Sem Regras (2016) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1456.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sandy Wexler (2017) 720p" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/5893332.jpg" group-title="FILMES ON DEMAND",Sandy Wexler (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1462.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sete Minutos Depois da Meia Noite (2017) 720p" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/18/13/58/389192.jpg" group-title="FILMES ON DEMAND",Sete Minutos Depois da Meia Noite (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1463.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sete Vidas (2008) 720p" tvg-logo="http://thewholepackage.com.br/wp-content/uploads/2016/08/will-smith-filme-sete-vidas.jpg" group-title="FILMES ON DEMAND",Sete Vidas (2008) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1465.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Uma Historia de Vingança (2017) 720p" tvg-logo="http://i.imgur.com/cTwi75B.jpg" group-title="FILMES ON DEMAND",Uma Historia de Vingança (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1459.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Bad Milo (2015) 720p" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/2274570.jpg" group-title="FILMES ON DEMAND",Bad Milo (2015) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1466.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Canibais (2016) 1080p" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/14/06/24/22/09/278160.jpg" group-title="TERROR",Canibais (2016) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1502.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Expresso do Amanhã (2015) 1080p" tvg-logo="http://br.web.img3.acsta.net/pictures/15/07/08/22/54/381448.jpg" group-title="AÇÃO",Expresso do Amanhã (2015) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1500.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick De Volta Ao Jogo (2014) 720p" tvg-logo="http://br.web.img3.acsta.net/pictures/14/10/27/20/07/170589.jpg" group-title="AÇÃO",John Wick De Volta Ao Jogo (2014) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1498.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="John Wick Um Novo Dia Para Matar (2017) 1080p" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/01/10/15/05/404753.jpg" group-title="AÇÃO",John Wick Um Novo Dia Para Matar (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1499.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Edward - Mãos De Tesoura (1990) 720p" tvg-logo="http://painel.tvdigitalsbl.net:8081/images/0099487.jpg" group-title="FILMES ON DEMAND",Edward - Mãos De Tesoura (1990) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1467.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="A Caverna Perigo Subterraneo (2017) 1080p" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMDRlNDc1MzktMjE2Yy00MDJkLWE2MzQtMmVhZThkZDgwNzQ5XkEyXkFqcGdeQXVyMzE1NjE5NDA@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="FILMES ON DEMAND",A Caverna Perigo Subterraneo (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1523.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Life (2017) 1080p  Legendado" tvg-logo="https://4.bp.blogspot.com/-Z8Eich-6g_M/WTGAL6uX-dI/AAAAAAAAxPA/XxHoColxlw0bE3Ddpulp-uLfqBZY634WgCLcB/s1600/Life%2B2017.jpg" group-title="FILMES ON DEMAND",Life (2017) 1080p  Legendado
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1525.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="O Corpo (2017) 1080p" tvg-logo="http://i.imgur.com/sdKyV4I.png" group-title="FILMES ON DEMAND",O Corpo (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1524.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Sereia predadora (2016) 1080p" tvg-logo="https://i2.wp.com/www.topfilmesplay.com/wp-content/uploads/2017/06/tTkI8RfbKrMDgFUX3wYGQl9pwQB-1.jpg?resize=203%2C300" group-title="TERROR",Sereia predadora (2016) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1522.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="127 Horas  (2010) 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/09/Poster127horas.jpeg/225px-Poster127horas.jpeg" group-title="FILMES ON DEMAND",127 Horas  (2010) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Renato12/Renato12/1503.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="### CANAIS ADULTO ###" tvg-logo="http://2.bp.blogspot.com/-JOplZ_5EcwA/Tg4NVqUvK1I/AAAAAAAAAVY/7LU0VwsVDpM/w1200-h630-p-k-no-nu/conteudo_adulto.png" group-title="ADULTOS",### CANAIS ADULTO ###
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 1" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 1
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1471.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 2" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 2
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1472.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 3" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 3
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1473.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 4" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 4
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1474.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 5" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 5
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1475.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 6" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 6
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 7" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 7
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 8" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 8
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1478.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 9" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 9
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1479.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 10" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 10
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 11" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 11
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 12" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 12
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 13" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 13
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 14" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 14
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 15" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 15
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1486.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 16" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 16
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1487.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 17" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 17
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1488.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 18" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 18
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1489.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 19" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 19
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1490.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADULTO 20" tvg-logo="http://images.mi.tv/channels/br_canal-adulto_m.png" group-title="ADULTOS",ADULTO 20
+http://painel.tvdigitalsbl.net:8081/live/Renato12/Renato12/1491.ts
